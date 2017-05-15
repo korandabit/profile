@@ -1,4 +1,4 @@
-# Welcome to my page!
+# Welcome to my personal website
 Currently under construction.
 ![Image](profPic.jpg)
 
