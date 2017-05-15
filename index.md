@@ -1,9 +1,8 @@
 # Welcome to my personal website
 
-![Image](profPic2.jpg)
-
 ## Graduate Student
-I study the psychology of language. [(about)](http://lcnl.wisc.edu/index.php/mark-koranda/)
+I study the psychology of language. 
+[(about)](http://lcnl.wisc.edu/index.php/mark-koranda/)
 
 ## Blog
-I write [short essays](http://www.thoughtrepair.wordpress.com) on Deaf culture and the Marines.
+I write short essays on [Deaf culture](https://thoughtrepair.wordpress.com/category/deafhood/) and [the Marines](https://thoughtrepair.wordpress.com/category/deployment/).
