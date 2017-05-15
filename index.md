@@ -1,7 +1,7 @@
 # Welcome to my personal website
 Currently under construction.
 
-![Image](profPic.jpg)
+![Image](profPic2.jpg)
 
 ## Graduate Student
 For information about [my research and the lab I'm in](http://lcnl.wisc.edu/index.php/mark-koranda/).
