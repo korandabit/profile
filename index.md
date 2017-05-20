@@ -1,3 +1,4 @@
+![Mark at the keys](profile_main.jpg)
 # Welcome to my personal website
 
 ## Graduate Student
