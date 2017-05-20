@@ -1,4 +1,4 @@
-![Mark at the keys](profile_main.jpg)
+![Mark at the keys](profile_main.gif)
 # Welcome to my personal website
 
 ## Graduate Student
