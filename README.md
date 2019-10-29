@@ -1,6 +1,4 @@
-# welcome to the backside of markkorandacom
+# backend of markkoranda.com
 
-raw files painted with Jekyll style.
-- a bit sparse, I'm afraid.
+Hi, here is the git repo for [my webpage](markkoranda.com).
 
-# frontside [this way](www.markkoranda.com)
