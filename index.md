@@ -2,11 +2,10 @@
 # Mark Koranda
 
 ## Graduate Student
-I study the psychology of language. 
-[(about)](http://lcnl.wisc.edu/index.php/mark-koranda/)
+I am a dissertator in the Psychology Department at the University of Wisconsin-Madison. Among other things, [I study](http://lcnl.wisc.edu/index.php/mark-koranda/) how words occur to a person while they are talking, in the [Language and Cognitive Neuroscience Lab](https://lcnl.wisc.edu). 
 
 ## Blog
-I write short essays on [Deaf culture](https://thoughtrepair.wordpress.com/2013/10/05/talk-about-deafhood/) and [the Marines](https://thoughtrepair.wordpress.com/2017/04/08/the-unedited-war-story-of-a-veteran/).
+I've explored aspects of my identity in [Deaf culture](https://thoughtrepair.wordpress.com/2013/10/05/talk-about-deafhood/) and [the military](https://thoughtrepair.wordpress.com/2017/04/08/the-unedited-war-story-of-a-veteran/).
 
-[CV](mark_koranda.pdf)
+Here is my academic history: [CV](docs/cv-mark_koranda.pdf)
 
