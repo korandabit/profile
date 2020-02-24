@@ -21,5 +21,6 @@ Much of my research is influenced by my identity and culture. You can get both a
 ## Skilled Reflection
 Language is a powerful tool. It is also a dangerous one. We can be lured into many linguistic vices like fantasies and false news. With [Skilled Reflection](https://skilledreflection.org) the power of language can help clarify reality through critical investigation of our individual experiences. 
 
-
+## Photography
+For a non-verbal experience, check out the photography at [Soul Snap](https://soulsnap.photos).
 
