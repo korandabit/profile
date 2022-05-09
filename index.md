@@ -1,7 +1,7 @@
 ![Mark at the keys](profile_main.gif)
 
 ## Lecturer  
-Having recently defended my dissertation, I am currently teaching introductory Psycholinguistics at the University of Wisconsin-Madison, while crafting the next step in my career. 
+Having recently defended my dissertation, I am currently teaching introductory Psycholinguistics at the University of Wisconsin-Madison, while crafting the next step in my career. I was recently recognized for [my advocacy work](https://grad.wisc.edu/diversity/graduate-student-service-scholarships/) by the University of Wisconsin-Madison (see also [Deaf Advocacy](Deaf Advocacy)).
 
 Last fall (2021) I had the pleasure of designing and teaching a Capstone course on applied writing interventions, "Language Use as Self-Growth", in which 23 students spent an entire semester writing to themselves, administering writing interventions on each other, and analyzing which words lead to learning.
 
@@ -21,7 +21,7 @@ I have also investigated:
 [My academic history (CV)](docs/cv-mark_koranda.pdf)
 
 ## Deaf Advocacy  
-Much of my research is influenced by my identity and culture. For me, basic science is inextricably linked to fundamental real-world problems. I consider myself bi-cultural, raised in both the Deaf community and the broader hearing culture. Check out my blog learn more about [the intersection of these communities](https://thoughtrepair.wordpress.com/2013/10/05/talk-about-deafhood/). 
+Much of my research is influenced by my identity and culture. For me, the goal of (even) basic science is to address real-world problems. I am bi-cultural, raised in both the Deaf community and the broader hearing culture. Check out my blog to learn more about [the intersection of these communities](https://thoughtrepair.wordpress.com/2013/10/05/talk-about-deafhood/). 
 
 ## Military Awareness  
 At the time of writing, it is March 8th, 2022. Russia has been waging war on Ukraine for almost two weeks, and "the West" is hardly half a year past a bloody withdrawal from a war of over 20 years. It is as good a time as any to reconcile our ideals with our actions. Though, in my view, any time is not enough time to reconcile. I served in Afghanistan with the Marine Corps over a decade ago. What is there to say about it all? War, like the human mind, is chaos. I also have other words about [military-identity politics](https://thoughtrepair.wordpress.com/2017/04/08/the-unedited-war-story-of-a-veteran/).
