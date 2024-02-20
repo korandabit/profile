@@ -1,7 +1,10 @@
 ![Mark at the keys](profile_main.gif)
 
-## Lecturer  
-Having recently defended my dissertation, I am currently teaching introductory Psycholinguistics at the University of Wisconsin-Madison, while crafting the next step in my career. I was recently recognized for [my advocacy work](https://grad.wisc.edu/diversity/graduate-student-service-scholarships/) by the University of Wisconsin-Madison.
+## Tech  
+I am currently applying my skills to the tech industry as a Software Design Engineer at [Edge RnD](edgernd.com).
+
+## PhD  
+I graduated with my PhD in Psychology from the University of Wisconsin-Madison, in 2022. I was recognized for [my advocacy work](https://grad.wisc.edu/diversity/graduate-student-service-scholarships/) by the University of Wisconsin-Madison.
 
 Last fall (2021) I had the pleasure of designing and teaching a Capstone course on applied writing interventions, "Language Use as Self-Growth", in which 23 students spent an entire semester writing to themselves, administering writing interventions on each other, and analyzing which words lead to learning.
 
