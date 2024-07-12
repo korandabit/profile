@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: post
 title: "The Safer Way to Boosting Productivity with AI"
+date: 2023-12-29
 tags: [ai, filetypes]
 ---
 
