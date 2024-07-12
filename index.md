@@ -1,5 +1,8 @@
 ![Mark at the keys](profile_main.gif)
 
+## [Blog](/blog)
+Check out my latest thoughts and writings on my [blog page](/blog).
+
 ## Tech  
 I am currently applying my skills to the tech industry as a Software Design Engineer at [Edge RnD](edgernd.com).
 
