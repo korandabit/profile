@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ![Mark at the keys](profile_main.gif)
 
 ## [Blog](/blog)
