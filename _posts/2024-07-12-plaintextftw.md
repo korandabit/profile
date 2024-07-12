@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Safer Way to Boosting Productivity with AI"
-date: 2023-12-29
+date: 2024-07-11
 tags: [ai, filetypes]
 ---
 
