@@ -3,3 +3,6 @@ title: Mark Koranda
 description: Thanks for stopping by.
 github:
   is_project_page: false
+permalink: /blog/:year/:month/:day/:title
+plugins:
+  - jekyll-feed
