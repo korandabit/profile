@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![Mark at the keys](profile_main.gif)
+![Mark at the keys](/images/profile_main.gif)
 
 ## [Blog](/blog)
 Check out my latest thoughts and writings on my [blog page](/blog).
