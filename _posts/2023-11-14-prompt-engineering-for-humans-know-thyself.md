@@ -5,13 +5,13 @@ date: 2023-11-14
 tags: [ai-collaboration, prompt-engineering, chatgpt, communication, self-reflection]
 ---
 
-When neurons and nodes speak the same language, the burden to reflect is halved, and your possibilities are doubled. Welcome to your newly augmented limbs. To truly embrace (your best AI-augmented self)[], your Googling-era skills will need a makeover. What follows are conversational techniques adapted to the strengths and limitations of ChatGPT (Chappy).
+When neurons and nodes speak the same language, the burden to reflect is halved, and your possibilities are doubled. Welcome to your newly augmented limbs. To truly embrace [your best AI-augmented self]({% post_url 2023-10-28-stop-avoiding-yourself-the-ai-in-you %}), your Googling-era skills will need a makeover. What follows are conversational techniques adapted to the strengths and limitations of ChatGPT (Chappy).
 
 !["When neurons and nodes speak the same language." Art created with DALL-E.](/images/neurons-and-nodes.jpeg)
 
 ## What are we talking about?
 
-As the human half of a relationship with blips and bloops, you'll be responsible for (starting the conversation)[] that plumbs the depths between our imagined worlds. Unlike past relationships with a computer, you need skills in letting go of control. You need to trust what is more important to you, and condition yourself to challenge the rest.
+As the human half of a relationship with blips and bloops, you'll be responsible for [starting the conversation]({% post_url 2023-10-28-stop-avoiding-yourself-the-ai-in-you %}) that plumbs the depths between our imagined worlds. Unlike past relationships with a computer, you need skills in letting go of control. You need to trust what is more important to you, and condition yourself to challenge the rest.
 
 Be confident in your direction, and less so about the requirements to get there. Prompts like "What am I asking about?" or "Help me better understand this problem" help ensure you're not accidentally assuming something that is in your way.[^1] You're both checking to make sure Chappy understands you, and your own understanding of what you're talking about.[^2]
 
