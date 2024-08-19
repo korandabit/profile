@@ -5,13 +5,13 @@ date: 2023-11-14
 tags: [ai-collaboration, prompt-engineering, chatgpt, communication, self-reflection]
 ---
 
-When neurons and nodes speak the same language, the burden to reflect is halved, and your possibilities are doubled. Welcome to your newly augmented limbs. To truly embrace your best AI-augmented self, your Googling-era skills will need a makeover. What follows are conversational techniques adapted to the strengths and limitations of ChatGPT (Chappy).
+When neurons and nodes speak the same language, the burden to reflect is halved, and your possibilities are doubled. Welcome to your newly augmented limbs. To truly embrace (your best AI-augmented self)[], your Googling-era skills will need a makeover. What follows are conversational techniques adapted to the strengths and limitations of ChatGPT (Chappy).
 
-!["When neurons and nodes speak the same language." Art created with DALL-E.](image-url-here)
+!["When neurons and nodes speak the same language." Art created with DALL-E.](/images/neurons-and-nodes.jpeg)
 
 ## What are we talking about?
 
-As the human half of a relationship with blips and bloops, you'll be responsible for starting the conversation that plums the depths between our imagined worlds. Unlike past relationships with a computer, you need skills in letting go of control. You need to trust what is more important to you, and condition yourself to challenge the rest.
+As the human half of a relationship with blips and bloops, you'll be responsible for (starting the conversation)[] that plumbs the depths between our imagined worlds. Unlike past relationships with a computer, you need skills in letting go of control. You need to trust what is more important to you, and condition yourself to challenge the rest.
 
 Be confident in your direction, and less so about the requirements to get there. Prompts like "What am I asking about?" or "Help me better understand this problem" help ensure you're not accidentally assuming something that is in your way.[^1] You're both checking to make sure Chappy understands you, and your own understanding of what you're talking about.[^2]
 
@@ -19,7 +19,7 @@ Only when you arrive will it be clear you aren't quite there. At the end of my c
 
 ## Set the conversational tone
 
-![ChatGPT allows you to save customized conversational preferences.](image-url-here)
+ChatGPT allows you to save customized conversational preferences.
 
 Over time, you'll discover aspects of the conversation you don't want to have to repeat, or help you'd like every time. These are the basic fibers of your connection, the part you want calcified into your nerves. It will take some self-reflection to name what it is that annoys you or excites you about Chappy.
 
@@ -31,7 +31,7 @@ And if you ever want Chappy to elaborate with a longer reply in a specific conve
 
 ## Is that the best I've got?
 
-![Steam punk Frankenstein Chappy. Art created with DALL-E](image-url-here)
+![Steam punk Frankenstein Chappy. Art created with DALL-E](/images/chappyTV-robot.png)
 
 Chappy's most powerful ability is to explore related dimensions of an idea. Like an entire premium cable subscription, of personally customized, on-demand programming. If you can name the channel and it's exact description, you can pretty much have it. Now, you no longer need a good cooking show on X, you want the 10 best compliments to what you specifically ate this week.
 
@@ -65,7 +65,7 @@ Sometimes you want help seeing your situation from a new angle, but you're not s
 2. Different but related situations
 3. Solutions from 2 adapted to 1
 
-Here's the technique applied to the challenges of working from home (full conversation):
+Here's the technique applied to the challenges of working from home (full conversation)[https://chat.openai.com/share/14dffa71-6ff3-4081-8b4a-a4f8e72991b1]:
 
 1. Give me three of the most promising solutions for working from home, considering I struggle to maintain attention in my one-bedroom apartment.
 2. Identify three analogous scenarios, where humans are cooped up beyond reason. These scenarios must not be directly related to working from home. For each, name a key innovation that successfully improved circumstances.
@@ -78,6 +78,8 @@ Chappy's solutions will strongly depend on the out-of-context examples. By trian
 This technique has endlessly creative variations. The basic idea is something like smashing atoms of semantics against each other until the explosion glows the color you were looking for. What revolutionary changes would happen in psychology if historians had their way in reshaping its direction without recourse? How about physicists on economics? How about insights from online gamers applied to diesel engine mechanics? Pick things you've never been able to ask before, tie them together, and fly away.
 
 ## Through the Monster's Eyes
+
+!()[/images/monster.png]
 
 The selection of techniques I've shared is far from complete. You could spend weeks devoted to decomposing the semantics of a prompt or how to richly cross-check your new insights with competing and converging ideas and still there will be no hope in mastering Chappy before it masters you. The game of prompt engineering is one of exploring the various shades and angles of lenses that make up a crystal of billions of diffracted angles, one dimension at a time.
 
