@@ -1,18 +1,28 @@
 ---
+author: Mark Koranda
+categories:
+- Military
+- Psychic lenses
+date: '2013-04-17 00:00:00'
+excerpt: gif) Me writing, en-route to Afghanistan, Nov. 2009 I want you to try to
+  imagine something. Youre the son of two deaf parents, an aspiring teenage novelist
+  struggling to make the leap to college, so you join the Marines. Why the Marines?
 layout: post
-title: "Preface: One of those guys"
-date: 2013-04-17 05:35:11 +0000
-author: Unknown
-categories: ['Military', 'Psychic lenses']
-tags: ['Afghanistan', 'deployment', 'empathy', 'existential', 'Marine', 'perspective']
+tags:
+- Afghanistan
+- deployment
+- empathy
+- existential
+- Marine
+- perspective
+title: 'Preface: One of those guys'
 ---
 
-[caption id="attachment_167" align="alignnone" width="500"][<img class="size-full wp-image-167" alt="Me writing, en-route to Afghanistan, Nov. 2009" src="http://thoughtrepair.wordpress.com/wp-content/uploads/2013/04/img_5996.gif" width="500" height="317" />](http://thoughtrepair.wordpress.com/wp-content/uploads/2013/04/img_5996.gif) Me writing, en-route to Afghanistan, Nov. 2009[/caption]
-<p style="text-align:left;">I want you to try to imagine something. You're the son of two deaf parents, an aspiring teenage novelist struggling to make the leap to college, so you join the Marines. Why the Marines? To get a taste of something raw, for good writing material. You go to boot camp, learn some language (Arabic and Pashto), dig into the Marine warrior culture, and deploy to Afghanistan. You're me, three years ago. By then of course, I had somehow changed my mind and wanted to be a psychologist.
 
 
-<p style="text-align:left;"><!--more-->
 
+(http://thoughtrepair.wordpress.com/wp-content/uploads/2013/04/img_5996.gif) Me writing, en-route to Afghanistan, Nov. 2009
+I want you to try to imagine something. You're the son of two deaf parents, an aspiring teenage novelist struggling to make the leap to college, so you join the Marines. Why the Marines? To get a taste of something raw, for good writing material. You go to boot camp, learn some language (Arabic and Pashto), dig into the Marine warrior culture, and deploy to Afghanistan. You're me, three years ago. By then of course, I had somehow changed my mind and wanted to be a psychologist.
 
 Now that I've won your readership in the second paragraph, I'd actually like you to spend a little time re-reading the first one. If you're like most people, there's a part (or three) in there that you disconnected from, that re-translated what I wrote to "one of those guys." Resist the re-translation and automatic categorization.
 
@@ -34,4 +44,4 @@ My hope is this writing will be an exercise in a different kind of *thought repa
 
 Please enjoy. I was serious about rewarding you with Reese's.
 
-Continue reading:  <a title="1: It rained" href="http://thoughtrepair.wordpress.com/2013/04/17/1-it-rained/">1: It rained</a>
+Continue reading:  1: It rained

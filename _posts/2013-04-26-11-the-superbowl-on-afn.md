@@ -1,19 +1,31 @@
 ---
+author: Mark Koranda
+categories:
+- Military
+date: '2013-04-26 00:00:00'
+excerpt: jpg) In Hemingways A Farewell to Arms, the WWI soldiers had their horse races
+  to watch. Weve got our football games. But out here, the sports arent aired on the
+  high-production networks that sponsor them, such as NBC, Fox, or ESPN, theyre aired
+  with homeg
 layout: post
-title: "11. The Superbowl on AFN"
-date: 2013-04-26 05:14:00 +0000
-author: Unknown
-categories: ['Military']
-tags: ['Afghanistan', 'AFN', 'humor', 'Marine', 'Superbowl', 'USMC']
+tags:
+- Afghanistan
+- AFN
+- humor
+- Marine
+- Superbowl
+- USMC
+title: 11. The Superbowl on AFN
 ---
+
+
+
 
 **Feb 8th, 2010 (Entry 15)**
 
-[<img class="size-full wp-image-224 aligncenter" src="http://thoughtrepair.wordpress.com/wp-content/uploads/2013/04/afn.jpg" alt="AFN" width="341" height="148" />](http://thoughtrepair.wordpress.com/wp-content/uploads/2013/04/afn.jpg)
+(http://thoughtrepair.wordpress.com/wp-content/uploads/2013/04/afn.jpg)
 
 In Hemingway's "A Farewell to Arms," the WWI soldiers had their horse races to watch. We've got our football games. But out here, the sports aren't aired on the high-production networks that sponsor them, such as NBC, Fox, or ESPN, they're aired with homegrown military programming on AFN.
-
-<!--more-->
 
 AFN: The American Forces Network. It's the military's television, which rebroadcasts many shows, games, and movies out of the charity of American networks. The downside to this luxury is military rate commercials. While you might think the worst of television is commercial breaks, if you ever have to suffer through military programming and you're an avid tube-viewer, you'll never take the directorship and production of American commercials for granted again.
 
@@ -41,4 +53,4 @@ To be honest, we didn't start laughing and joking about the commercials until at
 
 Pizza Hut fighting is the war on terror by being the lone (chain) restaurant out here, but morale is a great asset to a war. For the masses, our spirits are marked by the driving entertainment back home. I stayed an hour and a half after a twelve hour shift a few weeks ago to watch the Vikings in the NFC championship overtime, probably just to be a part of the camaraderie.
 
-[12. Grenades, Cigarettes or Melons](https://thoughtrepair.wordpress.com/2013/04/26/12-grenades-cigarettes-or-melons/)
+({{ site.baseurl }}{% post_url 2013-04-27-12-grenades-cigarettes-or-melons %})

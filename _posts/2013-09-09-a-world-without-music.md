@@ -1,17 +1,31 @@
 ---
+author: Mark Koranda
+categories:
+- Deafhood
+- Psychic lenses
+date: '2013-09-09 00:00:00'
+excerpt: I love what music does to my ear drums. How it affects my emotions. For that
+  matter, though, I love the mystery of flavors on my taste buds or feeling the force
+  of the ocean on my body. The existential appreciation for these sensory experiences
+  stop there
 layout: post
-title: "A World Without Music"
-date: 2013-09-09 03:09:50 +0000
-author: Unknown
-categories: ['Deafhood', 'Psychic lenses']
-tags: ['audism', 'classic rock', 'communication', 'deaf', 'emotion', 'music', 'sound']
+tags:
+- audism
+- classic rock
+- communication
+- deaf
+- emotion
+- music
+- sound
+title: A World Without Music
 ---
+
+
+
 
 I love what music does to my ear drums. How it affects my emotions. For that matter, though, I love the mystery of flavors on my taste buds or feeling the force of the ocean on my body. The existential appreciation for these sensory experiences stop there. I will not write an ode to the grandeur of a melody, ever. As much as I love music, I have to believe life would be just as good without it. Let me tell you why.
 
-[caption id="attachment_341" align="alignnone" width="500"][<img class="size-large wp-image-341" src="http://thoughtrepair.wordpress.com/wp-content/uploads/2013/09/img_9498b.jpg?w=500" alt="IMG_9498b" width="500" height="222" />](http://thoughtrepair.wordpress.com/wp-content/uploads/2013/09/img_9498b.jpg) An ASL interpreter signs my last concert at St. Thomas. That's me in the glasses second row to the left of the bass thinking deeply about the meaning of music.[/caption]
-
-<!--more-->
+(http://thoughtrepair.wordpress.com/wp-content/uploads/2013/09/img_9498b.jpg) An ASL interpreter signs my last concert at St. Thomas. That's me in the glasses second row to the left of the bass thinking deeply about the meaning of music.
 
 My odd attitude about music starts with classic rock. As a teen I didn't care for it as much as my friends, but it took a while to realize why. Back when dad was the strongest man in the world he was telling us why the Stones, Led Zeppelin or the Eagles were king. Well your dad, but not mine. The Stones taste like stale vegetables to me, probably because my parents didn't listen to them. They've never heard a Beatles song. In fact, they have never endorsed a musician in my life. My parents are deaf.
 

@@ -1,15 +1,28 @@
 ---
+author: Mark Koranda
+categories:
+- Analytical Lenses
+date: '2012-09-08 00:00:00'
+excerpt: There is a profound paradox that comes from a literate society. The modern
+  human ability to consume information and expand our awareness of possibilities leads
+  to entrenchment in our conclusions, and in different ways.
 layout: post
-title: "Political Debate"
-date: 2012-09-08 00:07:36 +0000
-author: Unknown
-categories: ['Analytical Lenses']
-tags: ['chess', 'conflict resolution', 'debate', 'diplomacy', 'discourse', 'metaphor', 'opinion', 'politics']
+tags:
+- chess
+- conflict resolution
+- debate
+- diplomacy
+- discourse
+- metaphor
+- opinion
+- politics
+title: Political Debate
 ---
 
-There is a profound paradox that comes from a literate society. The modern human ability to consume information and expand our awareness of possibilities leads to entrenchment in our conclusions, and in different ways. The assumption might have been that information dissemination would lead to greater understanding and universality of ideas, but language often has been the bearer of destruction. With the advent of written information, the pen may have been mightier than the sword, but it has signed many acts of war. This entry is an attempt to understand why. Here, I treat a debate as an archetype of all differences of opinion and values, and the natural interactions between them. My goal is to give perspective on the nature of dialog with someone who doesn't share your opinions completely, and offer considerations of carrying on the dialog without the need to pull a blade out or go home to plan an ambush.
 
-<!--more-->
+
+
+There is a profound paradox that comes from a literate society. The modern human ability to consume information and expand our awareness of possibilities leads to entrenchment in our conclusions, and in different ways. The assumption might have been that information dissemination would lead to greater understanding and universality of ideas, but language often has been the bearer of destruction. With the advent of written information, the pen may have been mightier than the sword, but it has signed many acts of war. This entry is an attempt to understand why. Here, I treat a debate as an archetype of all differences of opinion and values, and the natural interactions between them. My goal is to give perspective on the nature of dialog with someone who doesn't share your opinions completely, and offer considerations of carrying on the dialog without the need to pull a blade out or go home to plan an ambush.
 
 Here's what you likely know from experience: countless debates at restaurants and bars, on Facebook walls, in classrooms or workspaces, and in your head at two a.m. responding to an ignorant comment made by the old man in the bread aisle to his wife about the *real *way to fix the economy. Even away from the battlefront it’s more of the same: endless talks about what else could be done to get people on "our side," and how much easier life would be if *they* were just a little more realistic. We are a culture of information, where different conclusions put us in different camps, and a culture with few tools to breach camp walls civilly.
 

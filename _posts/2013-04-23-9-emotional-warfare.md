@@ -1,20 +1,34 @@
 ---
+author: Mark Koranda
+categories:
+- Military
+date: '2013-04-23 00:00:00'
+excerpt: '*When we were still in Hawaii, we learned a close Marine had committed suicide.
+  There wasnt much opportunity to reconcile this during predeployment training. A
+  series of heavy fatalities awakened the need to connect with the unresolved emotions
+  service me'
 layout: post
-title: "9. Emotional Warfare"
-date: 2013-04-23 04:36:56 +0000
-author: Unknown
-categories: ['Military']
-tags: ['Afghanistan', 'combat', 'death', 'deployment', 'fatality', 'Marine', 'suicide', 'tribute to the fallen']
+tags:
+- Afghanistan
+- combat
+- death
+- deployment
+- fatality
+- Marine
+- suicide
+- tribute to the fallen
+title: 9. Emotional Warfare
 ---
+
+
+
 
 *When we were still in Hawaii, we learned a close Marine had committed suicide. There wasn't much opportunity to reconcile this during predeployment training. A series of heavy fatalities awakened the need to connect with the unresolved emotions service members so often never have a chance to address. In my first year at St. Thomas, I rewrote this as a story that was published in the Summit Avenue Review. It appears here in its original form.*
 
-[caption id="attachment_286" align="alignnone" width="500"][<img class="size-large wp-image-286" src="http://thoughtrepair.wordpress.com/wp-content/uploads/2013/04/casualty_return_afgha_davi_t618.jpg?w=500" alt="AP Photo/Steve Ruark: A Marine carry team moves the fallen onto a plane to be returned to the states." width="500" height="307" />](http://thoughtrepair.wordpress.com/wp-content/uploads/2013/04/casualty_return_afgha_davi_t618.jpg) AP Photo/Steve Ruark: A Marine carry team moves the fallen onto a plane to be returned to the states.[/caption]
+(http://thoughtrepair.wordpress.com/wp-content/uploads/2013/04/casualty_return_afgha_davi_t618.jpg) AP Photo/Steve Ruark: A Marine carry team moves the fallen onto a plane to be returned to the states.
 
 **Blackness**
 I suppose you'd call it meditation, contemplation, or being lost. I've stared into the blackness so many times now. The sheer unknown, non-attributed void heightens awareness and thought. I look for myself there. I look for other answers. It's an act of humanity, an act of living to stare, to wonder, to attempt to know what there is amidst the blackness. After a while, it seems as if you're staring at death.
-
-<!--more--><!--more-->
 
 **River City**
 The computer screen is staring back at me. A technological phenomenon that has latched itself to my hands and eyes, internet brings me multimedia messages from thousands of miles away. Checking my mail and keeping my family updated has become an inextinguishable habit. I log in, double click on Mozilla Firefox, Microsoft Outlook, let the computer percolate, and I'm suddenly a member of my family again. But not tonight.
@@ -75,4 +89,4 @@ What if they know? What if the Americans bomb tonight, or come storming in the h
 
 Anonymous spires twenty feet tall create a forest of waiting at the base of the mountain. We know the demon, and we're here to get rid of it.
 
-[10. A fog of war](https://thoughtrepair.wordpress.com/2013/04/24/10-a-fog-of-war/)
+({{ site.baseurl }}{% post_url 2013-04-25-10-a-fog-of-war %})

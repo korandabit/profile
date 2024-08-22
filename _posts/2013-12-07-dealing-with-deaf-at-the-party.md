@@ -1,15 +1,28 @@
 ---
+author: Mark Koranda
+categories:
+- Deafhood
+date: '2013-12-07 00:00:00'
+excerpt: You know when youre in a crowded room so busy its difficult to hear the person
+  three inches from you? I might ask them to speak up a few times, maybe repeat themselves,
+  but after a few times I become self-conscious.
 layout: post
-title: "Dealing with Deaf at the party"
-date: 2013-12-07 20:20:02 +0000
-author: Unknown
-categories: ['Deafhood']
-tags: ['communication', 'culture', 'etiquette', 'language barrier', 'party', 'perspective']
+tags:
+- communication
+- culture
+- etiquette
+- language barrier
+- party
+- perspective
+title: Dealing with Deaf at the party
 ---
+
+
+
 
 You know when you're in a crowded room so busy it's difficult to hear the person three inches from you? I might ask them to speak up a few times, maybe repeat themselves, but after a few times I become self-conscious. It's easier to pretend to follow along and wait until I catch the next bit. But then its a joke that has everyone laughing! Hold up, repeat it please.
 
-Imagine you can keep turning the volume down on your ear. What's Jon suddenly so serious about? Something funny? <!--more-->Oh shit, Tyler shouldn't have said whatever it was that he just said that made Sam hit him.* How many times would you ask a crowd to repeat something for your sake? I mean after a while isn't it better not to draw attention to yourself and be happy letting the rest enjoy themselves? They're your friends and it's nice to see them having fun, and they're comfortable with you watching along.
+Imagine you can keep turning the volume down on your ear. What's Jon suddenly so serious about? Something funny? Oh shit, Tyler shouldn't have said whatever it was that he just said that made Sam hit him.* How many times would you ask a crowd to repeat something for your sake? I mean after a while isn't it better not to draw attention to yourself and be happy letting the rest enjoy themselves? They're your friends and it's nice to see them having fun, and they're comfortable with you watching along.
 
 I was made without the ear-volume problem, and grew up knowing that. I am absolutely amazed at my parents and other Deaf's tolerance at this natural awkwardness: It's not Jon and Tyler's fault they socialize verbally, and even if God-bless-em they could sign, it's nobody's fault that simultaneous production in speech and sign language is a pain in the ass. (Gold prize to the hearing signer that can capture the pun of an English joke in ASL on the fly.)
 
@@ -25,8 +38,8 @@ Another way of dealing with this intrinsic inequality is to keep the interpretin
 
 But the Deaf aren't asking you to deal with this, really. If there's something they're amazing at it's absorbing the social awkwardness for the hearing's sake. Take it from a hearing person who's lived this truth, the deaf are predominantly 'dealing with it', not the hearing. But let's contribute a little. Short of learning sign, there's an easy step in the right direction we all could do more often. Pause your lips, make eye-contact, and turn your ears off for a minute. Then do friendly things, starting with smiling. Now, inevitably you'll overhear a joke and not be able to help yourself to enjoy it. That's fine! Help yourself to the joke, it won't be insulting. I promise, even that short moment with your ears off will be fully appreciated.
 
-**My dad loves "The Three Stooges", whose humor is quite brilliantly little more than nonverbal behavior in <em>awkward social interactions*.</em>
+**My dad loves "The Three Stooges", whose humor is quite brilliantly little more than nonverbal behavior in *awkward social interactions*.*
 
-***Out in public, the average customer-service agent, cashier or salesperson didn't get the paid training to 'deal' with a deaf customer in a timely yet satisfactory way. My mom always has her receipt ready, product immaculately repackaged, and the particular store's return policy/procedure memorized, so no questions or answers are needed when she presents all necessary material <em>(grab replacement item first or go to the clerk first?)*. Don't worry about drive-thrus, they're not an option.</em>
+***Out in public, the average customer-service agent, cashier or salesperson didn't get the paid training to 'deal' with a deaf customer in a timely yet satisfactory way. My mom always has her receipt ready, product immaculately repackaged, and the particular store's return policy/procedure memorized, so no questions or answers are needed when she presents all necessary material *(grab replacement item first or go to the clerk first?)*. Don't worry about drive-thrus, they're not an option.*
 
-**More: **<a title="Talk about Deafhood*" href="http://thoughtrepair.wordpress.com/2013/10/05/talk-about-deafhood/">Talk about Deafhood</a>, <a title="The Definition of Deaf" href="http://thoughtrepair.wordpress.com/2013/10/26/the-definition-of-deaf/">The Definition of Deaf</a>
+**More: **Talk about Deafhood, The Definition of Deaf

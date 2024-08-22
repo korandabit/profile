@@ -1,17 +1,29 @@
 ---
+author: Mark Koranda
+categories:
+- Psychic lenses
+date: '2013-03-23 00:00:00'
+excerpt: Cognitive therapy often aims to provide healthier ways to interact with and
+  understand reality.
 layout: post
-title: "How to climb mountains of grief: don't."
-date: 2013-03-23 03:48:23 +0000
-author: Unknown
-categories: ['Psychic lenses']
-tags: ['cognition', 'depression', 'emotion', 'grief', 'growth', 'healing', 'metaphor', 'therapy']
+tags:
+- cognition
+- depression
+- emotion
+- grief
+- growth
+- healing
+- metaphor
+- therapy
+title: 'How to climb mountains of grief: don''t.'
 ---
+
+
+
 
 Cognitive therapy often aims to provide healthier ways to interact with and understand reality. One of the more problematic components of emotional struggles that I think can benefit thoroughly from attention to our thinking is the following: A lot of unnecessary anxiety and stress over personal problems comes from a perceived distance, or isolation from others. Feeling depressed is lonely as hell.
 
 When I sense this is the case with someone I'm talking to, I try to illustrate the conflict in emotional isolation. We all have a sense of what loss and hurt feel like, but no one completely knows your situation and exactly how it makes you feel. This two-sided truth to our experiences is exactly what permits us to be social (shared component), and individual (unsharable). When something profoundly emotional happens, half the dilemma is how obvious and discouraging the unsharable component is. But quite importantly, it doesn't make it more true. In other words, attention and sensitivity to the unsharable part of your experience does not make you more alone.
-
-<!--more-->
 
 Lately, in talking with people who are sorting their feelings out, I have been using a distinction between two metaphors to illustrate this point. Often emotional loss feels like a mountain we're climbing, or more generally, a journey. Sometimes we color the destination with particular expectations. There are many troublesome things about this metaphor, but its emphasis on external isolation and  an all-or-nothing conquering especially bother me. If on day thirteen of your climb you feel deeply discouraged you not only are completely alone, but exhausted at the thought of going "up" or "down."
 

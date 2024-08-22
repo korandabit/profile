@@ -1,18 +1,33 @@
 ---
+author: Mark Koranda
+categories:
+- Deafhood
+date: '2015-02-23 00:00:00'
+excerpt: 'The problem with arguing rationally about issues of identity is that one
+  risks missing the forest for the trees. In a formal sense, a position should stand
+  exclusively on the merit of its arguments. But often the central reason for arguing
+  is personal.'
 layout: post
-title: "Irrationally speaking"
-date: 2015-02-23 06:18:51 +0000
-author: Unknown
-categories: ['Deafhood']
-tags: ['ASL', 'audism', 'cochlear implant', 'CODA', 'deaf', 'emotion', 'identity', 'rational']
+tags:
+- ASL
+- audism
+- cochlear implant
+- CODA
+- deaf
+- emotion
+- identity
+- rational
+title: Irrationally speaking
 ---
 
-<p style="text-align:center;">*To Mary, who encouraged me to share more personally.*
 
+
+
+*To Mary, who encouraged me to share more personally.*
 
 The problem with arguing rationally about issues of identity is that one risks missing the forest for the trees. In a formal sense, a position should stand exclusively on the merit of its arguments. But often the central reason for arguing is personal and irrational. In my essays on Deafhood, I've tried to shine light on different sides of the same pride, in hopes of showing a Deafhood fundamentally self-standing, yet affected, often adversely, by a hearing world. It occurs to me that in the context of an issue that affects the culture and identity of a people, it may be crucial to tell you that behind an attempt at objectivity, I have personal, emotional commitments to what I am arguing.
 
-I want to take a moment to reiterate what stands even if we don't see eye to eye on differences in hearing status. In <a title="Deafhood unheard" href="https://thoughtrepair.wordpress.com/2014/10/04/deafhood-unheard/">"Deafhood unheard"</a> I mentioned that in moments of frustration the Deaf are more likely to fault social differences (language barriers to public services) than anatomical ones ("fixing" their lack of hearing). But even there, the inherently emotional argument was nearly invisible. I've found a clearer way to point at the heart without appealing to logic. What I want to share is abstract and almost uninterpretable. Let me tell you about a dream I had last night.<!--more-->
+I want to take a moment to reiterate what stands even if we don't see eye to eye on differences in hearing status. In "Deafhood unheard" I mentioned that in moments of frustration the Deaf are more likely to fault social differences (language barriers to public services) than anatomical ones ("fixing" their lack of hearing). But even there, the inherently emotional argument was nearly invisible. I've found a clearer way to point at the heart without appealing to logic. What I want to share is abstract and almost uninterpretable. Let me tell you about a dream I had last night.
 
 I dreamed I was inducted into a serving class in a militant society, as if I were a recruit again in boot camp. Some who had been there longer and were experienced were helping me learn the procedures. Still too inexperienced to explicitly lead, I quickly found that the best way I could give to the community was through outspoken positive morale. We were a small group from a range of backgrounds, trying to establish unity in routines, and identify our role as a serving class. We shuffled uncertainly in a food line waiting our turn, and waiting to have a better understanding of how oppressive our lives would be.
 
@@ -22,25 +37,21 @@ Because she could sign and talk, she was more like me than anyone I knew there. 
 
 As an adult, she would get used to explaining over and over again what it's like having deaf parents, confirming the bias that it must indeed be different, even if neat. She might see the subtle and not subtle effects of a society that never learned her parents' language, and didn't give them enough opportunity to learn it themselves. And the occasional astounding reality of the hearing deciding for the deaf what's best, *without discussion.*
 
-I'm trying to contribute to such a discussion, but a lifetime of this hasn't made for a promising outlook. For example, 95% of the world lives largely unaffected by hearing status and is perhaps unaware of its effect on the other 5%. [Audism ](http://libguides.gallaudet.edu/content.php?pid=114455&sid=989379)doesn't get noticed (or appear in spell-checkers) or offend anyone outside its victims, let alone inspire apology or self-reflection. The experience of many emotionally affects the experience of the few. As a bystander, it emotionally affects me.
+I'm trying to contribute to such a discussion, but a lifetime of this hasn't made for a promising outlook. For example, 95% of the world lives largely unaffected by hearing status and is perhaps unaware of its effect on the other 5%. [Audism](http://libguides.gallaudet.edu/content.php?pid=114455&sid=989379)doesn't get noticed (or appear in spell-checkers) or offend anyone outside its victims, let alone inspire apology or self-reflection. The experience of many emotionally affects the experience of the few. As a bystander, it emotionally affects me.
 
 I identify with a group, the Deaf, that is often offended by most of you. This is not an argument or an attack, it's an observation about lives (including mine). Before you discount it as emotional or angry, see that it's lived. I challenge you to interface your rational, logical opinion on the topic with the *lives* your opinion affects.
 
 Now, let's get back to talking about it rationally.
 
- 
-
 For the more rational essays
-<ul>
-	<li style="text-align:left;"><a title="A World without Music" href="https://thoughtrepair.wordpress.com/2013/09/08/a-world-without-music/">A World without Music</a></li>
-	<li style="text-align:left;"><a title="Talk about Deafhood*" href="https://thoughtrepair.wordpress.com/2013/10/05/talk-about-deafhood/">Talk about Deafhood</a></li>
-	<li style="text-align:left;"><a title="The Definition of Deaf" href="https://thoughtrepair.wordpress.com/2013/10/26/the-definition-of-deaf/">The Definition of Deaf</a></li>
-	<li style="text-align:left;"><a title="Dealing with Deaf at the party" href="https://thoughtrepair.wordpress.com/2013/12/07/dealing-with-deaf-at-the-party/">Dealing with Deaf at the party</a></li>
-	<li style="text-align:left;"><a title="Deafhood unheard" href="https://thoughtrepair.wordpress.com/2014/10/04/deafhood-unheard/">Deafhood Unheard</a></li>
-	<li style="text-align:left;"><a title="Language with a bionic ear" href="https://thoughtrepair.wordpress.com/2014/10/10/language-with-a-bionic-ear/">Language with a Bionic Ear</a></li>
-	<li style="text-align:left;"><a title="Talk about Deafhood: Treating Hearing Status" href="https://thoughtrepair.wordpress.com/2014/12/07/treating-hearing-status/">Treating Hearing Status</a></li>
-</ul>
- 
+
+	A World without Music
+	Talk about Deafhood
+	The Definition of Deaf
+	Dealing with Deaf at the party
+	Deafhood Unheard
+	Language with a Bionic Ear
+	Treating Hearing Status
 
 -----------------------------------------------------------GENERAL COMMENT: I've received a number of comments about the dream sequence, and it's encouraged me to elaborate on an understated point.
 

@@ -1,17 +1,30 @@
 ---
+author: Mark Koranda
+categories:
+- Analytical Lenses
+date: '2013-02-26 00:00:00'
+excerpt: 'We live in an information age. We are consumers of it. The impact of good
+  knowledge consumption is something championed by humans: we can alter our behavior
+  and our environment (hopefully) for the better.'
 layout: post
-title: "Information consumption in an information age"
-date: 2013-02-26 00:22:16 +0000
-author: Unknown
-categories: ['Analytical Lenses']
-tags: ['information', 'information consumption', 'learning', 'media', 'methodology', 'research', 'science', 'statistics']
+tags:
+- information
+- information consumption
+- learning
+- media
+- methodology
+- research
+- science
+- statistics
+title: Information consumption in an information age
 ---
+
+
+
 
 We live in an information age. We are consumers of it. The impact of good knowledge consumption is something championed by humans: we can alter our behavior and our environment (hopefully) for the better. In this way, all of us intuitively understand and employ this to the best of our ability. My goal of this article is to extend that last notion: "best of our ability."
 
 There are pitfalls to knowledge consumption. Sometimes it's a gluttonous endeavor. You may be familiar with the adage, "We read what we like." I think it usually is worse than that: We believe what we like regardless of what we read. That is, if you watch a news report by a competing view, you have the ability to qualify and even dismiss the presented information. After all, there is no such thing as a definitive answer, these days.
-
-<!--more-->
 
 When we're dealing with basic functions of living and contradicting information, that's fine, because if you don't believe me when I tell you, "Your arm is on fire," eventually the information will get to you by experience, and your beliefs will likely alter. In other words, really, listening doesn't need to be relevant at the level of imminent survival, because experience informs us better, and more relevantly addresses our individual needs. In this example, you know better than I do. My observations of your arm are nowhere near the authority the sensory neurons in your arm can faithfully provide you.
 

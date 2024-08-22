@@ -1,15 +1,27 @@
 ---
+author: Mark Koranda
+categories:
+- Psychic lenses
+date: '2013-03-24 00:00:00'
+excerpt: Four years ago I was in a bar talking with a newly licensed therapist. I
+  told her I deeply resented psychologists and despised the thought of therapy. But
+  when she asked me why, I didnt really have an answer.
 layout: post
-title: "Quit psychoanalyzing me"
-date: 2013-03-24 07:58:09 +0000
-author: Unknown
-categories: ['Psychic lenses']
-tags: ['analyze', 'conversation', 'good', 'judging', 'labels', 'psychoanalysis', 'psychology']
+tags:
+- analyze
+- conversation
+- good
+- judging
+- labels
+- psychoanalysis
+- psychology
+title: Quit psychoanalyzing me
 ---
 
-Four years ago I was in a bar talking with a newly licensed therapist. I told her I deeply resented psychologists and despised the thought of therapy. But when she asked me why, I didn't really have an answer. I got the sense she was getting at something obviously vulnerable in me, and defensively backed out of the conversation. I never let the instance go, and began trying to answer the question for myself. This fall I will begin graduate studies in cognitive psychology as the next step in my profession of love for the discipline. Surely, this was all part of her carefully executed plan in enigmatically asking, "Why?" I'll show her, yet.
 
-<!--more-->
+
+
+Four years ago I was in a bar talking with a newly licensed therapist. I told her I deeply resented psychologists and despised the thought of therapy. But when she asked me why, I didn't really have an answer. I got the sense she was getting at something obviously vulnerable in me, and defensively backed out of the conversation. I never let the instance go, and began trying to answer the question for myself. This fall I will begin graduate studies in cognitive psychology as the next step in my profession of love for the discipline. Surely, this was all part of her carefully executed plan in enigmatically asking, "Why?" I'll show her, yet.
 
 Now that I've come to be identified as a student of psychology, I have awoken on the other side of the question:
 

@@ -1,18 +1,29 @@
 ---
+author: Mark Koranda
+categories:
+- Military
+date: '2013-04-18 00:00:00'
+excerpt: '**Dec. (Entry 8)** Small puddles spread out. The flat hard land were staked
+  down on is a breeding ground for mud. If it rains a centimeter, Camp Leatherneck
+  is suddenly the land of four billion ponds.'
 layout: post
-title: "4. Haircut hysteria"
-date: 2013-04-18 17:19:38 +0000
-author: Unknown
-categories: ['Military']
-tags: ['Afghanistan', 'deployment', 'haircut', 'Marine', 'mud', 'regulation']
+tags:
+- Afghanistan
+- deployment
+- haircut
+- Marine
+- mud
+- regulation
+title: 4. Haircut hysteria
 ---
+
+
+
 
 **Dec. ? (Entry 8)**
 Small puddles spread out. The flat hard land we're staked down on is a breeding ground for mud. If it rains a centimeter, Camp Leatherneck is suddenly the land of four billion ponds. It took a full night of wispy drizzle, but the sky managed to donate about an inch. Now when the clouds clear up, the water just walks right back to the sky. The Afghan atmosphere has a comprehensive recall.
 
 It also leaves the face and lips and this is why chap stick is my candy of choice. Chapstick. It's the third box down, with the hand sanitizers. You know, surplus goods. As well stocked as that shelf is, there's nothing in there to keep my hair within standards. It's about time to clean-up the scruff on my head. One of the sacraments of the Marine Corps, even (or especially) deployed, is the getting of a fresh, regular, haircut.
-
-<!--more-->
 
 At 6:30 in the morning, me and a coworker leave work to get a haircut. Shift isn't over until 7 am. The barber isn't open until 7 am. Getting a haircut is serious business. As dusk opens up, the canvas slowly coloring, Marines equally populate outside the entrance, a desert camo coloring the desert ground.
 
@@ -28,4 +39,4 @@ Suddenly an explosion of early 90's hiphop bellows from station two. Completely
 
 Because it's so dry and desolate out here, the smallest thing ignites the greatest interest. Co-barber with the boots with the fur is getting her dosage of poor music. Every hiphop song that never made it, was earning its dollar in the war effort. I'm not the hiphop guru. For that matter, I probably would be in the 15- 20th percentile on my hip-hop education, but I'm positive when I say those were some fresh beats. In 20 minutes when the PX opens, I'm gonna see if they have these quality hits for me to take home.
 
-Continue reading: <a title="5. Webcam starts to capture" href="http://thoughtrepair.wordpress.com/2013/04/18/5-webcam-starts-to-capture/">5. Webcam starts to capture</a>
+Continue reading: 5. Webcam starts to capture

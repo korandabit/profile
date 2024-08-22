@@ -1,20 +1,32 @@
 ---
+author: Mark Koranda
+categories:
+- Military
+date: '2013-04-20 00:00:00'
+excerpt: jpg) Me and my trusted coworker, George. 2300 All things, except salt and
+  water comes from agriculture. You know that? George, a contractor who works with
+  us, is almost 60. This man has been on base for over a year.
 layout: post
-title: "8. The sweeter side of work"
-date: 2013-04-20 03:32:02 +0000
-author: Unknown
-categories: ['Military']
-tags: ['Afghanistan', 'candy', 'culture', 'humor', 'language barrier', 'Marine', 'shift work']
+tags:
+- Afghanistan
+- candy
+- culture
+- humor
+- language barrier
+- Marine
+- shift work
+title: 8. The sweeter side of work
 ---
 
-[caption id="attachment_239" align="alignnone" width="500"][<img class="size-large wp-image-239" src="http://thoughtrepair.wordpress.com/wp-content/uploads/2013/04/img_6104.jpg?w=500" alt="Me and my trusted coworker, George." width="500" height="281" />](http://thoughtrepair.wordpress.com/wp-content/uploads/2013/04/img_6104.jpg) Me and my trusted coworker, George.[/caption]
 
-<strong>2300
-</strong>"All things, except salt and water comes from agriculture. You know that?"
+
+
+(http://thoughtrepair.wordpress.com/wp-content/uploads/2013/04/img_6104.jpg) Me and my trusted coworker, George.
+
+2300
+"All things, except salt and water comes from agriculture. You know that?"
 
 George, a contractor who works with us, is almost 60. This man has been on base for over a year. He's on the home stretch, but he's got 8 months to go. He works next to me, and finds it easy to strike up conversation with a youth who has much to learn (me), especially once we've settled into our shift and properly assessed the workload. Before I was born, he worked in pharmaceuticals, and he has a bachelors in microbiology.
-
-<!--more-->
 
 "Central Afghanistan, you know what's there? Mountains. They don't have land. Only animals. Like a sheep, like a cow, like a goat, and... what else?" He peels his fingers out to count the different species. Distracted, I'm trying to discern the colors of my Jelly Belly's in the yellow light. I don't like to mix them, but there's so many subtle differences.
 
@@ -46,7 +58,7 @@ During the silence that follows, Sgt G, also Sarah, attempts to lick off more of
 
 "I could finish it. If I really wanted," she defends.
 
-"Yea, I could've been a Marine." One doesn't step down from a <i>Marine</i> challenge easily. Especially when everyone is bored enough to be watching.
+"Yea, I could've been a Marine." One doesn't step down from a *Marine* challenge easily. Especially when everyone is bored enough to be watching.
 
 Marine's hear this in conversation with new faces in the armed services all the time: in line at the chow-hall from an airman, next to a sailor at Medical. "I was gonna be a Marine, but" or "I almost became a Marine, except that" or even the bolder "I was a Marine for like three months, but then." We're unsure how the sentence finishes, because it's clear the speaker is not a Marine.
 
@@ -87,4 +99,4 @@ In my mind's eye, my mom is grinning back. I wish she could see this. George ta
 
 Ingenuousness is nearly undetectable, which makes it all the more endearing.
 
-Continue reading: [9. Emotional warfare](https://thoughtrepair.wordpress.com/2013/04/22/9-emotional-warfare/)
+Continue reading: ({{ site.baseurl }}{% post_url 2013-04-23-9-emotional-warfare %})

@@ -1,18 +1,29 @@
 ---
+author: Mark Koranda
+categories:
+- Military
+date: '2013-05-02 00:00:00'
+excerpt: Complete blackness and the roar of the helicopter are overpowering. My eyelids
+  are heavy. I wonder if Ill make a difference. I really shouldnt let the sleep take
+  me over, but it comes from all sides. Its warm in here, and dark, and the noise
+  drowns though
 layout: post
-title: "13. A Need for Combat"
-date: 2013-05-02 00:42:31 +0000
-author: Unknown
-categories: ['Military']
-tags: ['Afghanistan', 'coming of age', 'Marine', 'mission', 'mortar', 'USMC']
+tags:
+- Afghanistan
+- coming of age
+- Marine
+- mission
+- mortar
+- USMC
+title: 13. A Need for Combat
 ---
 
-<p style="text-align:left;">Complete blackness and the roar of the helicopter are overpowering. My eyelids are heavy. I wonder if I'll make a difference. I really shouldn't let the sleep take me over, but it comes from all sides. It's warm in here, and dark, and the noise drowns thought out. My kevlar doesn't balance well with the heavy goggles mounted on front. I don't know the Marine next to me, but he's probably ten years older. I bet they were years in the Corps. I hope so.
 
+
+
+Complete blackness and the roar of the helicopter are overpowering. My eyelids are heavy. I wonder if I'll make a difference. I really shouldn't let the sleep take me over, but it comes from all sides. It's warm in here, and dark, and the noise drowns thought out. My kevlar doesn't balance well with the heavy goggles mounted on front. I don't know the Marine next to me, but he's probably ten years older. I bet they were years in the Corps. I hope so.
 
 I can only make out the top of Bear's kevlar in the dark, a few inches above the buttstock of his rifle. He's my team leader on this operation. Simon, our third team member, sits back. The helicopter takes us south, somewhere, and I let my eyes rest. I hug my rifle closer.
-
-<!--more-->
 
 Dust billows as the helo steadies onto the ground somewhere in the open country a short distance from our destination, and as rehearsed, Marines silently throw their packs on in subtle chaos. Just like the escort operation, the tail end is already open, and we swiftly unload from the bird. Off the helo, I stepped seamlessly from a world of structure and order into one of uncertainty and turmoil.
 
@@ -35,8 +46,7 @@ We get to work. The kind of work you don't hear about in the news. A crew of Mar
 It's about four in the morning before I finish my work, and Bear suggests I get some sleep.
 
 The air was dry and cold. My plate carrier served as protection and warmth as I slept. I tucked my hands under the front to keep warm, and settled for waking every ten or fifteen minutes to adjust them from falling asleep. If it was any colder I would've gotten some more warming layers out of my bag. Simon was sleeping the same way next to me.
-<p style="text-align:center;">***
-
+***
 
 The sun was very welcomed, but it seemed to take forever for the temperature to rise. By the time it was warm again, we were well into the afternoon, fighting complacency. Suddenly, a ground shaking 'THUD'.
 
@@ -58,8 +68,7 @@ By the third one, our counterintelligence has a pretty good idea where they were
 The last strike had long passed but Burly Man finishes his cigar patiently, smoke snaking uninterrupted and unmatched into the clear sky. Soon it cleared and there was nothing to do but wait in silence.
 
 The seconds dripped by while we waited for our night exfil. By now of course I was beat. The sun bore down on us, until finally leaving us alone, and I watched the sky get darker and darker, and stared at my watch for the time to peel away. I had to stand, and pace back and forth, and Bear had to coach me, to keep me awake, in case there might be plans for a second attack, or an ambush on our exfil.
-<p style="text-align:center;">***
-
+***
 
 Just as it started with helicopters, it would finish with helicopters. We lined up outside the gate like kids going on a field trip. "Do one last sweep of vital gear," says one of the senior enlisted, and I reel through my head the gear in my pack. We stood in silence until the point man decided it was time to go. My pack is much lighter because I dumped out all the extra water bottles, but by the time we stepped off, the pack is starting to get heavy again.
 
@@ -81,6 +90,6 @@ Suddenly, perpendicular to my position on the 360, the helo's come in, giant met
 
 The field, the compound disappears behind us, beginning our acclimation back to an ordered world.
 
-<b>Next: </b><a title="14. Everyday" href="http://thoughtrepair.wordpress.com/2013/05/12/14-everyday/">14. Everyday</a>
+**Next: **14. Everyday
 
-******Previous: **<a title="12. Grenades, cigarettes, or melons" href="http://thoughtrepair.wordpress.com/2013/04/26/12-grenades-cigarettes-or-melons/">12.Grenades, cigarettes, or melons</a>
+******Previous: **12.Grenades, cigarettes, or melons

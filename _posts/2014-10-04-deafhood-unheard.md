@@ -1,13 +1,28 @@
 ---
+author: Mark Koranda
+categories:
+- Deafhood
+date: '2014-10-04 00:00:00'
+excerpt: Theres a poignant sign to start my story if I were telling it in ASL. You
+  take your index finger like a hook, and drag it across your forehead. It figuratively
+  suggests having something scarred in your brain, and translates to Ill never forget.
 layout: post
-title: "Deafhood unheard"
-date: 2014-10-04 17:46:14 +0000
-author: Unknown
-categories: ['Deafhood']
-tags: ['ASL', 'audism', 'cochlear implant', 'CODA', 'deaf', 'debate', 'ethics', 'sign language']
+tags:
+- ASL
+- audism
+- cochlear implant
+- CODA
+- deaf
+- debate
+- ethics
+- sign language
+title: Deafhood unheard
 ---
 
-There's a poignant sign to start my story if I were telling it in ASL. You take your index finger like a hook, and drag it across your forehead. It figuratively suggests having something scarred in your brain, and translates to "I'll never forget." The reminder is of the importance of Deafhood, and lately, of its missing role in the cochlear implant debate.<!--more-->
+
+
+
+There's a poignant sign to start my story if I were telling it in ASL. You take your index finger like a hook, and drag it across your forehead. It figuratively suggests having something scarred in your brain, and translates to "I'll never forget." The reminder is of the importance of Deafhood, and lately, of its missing role in the cochlear implant debate.
 
 About five years ago in a San Fransisco office building I sat at a table translating with my parents on one side and a salesperson on the other. He pushed his product on my folks while we lost our afternoon. At first I hedged his aggressive tactics in my translations, and my parents sat confused by the half-filtered sales pitch and by my obvious frustration. Eventually his tactics became more than I could keep up with, and pressured to keep translating I submitted to merely relaying his assault. The salesman was effectively convincing my parents of a product with the voice of their son.* We left without his blatantly misrepresented product, but I was still bitter.
 
@@ -25,16 +40,14 @@ This is Deafhood. Deaf culture presents a culture-clash for hearing parents left
 
 The same was true when my parents were too young to make their own decisions. A hearing society overlooked the possible merit of a Deaf identity, and pitched what seemed the logical choice: try to fix the deafness. Loving, caring people bought into promises to "fix." Childhoods of therapy, schools that taught lip-reading and gave extra hours toward English comprehension. The deaf were members of a hearing society, and many were so rigorously trained on fitting in they didn't even know a sign language. Undoubtedly today's technology and educational advances are leaps and bounds closer to a fix. But it doesn't change the fact that marketing the cochlear implant without a full discussion of the cultural choice at-hand, and honest representation of Deaf culture, risks being a repeat of history.
 
-I'm no less of a salesman, except I'm selling information: read the NAD's [statement](http://nad.org/issues/technology/assistive-listening/cochlear-implants). It's refreshingly mature. We live in a world where people are made differently, but they can be treated equally. It's hard to accept this first claim and many don't. But there's been an age-old way to deal with it: embrace it, and focus on the latter point.
+I'm no less of a salesman, except I'm selling information: read the NAD's [even-handed and non-prescriptive statement](http://nad.org/issues/technology/assistive-listening/cochlear-implants). It's refreshingly mature. We live in a world where people are made differently, but they can be treated equally. It's hard to accept this first claim and many don't. But there's been an age-old way to deal with it: embrace it, and focus on the latter point.
 
 Don't get me wrong, I deeply support technology's capability to be an equalizer. In my parent's day, public and private transportation improvements made it easier to have Deaf clubs. Today the deaf can be even more connected with text messaging. But technology can also be unwanted. Not all children will take to implants linguistically, or culturally. When it comes to making decisions about how technology might play a role in someone's life, it's no light one. All the more important to include consideration toward that second reality: equalizing. And that's precisely the conversation the Deaf have experience with, regardless of whether you're committed to a hearing world.
 
 There's a sign I'm hoping you'll appreciate. Start with all fingers extended and close your pinky and ring finger. Now take your thumb and touch it to the outside of your eye, and point your index and middle finger straight ahead. Now starts the sign: at the same time, curl the two extended fingers toward your eyes. Show that to someone who knows ASL to begin a good conversation. They'll know you're open to learning about Deafhood, and they'd be happy to tell you about it.
 
-Other writing on this topic: <a title="Talk about Deafhood*" href="http://thoughtrepair.wordpress.com/2013/10/05/talk-about-deafhood/">Talk about Deafhood</a>, <a title="The Definition of Deaf" href="http://thoughtrepair.wordpress.com/2013/10/26/the-definition-of-deaf/">The definition of Deaf</a>
+Other writing on this topic: Talk about Deafhood, The definition of Deaf
 
 External articles on the cochlear implant debate: [The Sound and the Fury](http://www.pbs.org/wnet/soundandfury/cochlear/debate.html), and more recently, [this blog](http://www.dailykos.com/story/2013/11/17/1256259/-The-Cochlear-Implant-Controversy)
-
- 
 
 **Years later in interpreting classes I would learn that the problem of a hearing person's deception being lost in translation has had legal consequences enough to make it an overt responsibility of the interpreter to incorporate in their translations any seemingly suspicious or manipulative overtones.*

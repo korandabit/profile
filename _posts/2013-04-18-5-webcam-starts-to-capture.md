@@ -1,19 +1,32 @@
 ---
+author: Mark Koranda
+categories:
+- Military
+date: '2013-04-18 00:00:00'
+excerpt: '**Sat. Dec 12th** Contrary to the stigma of signing your life over to the
+  military for years, especially once youre granted BAH (permission and a stipend
+  to live outside the barracks), service members still have a lot of freedom in their
+  life.'
 layout: post
-title: "5. Webcam starts to capture"
-date: 2013-04-18 17:34:28 +0000
-author: Unknown
-categories: ['Military']
-tags: ['Afghanistan', 'deployment', 'disconnect', 'emotion', 'first-world problems', 'Marine', 'webcam']
+tags:
+- Afghanistan
+- deployment
+- disconnect
+- emotion
+- first-world problems
+- Marine
+- webcam
+title: 5. Webcam starts to capture
 ---
 
-<b>Sat. Dec 12th</b>
 
-Contrary to the stigma of signing your life over to the military for [insert number] years, especially once you're granted BAH (permission and a stipend to live outside the barracks), service members still have a lot of freedom in their life.
+
+
+**Sat. Dec 12th**
+
+Contrary to the stigma of signing your life over to the military for  years, especially once you're granted BAH (permission and a stipend to live outside the barracks), service members still have a lot of freedom in their life.
 
 Outside of the typical work day and Marine Corps obligations, I got used to all the privacy I wanted, and luxuries I could afford. Add in standard internet and a liberal phone plan, and suddenly my deaf parents are only a few clicks away. So another appeal to deploying was to put my emotional and psychological discipline to test by removing these luxuries. I got my first today.
-
-<!--more-->
 
 Yesterday I bought a webcam, because the internet cafe doesn't provide them, only to find, today, that an unkown administrator has to log on to allow me to install it. Skype works just fine, so long as I "close all other programs using the webcam hardware," Windows insightfully informs me. But the guy at the desk looks powerlessly at me: "I just volunteer."  Well I just want to be able to sign "I love you" to my parents. I realize it's been almost two months since I've talked with them directly.
 
@@ -25,7 +38,7 @@ People get in a lot of trouble with themselves when they can't let go of the thi
 
 It's my problem now. Suddenly I realize I'm emotionally okay with a good cry. It's good to let go of control, after trying to manage so much. But it doesn't come. I control it. Did I pass?
 
-<b>Sun. Dec 13th</b>
+**Sun. Dec 13th**
 
 At work I send an email to my parents: "Stay logged on Skype for an hour, and if you don't hear from me, I'm sorry." We're gonna try this the hard way.
 
@@ -55,4 +68,4 @@ The connection never held for more than 2 minutes, and usually lasted only ten s
 
 And despite this, I felt like I was with my parents. I told them how things were and when I'd be coming home. Not a lot of words were exchanged, but that's not the point. I saw them twenty-some short times over, and little by little my reality was restored. The world finally got fair again.
 
-Continue reading: <a title="6. Battle for peace and quiet" href="http://thoughtrepair.wordpress.com/2013/04/19/6-battle-for-peace-and-quiet/">6. Battle for peace and quiet</a>
+Continue reading: 6. Battle for peace and quiet
