@@ -44,4 +44,4 @@ Remember, your PL isn't static. It's growing and changing with you. The beauty i
 
 Your PL is uniquely yours. It's the map of your mind, the record of your growth, the toolbox for your future. By actively curating it, you're not just organizing information - you're crafting the lens through which you see and interact with the world. So, what do you want in your library? 
 
-Try [this excercise](https://skilledreflection.org/self250.html) as a starting point. Or ask a chatbot to help you figure out what's worth remembering about yourself.
+Try [this excercise](https://skilledreflection.org/self250.html){:target="_blank"} as a starting point. Or ask a chatbot to help you figure out what's worth remembering about yourself.

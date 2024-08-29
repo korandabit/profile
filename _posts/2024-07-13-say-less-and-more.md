@@ -43,6 +43,6 @@ By constraining our words, we force direct engagement with reality. We distill c
 
 In embracing brevity, we cultivate a form of expression that amplifies our unique cognitive strengths. It's a new frontier in human-AI collaboration, where AI's help licenses humans to think more critically than they've had the energy or time to do. 
 
-Commentary
+### Commentary
 
 It's intentional that my essays are so brief. In this series, I aim for under 200 words. 400 words is optimal to capture an idea and its primary complexities. Longer writing should be proportional to the number of ideas described, with each carefully evaluated for necessity.

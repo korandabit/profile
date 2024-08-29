@@ -45,4 +45,6 @@ If we succeed in preventing power-driven singularity events, we'll face new chal
 
 By focusing on these preventable cases and pursuing aggressive mitigations, we move beyond fear-mongering towards a pragmatic approach to managing singularity risks. The goal isn't to prevent progress, but to ensure we remain the masters of our fate, not pets in a gilded cage. 
 
-**Acknowledgements. ***This essay was initially drafted by me, with help on revisions by Claude. Claude developed the hypothetical scenario and actions taken in response. Feel free to insert whatever you like in that box if you don't trust it.*
+### Acknowledgements
+
+This essay was initially drafted by me, with help on revisions by Claude. Claude developed the hypothetical scenario and actions taken in response. Feel free to insert whatever you like in that box if you don't trust it.

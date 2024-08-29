@@ -24,7 +24,7 @@ title: Right-click for AI
 
 
 
-The integration of [AI into our desktop environment](https://openai.com/chatgpt/mac/) marks the beginning of a new era of human-AI cognitive symbiosis, fundamentally altering the landscape of human cognition and potential. This incremental improvement in function to the existing technology is a pivotal moment in augmented cognition. 
+The integration of [AI into our desktop environment](https://openai.com/chatgpt/mac/){:target="_blank"} marks the beginning of a new era of human-AI cognitive symbiosis, fundamentally altering the landscape of human cognition and potential. This incremental improvement in function to the existing technology is a pivotal moment in augmented cognition. 
 
 Most AI interactions today are through a dedicated app or web browser.
 

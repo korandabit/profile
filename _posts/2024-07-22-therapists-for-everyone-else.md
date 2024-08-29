@@ -3,9 +3,7 @@ author: Mark Koranda
 categories:
 - Analytical Lenses
 date: '2024-07-22 00:00:00'
-excerpt: '*Disclaimer: This essay critically evaluates therapy. My goal is primarily
-  informative -- to name dynamics that are easily overlooked and to start a discussion
-  of risks and opportunities in this space. * Therapists are in right now.'
+excerpt: 'Disclaimer: Therapists are in, right now. I support this, and also this essay critically evaluates an aspect of the therapeudic experience. My goal is primarily informative -- to name dynamics that are easily overlooked and to start a discussion of risks and opportunities in this space.'
 layout: post
 tags:
 - behavior
@@ -27,25 +25,25 @@ Therapists are "in" right now.
 
 Not only are people seeking therapy, it trends in social media, just one reflection that society has warmed up to psychological insight (compared to say, the 80s or 90s). This shift hints at the intertwined nature of of individual psychology and broader societal dynamics. 
 
-When I see a social media post on psycho-education, say for instance a reminder or mantra about setting healthy boundaries, I wonder how much of that might be problematically taken out of context. A lot of what "works" in psychology is profoundly context dependent. Below are three fairly common themes you might see on social media.(#f212ae58-3240-424d-a570-d81723ba24c5" id="f212ae58-3240-424d-a570-d81723ba24c5-link)
+When I see a social media post on psycho-education, say for instance a reminder or mantra about setting healthy boundaries, I wonder how much of that might be problematically taken out of context. A lot of what "works" in psychology is profoundly context dependent. Below are three fairly common themes you might see on social media.[^1]
 
 "Always put yourself first. You don't owe anyone your time or energy." 
 
-Valid context: Recovering from exhaustion, creating better work-life balance 
+- Valid context: Recovering from exhaustion, creating better work-life balance 
 
-Pitfall: Ignoring important responsibilities, hurting key relationships 
+- Pitfall: Ignoring important responsibilities, hurting key relationships 
 
 "Never compromise on your needs. If someone can't meet them, they're not right for you." 
 
-Valid context: Learning to stand up for yourself, improving communication in relationships 
+- Valid context: Learning to stand up for yourself, improving communication in relationships 
 
-Pitfall: Setting unrealistic expectations, struggling to find middle ground with partners 
+- Pitfall: Setting unrealistic expectations, struggling to find middle ground with partners 
 
 "Your feelings are always valid." 
 
-Valid context: Learning to acknowledge emotions, understanding yourself better 
+- Valid context: Learning to acknowledge emotions, understanding yourself better 
 
-Pitfall: Excusing hurtful actions, difficulty managing emotional responses
+- Pitfall: Excusing hurtful actions, difficulty managing emotional responses
 
 In the case where the psychoeducation is valid, it is absolutely fantastic. People are calling out unhealthy behavior or encouraging healthy agency. But for clients especially, consider that at least some of a therapist's decisions behind the advice they give is considering the complexity of the world the client lives in. Among other things, the therapist considers the real likelihood that people will be barriers or catalysts to the client's intent to change. 
 
@@ -56,3 +54,5 @@ What I'm proposing here is direct consideration of those "other" people in their
 In my ideal world, there would be a very active subset of therapy with the mission of improving the ecology of psychological well-being; a body that aims to maximize change through PSAs and other messaging campaigns, if not programs for broader psychoeducation. 
 
 When we think about change and behavior, it must be in a highly inter-connected context. If there's one thing that's true about humans, it's that there are billions of us. It's time to work with the (other) billions of elephants in the room.
+
+[^1]: Claude helped generate these examples and their contrasting scenarios.
