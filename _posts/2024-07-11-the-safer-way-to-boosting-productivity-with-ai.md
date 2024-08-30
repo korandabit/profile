@@ -4,8 +4,7 @@ categories:
 - Products
 date: '2024-07-11 00:00:00'
 excerpt: In a world where AI is both exciting and intimidating, how can you safely
-  explore its potential? The answer lies in structured data formats - plain text files
-  you and your software already use every day. vcf for contacts.
+  explore its potential? The answer lies in structured data formats - plain text files you and your software already use every day. 
 layout: post
 tags:
 - ai
@@ -29,7 +28,7 @@ title: The Safer Way to Boosting Productivity with AI
 
 In a world where AI is both exciting and intimidating, how can you safely explore its potential? The answer lies in structured data formats - plain text files you and your software already use every day. 
 
-Many productivity apps use structured text formats like .ics for calendar events and .vcf for contacts.
+Many productivity apps use structured text formats like `.ics` for calendar events and `.vcf` for contacts.
 
 They are designed to store specific information securely, so you don't need to worry about the AI modifying your existing data or causing harm. You can add new contacts, playlists, tasks, meetings as effectively as you can say describe it. Additionally, if I view their contents, they usually make sense. 
 

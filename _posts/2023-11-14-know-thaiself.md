@@ -32,17 +32,17 @@ title: Know thAIself
 
 What follows are conversational techniques adapted to the strengths and limitations of ChatGPT (Chappy). 
 
-(https://thoughtrepair.wordpress.com/wp-content/uploads/2023/11/dallc2b7e-2023-11-17-20.30.59-a-further-revision-of-the-banner-photo-for-a-blog-post-with-a-simplified-background-and-enhanced-foreground-elements.-the-background-should-span-from-lr.jpg)"When neurons and nodes speak the same language." Art created with DALL-E.
+![](https://thoughtrepair.wordpress.com/wp-content/uploads/2023/11/dallc2b7e-2023-11-17-20.30.59-a-further-revision-of-the-banner-photo-for-a-blog-post-with-a-simplified-background-and-enhanced-foreground-elements.-the-background-should-span-from-lr.jpg)"When neurons and nodes speak the same language." Art created with DALL-E.
 
-What are we talking about?
+### What are we talking about?
 
 As the human half of a relationship with blips and bloops, you'll be responsible for ({{ site.baseurl }}{% post_url 2023-10-28-stop-avoiding-yourself-the-ai-in-you %}) that plums the depths between our imagined worlds. Unlike past relationships with a computer, you need skills in letting go of control. You need to trust what is more important to you, and condition yourself to challenge the rest. 
 
-Be confident in your direction, and less so about the requirements to get there. Prompts like "What am I asking about?" or "Help me better understand this problem" help ensure you're not accidentally assuming something that is in your way.(#6471a3c1-d2a8-4bad-ac20-45f51b42670f" id="6471a3c1-d2a8-4bad-ac20-45f51b42670f-link)  You're both checking to make sure Chappy understands you, and your own understanding of what you're talking about.(#1f0ecf9d-fad8-4ac4-9927-84e069152f80" id="1f0ecf9d-fad8-4ac4-9927-84e069152f80-link) 
+Be confident in your direction, and less so about the requirements to get there. Prompts like "What am I asking about?" or "Help me better understand this problem" help ensure you're not accidentally assuming something that is in your way.[^1]  You're both checking to make sure Chappy understands you, and your own understanding of what you're talking about.[^2] 
 
-Only when you arrive will it be clear you aren't quite there. At the end of my conversations, I'll ask something like: "How could I have said my part better so we got straight to the point?" In the early days, your goal is to fuse the connection with AI. Understand how it extends from you like a pencil.(#98875407-8872-4b6b-897d-004b3161583e" id="98875407-8872-4b6b-897d-004b3161583e-link) 
+Only when you arrive will it be clear you aren't quite there. At the end of my conversations, I'll ask something like: "How could I have said my part better so we got straight to the point?" In the early days, your goal is to fuse the connection with AI. Understand how it extends from you like a pencil.[^3] 
 
-Set the conversational tone
+### Set the conversational tone
 
 *ChatGPT allows you to save customized conversational preferences*.
 
@@ -54,7 +54,7 @@ Once you have some, put these criteria in your "custom instructions," located in
 
 And if you ever want Chappy to elaborate with a longer reply in a specific conversation just say something like, "When you answer this question, go over the word limit." 
 
-Is that the best I've got?
+### Is that the best I've got?
 
 ![](https://thoughtrepair.wordpress.com/wp-content/uploads/2023/11/dallc2b7e-2023-11-07-21.17.33-a-whimsical-steam-punk-frankenstein-creature-with-a-vintage-television-set-for-a-torso.-the-television-is-displaying-coarse-grain-static-and-overlaid-.png?w=1024)Steam punk Frankenstein Chappy. Art created with DALL-E
 
@@ -90,17 +90,17 @@ Sometimes you want help seeing your situation from a new angle, but you're not s
 
 1. Subject without the "new" request
 
-1. Different but related situations
+2. Different but related situations
 
-1. Solutions from 2 adapted to 1
+3. Solutions from 2 adapted to 1
 
 Here's the technique applied to the challenges of working from home [full conversation](https://chat.openai.com/share/14dffa71-6ff3-4081-8b4a-a4f8e72991b1): 
 
 1. Give me three of the most promising solutions for working from home, considering I struggle to maintain attention in my one-bedroom apartment.
 
-1. Identify three analogous scenarios, where humans are cooped up beyond reason. These scenarios must not be directly related to working from home. For each, name a key innovation that successfully improved circumstances.
+2. Identify three analogous scenarios, where humans are cooped up beyond reason. These scenarios must not be directly related to working from home. For each, name a key innovation that successfully improved circumstances.
 
-1. Drawing from these specific innovations, provide three novel solutions to my problem about working from home. Make them as practical and effective as possible.
+3. Drawing from these specific innovations, provide three novel solutions to my problem about working from home. Make them as practical and effective as possible.
 
 Why is this approach useful? By asking for example solutions both directly relevant and outside of your context, you set up Chappy to infer novelty, instead of having to define it yourself. 
 
@@ -121,3 +121,8 @@ This is not a promise. It is what the night sky looks like when I'm filled with 
 *Next: A re-imagining of authorship and IP in the age of generative intelligence. Custom GPTs that circumvent Chappy's limitations and flex its strengths. *
 
 **Footnotes**
+[^1]: As far as I’m aware, the prescriptions of all futurists (e.g., Sam Harris, Emad Mostaque, Mo Gawdat, etc.) rely on significant social change. For all questions that hinge on mass public perception, the best step forward is an informed, first-hand social perception of what “we’re dealing with.” While existential and ethical questions about AGI are crucial, they are abstract and theoretical. The first step to activating a general public is a tangible engagement of AGI’s usefulness and risks. ↩︎
+[^2]: I’m an enthusiast, there’s no hiding it. Worst case scenario, Chappy is the best entertainment and hallucination I’ve had. By my view it is a degree of mind expansion that rivals some of the most impactful courses of my graduate education. I am exhausted by new questions and answers, like I was when learning Arabic by immersion.
+[^3]: Chappy is less like software and more like an audio codec, an intricate complex filter. It doesn’t quite “interact”. You pour in your text, and what trickles out is its response. 
+
+[^4]: A key topic I hope to write about next is the missing, critical need for more psychologists in the discussion of AGI and chatGPT. 

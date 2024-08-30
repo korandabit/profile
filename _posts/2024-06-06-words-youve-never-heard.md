@@ -44,7 +44,7 @@ For millennia, words have been a tool powered by the human mind. At their best, 
 
 However, the nature of written communication imposes fundamental limitations. Writing is one of the most cognitively demanding activities, necessitating a high level of abstraction to speak to commonalities between diverse readers. Effective writing is carefully non-specific. This traditional constraint—rooted in static, single-production texts—means that some of your reality writers will never address. Much of who you are or could be has never been said. 
 
-Words are hard
+### Words are hard
 
 The challenge of finding the right words is hard. To maximize the value of words, writers must speak to commonalities between readers. This means some of your reality writers will never address. There are two sides to this gap: failing to provide the right background or the right implication. Consider these examples from different fields:
 
@@ -56,7 +56,7 @@ The challenge of finding the right words is hard. To maximize the value of words
 
 Those unfamiliar with these disciplines might read these statements as encouraging, but experts would interpret them differently. In medicine, "positive feedback" from "high doses" of a drug often indicates adverse effects. In economics, a "correction" suggests a significant market downturn. In technology, a model that "converges rapidly" may be overfitting and poorly generalizing. These examples illustrate the crucial need for precise language tailored to the intended audience, bridging the gap between specialist knowledge and general comprehension. 
 
-Made to order
+### Made to order
 
 Chatbots have the power to interpret an insight's relevance specifically for you. Imagine a world where the information you consume is tailored to your needs and context. This entire essay could be framed around your current experiences and communicate as if by your best friend. 
 
@@ -64,7 +64,7 @@ Whether you're evaluating the suitability of your lease agreement as a pet owner
 
 Try it out yourself. Open a dialogue with your favorite chatbot, copy-paste this essay's text, and add something about yourself or what's on your mind. Then ask the chatbot to "Adapt the essay to ensure it resonates with themes you find relevant." Experience firsthand how ChatGPT moves words closer to your world. 
 
-R.I.P. Words
+### R.I.P. Words
 
 Imagine a future where communication is not only less burdensome but also more impactful. Messages could be concise yet potent, allowing for greater achievements with fewer words. This streamlined communication wouldn't just reduce effort but would also free individuals to engage more deeply with meaningful content. By focusing on the effect rather than the original effort of communication, we encourage a broader, more inclusive engagement with knowledge. 
 

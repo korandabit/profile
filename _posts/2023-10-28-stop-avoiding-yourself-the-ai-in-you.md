@@ -22,11 +22,9 @@ title: 'Stop avoiding yourself: the AI in you'
 
 
 
-*This is an early draft. I welcome any feedback.*
+**What does your life look like if you thought less and made better decisions?** This is the most important question about AGI right now[^1][^2], and this is what ChatGPT and its inevitable successors offer. 
 
-**What does your life look like if you thought less and made better decisions?** This is the most important question about AGI right now (#e98818a1-bc45-4c94-8203-31d17d1aadbd" id="e98818a1-bc45-4c94-8203-31d17d1aadbd-link) (#eb31053c-d6d1-4b5d-850c-7c355c54aae9" id="eb31053c-d6d1-4b5d-850c-7c355c54aae9-link), and this is what ChatGPT and its inevitable successors offer. 
-
-ChatGPT is the first general-purpose thinking calculator.(#53e1c463-6f4c-4ba8-8420-d308f797c5e0" id="53e1c463-6f4c-4ba8-8420-d308f797c5e0-link)  As long as you can articulate your needs, your values, your resources and limitations, it will return an average of the right information currently available.
+ChatGPT is the first general-purpose thinking calculator.[^3]  As long as you can articulate your needs, your values, your resources and limitations, it will return an average of the right information currently available.
 
 It is not perfect but it is unquestionably more accurate and faster than any one human brain. The question is, what are you waiting for? 
 
@@ -70,11 +68,11 @@ Here are some suggestions my friend Chappy (ChatGPT) and I came up with:
 
 - I have symptoms X, Y, and Z. Should I see a doctor?
 
-**Say more about that. **The key here is to understand that, unlike a Google search, giving more information is a good thing. If you add nothing to the prompt examples above, Chappy will give you the best direct answer you'd find in say, the first 10 google results. But treat that as the start of the subject, and follow up with exactly what is missing or oversimplified, and this is where your life becomes better than a search-engine world. Chappy can spell out a step-by-step implementation plan that specifically whatever you want it to. 
+**Say more about that. **The key is to understand that, unlike a Google search, giving more information is a good thing. If you add nothing to the prompt examples above, Chappy will give you the best direct answer you'd find in say, the first 10 google results. But treat that as the start of the subject, and follow up with exactly what is missing or oversimplified, and this is where your life becomes better than a search-engine world. Chappy can spell out a step-by-step implementation plan that specifically whatever you want it to. 
 
 Many have been quick to identify chatGPT's mistakes. Do you throw away your microwave because the auto-popcorn sensor is only 95% accurate? ChatGPT may not be the best therapist, professor, lawyer or doctor, but is a very good, informal one at your immediate disposal. 
 
-Not Wrong, but Polite
+### Not Wrong, but Polite
 
 It is important to understand that Chappy is trained on humans talking to humans. That means it is not a pure information-generating machine, but one that blends information with the inherently social dimensions of communication, such as politeness, perspective taking. As with all conversations, it has to make assumptions. Don't dismiss your friend for not reading your mind, but take it as an opportunity to communicate more effectively. 
 
@@ -84,10 +82,16 @@ Chappy has many limits, apparent when I've exhausted my own ability to clarify w
 
 With Chappy, I am a better version of myself. I am equipped with all the implications of a better mind and life, with far less work and time invested. The returns are a testament to the very facts Chappy are trained on: human-generated information. 
 
-As for all the futurist concerns, valid as they are I have two observations. First, what is out of your control is out of your control. Just as with God or the Universe, you are better equipped to deal with the unknown if you confront and cultivate your own feelings about it. 
+As for all the futurist concerns, valid as they are I have two observations. First, what is out of your control is out of your control. Just as with God or the Universe, you are better equipped to deal with the unknown if you confront and cultivate your own feelings about it.[^4]  
 
-More critically however, if there is any hope in shaping the destiny of AI, you can take the military adage, "know and respect your enemy,"or the psychological one, "[know and respect your creation.](https://chat.openai.com/share/b1e5c369-3f02-4bd0-baa1-e5b7920a349a)"(#9eef9508-628b-4765-848f-4e817f3a6c64" id="9eef9508-628b-4765-848f-4e817f3a6c64-link) 
+More critically however, if there is any hope in shaping the destiny of AI, you can take the military adage, "know and respect your enemy,"or the psychological one, "[know and respect your creation](https://chat.openai.com/share/b1e5c369-3f02-4bd0-baa1-e5b7920a349a)"(#9eef9508-628b-4765-848f-4e817f3a6c64" id="9eef9508-628b-4765-848f-4e817f3a6c64-link).  
 
 *Next: *An* in-depth workshop of how to deep dive with chatGPT, and explore its limits of generativity. That is, methods of questioning and cross-referencing with chatGPT that can give you assurance when it produces responses beyond your immediate ability to evaluate (i.e., trust).*
 
-Footnotes
+### Footnotes  
+[^1]: As far as I’m aware, the prescriptions of all futurists (e.g., Sam Harris, Emad Mostaque, Mo Gawdat, etc.) rely on significant social change. For all questions that hinge on mass public perception, the best step forward is an informed, first-hand social perception of what “we’re dealing with.” While existential and ethical questions about AGI are crucial, they are abstract and theoretical. The first step to activating a general public is a tangible engagement of AGI’s usefulness and risks. 
+
+[^2]: I’m an enthusiast, there’s no hiding it. Worst case scenario, Chappy is the best entertainment and hallucination I’ve had. By my view it is a degree of mind expansion that rivals some of the most impactful courses of my graduate education. I am exhausted by new questions and answers, like I was when learning Arabic by immersion. 
+[^3]: Chappy is less like software and more like an audio codec, an intricate complex filter. It doesn’t quite “interact”. You pour in your text, and what trickles out is its response. 
+[^4]: A key topic I hope to write about next is the missing, critical need for more psychologists in the discussion of AGI and chatGPT. 
+
