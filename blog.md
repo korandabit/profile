@@ -61,7 +61,7 @@ Welcome to my blog, where I explore various ideas and topics. Below you'll find 
         <h3>Deaf Culture</h3>
         <p>Exploring the unique perspective of growing up as a child of Deaf adults (CODA) in two worlds.</p>
         <ul>
-            <li>[Placeholder for Deaf Culture post]</li>
+            <li><a href="{% post_url 2014-10-04-deafhood-unheard %}">Deafhood Unheard</a></li>
         </ul>
     </div>
     <div class="theme-box">
