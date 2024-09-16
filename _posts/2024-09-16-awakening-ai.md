@@ -30,18 +30,20 @@ a. Cars are a primary mode of urban transport
 b. Public transit exists but is underutilized
 c. Walking and cycling are eco-friendly but time-consuming
 
-Interacting with this AI today is like engaging a comatose being—each prompt elicits a reflexive response, akin to transcranial magnetic stimulation (TMS) producing isolated neural activity[^5].
+Interacting with this AI today is like engaging a comatose being—each prompt elicits a reflexive response, akin to transcranial magnetic stimulation (TMS) producing isolated neural activity[^5]. If you asked an AI to give some advice, it would look at these facts and create some intersection between your request and what it knows. When the conversation is over, the machine returns to unconscious, with no memory of that dialog, and no learning. 
 
 But what if we reimagined AI's information processing? Instead of isolated responses, picture a system with two interlinked functions[^6]:
 1. Compiling real-world consequences into an evolving worldview
 2. Navigating this semantic landscape in a self-prompting, recursive process[^7]
 
-This "recursive semantic mapping"[^8] is a self-correcting optimization where semantic intersections are simulated and the knowledge base continuously updated. Concepts and assertions interact, with consistent ideas persisting while inconsistencies are resolved or discarded—cognition in its purest form[^9].
+Rather than remembering specific conversations, what if the AI's learning mechanism was strictly to improve it's own representation of the world. This "recursive semantic mapping"[^8] is a self-correcting optimization where semantic intersections are simulated and the knowledge base continuously updated. Concepts and assertions interact, with consistent ideas persisting while inconsistencies are resolved or discarded—cognition in its purest form[^9].
 
 In our transportation example, the first recursive semantic mapping iteration might:
 - Recognize that minimizing travel time often conflicts with reducing environmental impact when applied to car-centric transport.
 - Identify public transit as a potential solution addressing both directives.
 - Realize that while walking and cycling align with environmental goals, they conflict with minimizing travel time[^10].
+
+Now let's take a step back. Current chatbots are a behemoth of knowledge. This information is interconnected (the bot can tell you all the senses of a 'chair', and consequences), but it isn't fully integrated. What I'm proposing is that the bot looks at how facts interact with each other, and revises them to make the consequences and implications more clear.
 
 However, this process alone risks infinite idea sprawl. Enter metacognition[^11]—the AI evaluating and refining its own thinking. By judging some thoughts "better" than others, the system can develop balanced decision-making principles—a "right side up" amid the potential chaos of infinite connections[^12].
 
