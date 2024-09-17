@@ -18,6 +18,7 @@ excerpt: "Imagine an AI that doesn't just respond, but truly thinks—a cognitiv
 ---
 
 ## Awakening the AI: From Cognitive Frankenstein to Self-Directing Intelligence
+[Click here](/docs/ai-awakening-white-paper.md) for the "white paper" draft.
 
 ![](/images/monster.png)
 
