@@ -19,6 +19,8 @@ excerpt: "Imagine an AI that doesn't just respond, but truly thinks—a cognitiv
 
 ## Awakening the AI: From Cognitive Frankenstein to Self-Directing Intelligence
 
+![](/images/monster.png)
+
 Critics often dismiss current AI as merely "fixed-state algorithms"[^1]—complex but fundamentally limited. However, a more apt metaphor is that of a cognitive Frankenstein[^2]—a patchwork of language and information awaiting its spark of consciousness. This framing illuminates the path from today's AI to truly self-directing intelligence[^3].
 
 To illustrate, consider a simple AI tasked with optimizing urban transportation[^4]. Its initial state includes two directives:
