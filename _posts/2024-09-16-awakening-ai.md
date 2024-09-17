@@ -2,7 +2,7 @@
 layout: post 
 title: "Awakening the AI"
 date: 2024-09-16
-author: [Your Name]  
+author: Mark Koranda  
 tags:
   - Artificial Intelligence
   - Machine Learning
