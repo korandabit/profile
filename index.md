@@ -5,10 +5,10 @@ layout: default
 ![Mark at the keys](/images/profile_main.gif)
 
 ## [Blog](/blog)
-Check out my latest thoughts and writings on my [blog page](/blog).
+Meditations on the outside of the box (AI, society) for revising human well-being and connections (self and other).
 
 ## Tech  
-I am currently applying my skills to the tech industry as a Software Design Engineer at [Edge RnD](edgernd.com).
+I specialize in designing human-AI interface (prompt engineering). I have 2 years industry experience in software design and consulting, and more than 10 years as a cognitive psychologist. Currently open to human-first AI projects, for consultation. Previously a Software Design Engineer at [Edge RnD](edgernd.com).
 
 ## PhD  
 I graduated with my PhD in Psychology from the University of Wisconsin-Madison, in 2022. I was recognized for [my advocacy work](https://grad.wisc.edu/diversity/graduate-student-service-scholarships/) by the University of Wisconsin-Madison.
