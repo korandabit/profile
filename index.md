@@ -5,7 +5,7 @@ layout: default
 ![Mark at the keys](/images/profile_main.gif)
 
 ## [Blog](/blog)
-Meditations on the outside of the box (AI, society) for revising human well-being and connections (self and other).
+Meditations outside the box (AI, society) for human well-being (self and other).
 
 ## Tech  
 I specialize in designing human-AI interface (prompt engineering). I have 2 years industry experience in software design and consulting, and more than 10 years as a cognitive psychologist. Currently open to human-first AI projects, for consultation. Previously a Software Design Engineer at [Edge RnD](edgernd.com).
