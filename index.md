@@ -42,5 +42,5 @@ Language is a powerful tool. It is also a dangerous one. We can be lured into ma
 The purpose of [Skilled Reflection](https://skilledreflection.org) is to intensely subject our personal meaning and meaning-making ("goals") to the measured, objective reality of our habits. It is a University Club I made up where students come together for focused writing, accountability, and a shared interest in practically increasing the good stuff in life. 
 
 ## Photography  
-If you prefer non-verbal exercizes of contemplating the juxtaposed desires and realities of humanity, you might browse these ["Soul Snaps"](https://soulsnap.photos).
+If you prefer non-verbal exercizes of contemplating the juxtaposed desires and realities of humanity, you might browse these ["Soul Snaps"](/photos).
 
