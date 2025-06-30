@@ -250,7 +250,7 @@ function init(){
     }
 
     function checkForSpace(){
-        if((_$w.scrollTop() + _viewportHeight) == _$body.height() && _thumbsToLoad == 0 && _lastLoadedThumbIndex < LR.images.length - 1){
+        if((_$w.scrollTop() + _viewportHeight) >= _$body.height() - 100 && _thumbsToLoad == 0 && _lastLoadedThumbIndex < LR.images.length - 1){
             loadMoreThumbnails(_lastLoadedThumbIndex + 1, 1);
         }
         else if(_$body.height() < _viewportHeight && _thumbsToLoad == 0){
