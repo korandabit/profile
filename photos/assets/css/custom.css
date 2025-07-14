@@ -25,3 +25,75 @@ body {
   background-color: #000000 !important;
   color: #828282 !important;
 }
+
+
+/* ===== PHOTO GALLERY TEXT OVERLAP FIXES ===== */
+
+/* Fix text overlap and improve styling */
+.meta-left {
+    position: relative;
+    z-index: 10;
+    background: rgba(0, 0, 0, 0.7);
+    padding: 20px;
+    margin: 20px;
+    border-radius: 8px;
+    max-width: 600px;
+}
+
+.description-container {
+    margin: 15px 0;
+}
+
+.description-text {
+    font-family: inherit;
+    font-size: 1em;
+    line-height: 1.4;
+    color: #ffffff;
+    margin: 8px 0;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.8);
+}
+
+/* Ensure title styling consistency */
+.title {
+    font-family: inherit;
+    font-size: 2.5em;
+    font-weight: bold;
+    color: #ffffff;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
+    margin: 0 0 10px 0;
+}
+
+.author {
+    font-family: inherit;
+    font-size: 1.1em;
+    color: #cccccc;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.8);
+    margin: 0 0 15px 0;
+}
+
+.author a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.author a:hover {
+    text-decoration: underline;
+}
+
+/* Ensure background doesn't interfere */
+.background {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+}
+
+/* Make sure header positioning works */
+header {
+    position: relative;
+    min-height: 400px;
+    display: flex;
+    align-items: center;
+}
