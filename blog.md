@@ -5,6 +5,16 @@ permalink: /blog/
 ---
 
 <style>
+/* Override narrow section width for blog page */
+section {
+    width: 900px !important;
+}
+@media print, screen and (max-width: 960px) {
+    section {
+        width: auto !important;
+    }
+}
+
 .theme-container {
     display: flex;
     flex-wrap: wrap;
@@ -17,6 +27,7 @@ permalink: /blog/
     border: 1px solid #ddd;
     border-radius: 5px;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    box-sizing: border-box;
 }
 @media (max-width: 768px) {
     .theme-box {
