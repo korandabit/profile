@@ -5,13 +5,55 @@ permalink: /blog/
 ---
 
 <style>
-/* Override narrow section width for blog page */
-section {
-    width: 900px !important;
+/* Completely override layout for blog page - disable floating sidebar */
+.wrapper {
+    width: auto !important;
+    max-width: 960px;
+    margin: 0 auto;
 }
+
+header {
+    position: static !important;
+    float: none !important;
+    width: auto !important;
+    padding: 20px 0;
+    text-align: center;
+    border-bottom: 1px solid #e5e5e5;
+    margin-bottom: 30px;
+}
+
+section {
+    width: auto !important;
+    float: none !important;
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+footer {
+    float: none !important;
+    text-align: center;
+    margin-top: 40px;
+    padding: 20px 0;
+    border-top: 1px solid #e5e5e5;
+}
+
+/* Override all media queries for this page */
 @media print, screen and (max-width: 960px) {
+    .wrapper {
+        width: auto;
+        margin: 0;
+    }
+    
+    header {
+        padding: 20px !important;
+        padding-right: 20px !important;
+    }
+    
     section {
-        width: auto !important;
+        border: none !important;
+        padding: 0 20px !important;
+        margin: 0 !important;
     }
 }
 
