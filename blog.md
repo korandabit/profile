@@ -31,11 +31,7 @@ section {
 }
 
 footer {
-    float: none !important;
-    text-align: center;
-    margin-top: 40px;
-    padding: 20px 0;
-    border-top: 1px solid #e5e5e5;
+    display: none !important;
 }
 
 /* Override all media queries for this page */
