@@ -25,8 +25,8 @@ title: Reader and Writer
 
 
 
-Brief essays on communication #1 
-version 1.2 - more words, same point.
+*Brief essays on communication #1*  
+*Version 1.2 - more words, same point.*
 
 two people agree.
 
@@ -54,4 +54,4 @@ A "disagreement" is a moment when the agreements are exposed for their differenc
 
 Next
 
-Brief Essay #2: ({{ site.baseurl }}{% post_url 2022-11-20-2-not-the-point %})
+Brief Essay #2: [Not the Point]({{ site.baseurl }}{% post_url 2022-11-20-2-not-the-point %})

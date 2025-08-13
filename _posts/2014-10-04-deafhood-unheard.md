@@ -50,4 +50,4 @@ Other writing on this topic: Talk about Deafhood, The definition of Deaf
 
 External articles on the cochlear implant debate: [The Sound and the Fury](http://www.pbs.org/wnet/soundandfury/cochlear/debate.html), and more recently, [this blog](http://www.dailykos.com/story/2013/11/17/1256259/-The-Cochlear-Implant-Controversy)
 
-**Years later in interpreting classes I would learn that the problem of a hearing person's deception being lost in translation has had legal consequences enough to make it an overt responsibility of the interpreter to incorporate in their translations any seemingly suspicious or manipulative overtones.*
+*Years later in interpreting classes I would learn that the problem of a hearing person's deception being lost in translation has had legal consequences enough to make it an overt responsibility of the interpreter to incorporate in their translations any seemingly suspicious or manipulative overtones.

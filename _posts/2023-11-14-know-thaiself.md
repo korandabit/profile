@@ -28,15 +28,15 @@ title: Know thAIself
 
 *Prompt Engineering* *for Humans*
 
-*When neurons and nodes speak the same language, the burden to reflect is halved, and your possibilities are doubled. *Welcome to your newly augmented limbs. To truly embrace ({{ site.baseurl }}{% post_url 2023-10-28-stop-avoiding-yourself-the-ai-in-you %}), your Googling-era skills will need a makeover.
+*When neurons and nodes speak the same language, the burden to reflect is halved, and your possibilities are doubled.* Welcome to your newly augmented limbs. To truly embrace [Stop avoiding yourself: the AI in you]({{ site.baseurl }}{% post_url 2023-10-28-stop-avoiding-yourself-the-ai-in-you %}), your Googling-era skills will need a makeover.
 
 What follows are conversational techniques adapted to the strengths and limitations of ChatGPT (Chappy). 
 
-![](https://thoughtrepair.wordpress.com/wp-content/uploads/2023/11/dallc2b7e-2023-11-17-20.30.59-a-further-revision-of-the-banner-photo-for-a-blog-post-with-a-simplified-background-and-enhanced-foreground-elements.-the-background-should-span-from-lr.jpg)"When neurons and nodes speak the same language." Art created with DALL-E.
+*"When neurons and nodes speak the same language." Art created with DALL-E.*
 
 ### What are we talking about?
 
-As the human half of a relationship with blips and bloops, you'll be responsible for ({{ site.baseurl }}{% post_url 2023-10-28-stop-avoiding-yourself-the-ai-in-you %}) that plums the depths between our imagined worlds. Unlike past relationships with a computer, you need skills in letting go of control. You need to trust what is more important to you, and condition yourself to challenge the rest. 
+As the human half of a relationship with blips and bloops, you'll be responsible for [navigating the AI relationship]({{ site.baseurl }}{% post_url 2023-10-28-stop-avoiding-yourself-the-ai-in-you %}) that plums the depths between our imagined worlds. Unlike past relationships with a computer, you need skills in letting go of control. You need to trust what is more important to you, and condition yourself to challenge the rest. 
 
 Be confident in your direction, and less so about the requirements to get there. Prompts like "What am I asking about?" or "Help me better understand this problem" help ensure you're not accidentally assuming something that is in your way.[^1]  You're both checking to make sure Chappy understands you, and your own understanding of what you're talking about.[^2] 
 
@@ -56,7 +56,7 @@ And if you ever want Chappy to elaborate with a longer reply in a specific conve
 
 ### Is that the best I've got?
 
-![](https://thoughtrepair.wordpress.com/wp-content/uploads/2023/11/dallc2b7e-2023-11-07-21.17.33-a-whimsical-steam-punk-frankenstein-creature-with-a-vintage-television-set-for-a-torso.-the-television-is-displaying-coarse-grain-static-and-overlaid-.png?w=1024)Steam punk Frankenstein Chappy. Art created with DALL-E
+*Steam punk Frankenstein Chappy. Art created with DALL-E.*
 
 Chappy's most powerful ability is to explore related dimensions of an idea. Like an entire premium cable subscription, of personally customized, on-demand programming. If you can name the channel and it's exact description, you can pretty much have it. Now, you no longer need a good cooking show on X, you want the 10 best compliments to what you specifically ate this week. 
 
@@ -110,7 +110,6 @@ This technique has endlessly creative variations. The basic idea is something li
 
 Through the Monster's Eyes
 
-(https://thoughtrepair.wordpress.com/wp-content/uploads/2023/11/dallc2b7e-2023-11-18-18.32.31-a-reimagined-banner-image-showing-frankenstein-standing-on-a-hill-with-softly-curving-lines-gazing-upwards-at-a-clear-night-sky.-the-focus-is-on-his-.png)
 
 The selection of techniques I've shared is far from complete. You could spend weeks devoted to decomposing the semantics of a prompt or how to richly cross-check your new insights with competing and converging ideas and still there will be no hope in mastering Chappy before it masters you. The game of prompt engineering is one of exploring the various shades and angles of lenses that make up a crystal of billions of diffracted angles, one dimension at a time. 
 

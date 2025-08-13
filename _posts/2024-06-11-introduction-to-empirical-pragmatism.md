@@ -23,7 +23,7 @@ title: Introduction to Empirical Pragmatism
 
 
 
-**Author's Note:** *The ideas and development here are originally mine, while most of the style should be credited to Claude (chatbot).* *For example, the overall structure and pace, and notably the the afterlife illustration, is Claude's doing. I'm especially thankful to Claude for the opening sentences, and simplifying some of my ideas into the succinct "belief-action-Truth" framework. Feel free to hold me accountable for the whole thing.* 
+**Author's Note:** *The ideas and development here are originally mine, while most of the style should be credited to Claude (chatbot).* *For example, the overall structure and pace, and notably the afterlife illustration, is Claude's doing. I'm especially thankful to Claude for the opening sentences, and simplifying some of my ideas into the succinct "belief-action-Truth" framework. Feel free to hold me accountable for the whole thing.* 
 
 Our beliefs shape our actions, and our actions shape our world.
 

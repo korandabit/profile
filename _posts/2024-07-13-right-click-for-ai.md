@@ -4,10 +4,7 @@ categories:
 - Analytical Lenses
 - LLM Chatbots
 date: '2024-07-13 00:00:00'
-excerpt: com/chatgpt/mac/) marks the beginning of a new era of human-AI cognitive
-  symbiosis, fundamentally altering the landscape of human cognition and potential.
-  This incremental improvement in function to the existing technology is a pivotal
-  moment in augmented
+excerpt: The integration of AI into our desktop environment marks the beginning of a new era of human-AI cognitive symbiosis, fundamentally altering the landscape of human cognition and potential.
 layout: post
 tags:
 - ai

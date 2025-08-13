@@ -25,13 +25,13 @@ tags:
 - self-help
 - therapy
 - tldr
-title: More Questions (Books)
+title: Questions Books
 ---
 
 
 
 
-![](https://thoughtrepair.wordpress.com/wp-content/uploads/2024/07/2024-07-20-16.07.27.jpg)
+![Stack of books on questioning techniques](/images/questionbooks.jpg)
 
 We understand questions as an exchange of information, an acknowledgement of unknowns and often, of an important, unresolved problem. Below are a list of books that take each take a different approach to asking better questions and generating better answers. If you want the most change and clearest advice, read "Getting to Yes".
 

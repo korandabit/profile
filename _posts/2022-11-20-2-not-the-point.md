@@ -21,7 +21,7 @@ title: Not the Point
 
 
 
-*Brief Points on Communication #2 *
+*Brief Points on Communication #2*
 
 Dialog is two people saying words. The Point of dialog is an agreed-upon shared result (often unstated). That said, many dialogs lose the Point because of Tangents.
 
@@ -45,7 +45,7 @@ The Tangent. To talk about the Tangent is a blatant failure of the dialog. Reque
 
 All dialog is a Tangent to a result. All Tangents are either a less clear Point, or an example of this essay. Stick to your Point so you can get back to life. 
 
-### **Next**
+### Next
 
 *Examples of Not the Point*
 

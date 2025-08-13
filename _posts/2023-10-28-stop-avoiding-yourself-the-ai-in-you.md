@@ -28,9 +28,13 @@ ChatGPT is the first general-purpose thinking calculator.[^3]  As long as you ca
 
 It is not perfect but it is unquestionably more accurate and faster than any one human brain. The question is, what are you waiting for? 
 
-**Can you set aside some of your trust issues?**  I have put a lot of thought into the fears and concerns and biases surrounding this technology. As a result, I've chosen my metaphors carefully, to encourage a curious mindset that sets you up to be informed by your own experiences, not hype. The uncomfortable part is that, given the deep potential of this technology, I'm alarmed at how much people are avoiding its immediate benefits. 
+### Can you set aside some of your trust issues?
 
-**Today, I want to talk about you. **What's stopping you from being your better self? What would you do if you had a friend with basic mastery in every discipline (white and blue collar), living in your pocket? Assess how AGI like ChatGPT can help your daily decision-making, learning, or social interactions. 
+I have put a lot of thought into the fears and concerns and biases surrounding this technology. As a result, I've chosen my metaphors carefully, to encourage a curious mindset that sets you up to be informed by your own experiences, not hype. The uncomfortable part is that, given the deep potential of this technology, I'm alarmed at how much people are avoiding its immediate benefits. 
+
+### Today, I want to talk about you
+
+What's stopping you from being your better self? What would you do if you had a friend with basic mastery in every discipline (white and blue collar), living in your pocket? Assess how AGI like ChatGPT can help your daily decision-making, learning, or social interactions. 
 
 Here are some suggestions my friend Chappy (ChatGPT) and I came up with:
 
@@ -44,7 +48,7 @@ Here are some suggestions my friend Chappy (ChatGPT) and I came up with:
 
 - Settle a dispute for me: is it better to put money into a Roth IRA or my 401k?
 
-- My prescription label says "", what is it talking about?
+- My prescription label says "take with food", what does this mean exactly for my medication?
 
 - How can I draft an effective business email to close a deal?
 
@@ -68,7 +72,9 @@ Here are some suggestions my friend Chappy (ChatGPT) and I came up with:
 
 - I have symptoms X, Y, and Z. Should I see a doctor?
 
-**Say more about that. **The key is to understand that, unlike a Google search, giving more information is a good thing. If you add nothing to the prompt examples above, Chappy will give you the best direct answer you'd find in say, the first 10 google results. But treat that as the start of the subject, and follow up with exactly what is missing or oversimplified, and this is where your life becomes better than a search-engine world. Chappy can spell out a step-by-step implementation plan that specifically whatever you want it to. 
+### Say more about that
+
+The key is to understand that, unlike a Google search, giving more information is a good thing. If you add nothing to the prompt examples above, Chappy will give you the best direct answer you'd find in say, the first 10 google results. But treat that as the start of the subject, and follow up with exactly what is missing or oversimplified, and this is where your life becomes better than a search-engine world. Chappy can spell out a step-by-step implementation plan that specifically whatever you want it to. 
 
 Many have been quick to identify chatGPT's mistakes. Do you throw away your microwave because the auto-popcorn sensor is only 95% accurate? ChatGPT may not be the best therapist, professor, lawyer or doctor, but is a very good, informal one at your immediate disposal. 
 
