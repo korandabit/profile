@@ -5,10 +5,10 @@ layout: default
 ![Mark at the keys](/images/profile_main.gif)
 
 ## [Blog](/blog)
-Check out my latest thoughts and writings on my [blog page](/blog).
+Meditations outside the box (AI, society) for human well-being (self and other).
 
 ## Tech  
-I am currently applying my skills to the tech industry as a Software Design Engineer at [Edge RnD](edgernd.com).
+I specialize in designing human-AI interface (prompt engineering). I have 2 years industry experience in software design and consulting, and more than 10 years as a cognitive psychologist. Currently open to human-first AI projects, for consultation. Previously a Software Design Engineer at [Edge RnD](edgernd.com).
 
 ## PhD  
 I graduated with my PhD in Psychology from the University of Wisconsin-Madison, in 2022. I was recognized for [my advocacy work](https://grad.wisc.edu/diversity/graduate-student-service-scholarships/) by the University of Wisconsin-Madison.
@@ -42,5 +42,5 @@ Language is a powerful tool. It is also a dangerous one. We can be lured into ma
 The purpose of [Skilled Reflection](https://skilledreflection.org) is to intensely subject our personal meaning and meaning-making ("goals") to the measured, objective reality of our habits. It is a University Club I made up where students come together for focused writing, accountability, and a shared interest in practically increasing the good stuff in life. 
 
 ## Photography  
-If you prefer non-verbal exercizes of contemplating the juxtaposed desires and realities of humanity, you might browse these ["Soul Snaps"](https://soulsnap.photos).
+If you prefer non-verbal exercizes of contemplating the juxtaposed desires and realities of humanity, you might browse these ["Soul Snaps"](/photos).
 
