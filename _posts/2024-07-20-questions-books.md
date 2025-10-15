@@ -33,9 +33,15 @@ title: Questions Books
 
 ![Stack of books on questioning techniques](/images/questionbooks.jpg)
 
-We understand questions as an exchange of information, an acknowledgement of unknowns and often, of an important, unresolved problem. Below are a list of books that take each take a different approach to asking better questions and generating better answers. If you want the most change and clearest advice, read "Getting to Yes".
+We understand questions as an exchange of information, an acknowledgement of unknowns and often, of an important, unresolved problem. Below are a list of books, each taking a different approach to asking better questions and generating better answers. 
 
-If you want to deeply challenge your assumptions about questions (and therapy) read "Motivational Interviewing". If you want an introduction to the general benefits, read "Questions are the Answer". If you don't want to read, just take my bullet points, below. 
+#### Take-Aways.
+
+If you: 
+- want the most change and clearest advice, read "Getting to Yes".
+- want to deeply challenge your assumptions about questions (and therapy) read "Motivational Interviewing". 
+- want an introduction to the general benefits, read "Questions are the Answer". 
+- don't want to read, just take my bullet points, below. 
 
 #### "Questions are the Answer" (Business)
 
@@ -84,5 +90,6 @@ Teach by having students generate questions without examples or answers
 Effective questioning enhances mutual understanding, fosters personal growth, and creates space for new perspectives. It's a powerful tool for conflict resolution and building environments of continuous learning. It's about active listening, deeper understanding, and catalyzing meaningful change. Mastering this skill can transform our personal and professional interactions, leading to more insightful, respectful, and productive exchanges. 
 
 ### Acknowledgements
+
 
 Claude helped me stay focused, and consolidated many of my observations. It especially helped in translating the insights from Motivational Interviewing.
