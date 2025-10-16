@@ -22,25 +22,32 @@ title: 'Stop avoiding yourself: the AI in you'
 
 
 
-**What does your life look like if you thought less and made better decisions?** This is the most important question about AGI right now[^1][^2], and this is what ChatGPT and its inevitable successors offer. 
+### What does your life look like if you thought less and made better decisions?  
 
-ChatGPT is the first general-purpose thinking calculator.[^3]  As long as you can articulate your needs, your values, your resources and limitations, it will return an average of the right information currently available.
+This is the most important question about AGI right now[^1][^2], and this is what ChatGPT and its inevitable successors offer. 
 
-It is not perfect but it is unquestionably more accurate and faster than any one human brain. The question is, what are you waiting for? 
+ChatGPT is the first general-purpose thinking calculator.[^3] 
+As long as you can articulate your needs, your values, your resources and limitations, it will return an average of the right information currently available.
+
+It is not perfect but it is unquestionably more accurate and faster than any one human brain. 
+The question is, what are you waiting for? 
 
 ### Can you set aside some of your trust issues?
 
-I have put a lot of thought into the fears and concerns and biases surrounding this technology. As a result, I've chosen my metaphors carefully, to encourage a curious mindset that sets you up to be informed by your own experiences, not hype. The uncomfortable part is that, given the deep potential of this technology, I'm alarmed at how much people are avoiding its immediate benefits. 
+I have put a lot of thought into the fears and concerns and biases surrounding this technology. 
+As a result, I've chosen my metaphors carefully, to encourage a curious mindset that sets you up to be informed by your own experiences, not hype. The uncomfortable part is that, given the deep potential of this technology, I'm alarmed at how much people are avoiding its immediate benefits. 
 
 ### Today, I want to talk about you
 
-What's stopping you from being your better self? What would you do if you had a friend with basic mastery in every discipline (white and blue collar), living in your pocket? Assess how AGI like ChatGPT can help your daily decision-making, learning, or social interactions. 
+What's stopping you from being your better self? 
+What would you do if you had a friend with basic mastery in every discipline (white and blue collar), living in your pocket? 
+Assess how AGI like ChatGPT can help your daily decision-making, learning, or social interactions. 
 
 Here are some suggestions my friend Chappy (ChatGPT) and I came up with:
 
 - My car is making a strange noise; what could it be? It's a 2010 Civic, no prior owner. Ask me questions to help get to the bottom of it, knowing I have no tools.
 
-- Why is my dog behaving the way it is, and what are some possible solutions? 
+- Why is my dog behaving \[like this\], and what are some possible solutions? 
 
 - Which chemicals should I watch out for when shopping for a leather cleaner? 
 
@@ -58,9 +65,9 @@ Here are some suggestions my friend Chappy (ChatGPT) and I came up with:
 
 - How can I optimize my sleep cycle for better mental health?
 
-- What's the most efficient way to learn a new language? I don't like flashcards, and I've got 3 years of high school Spanish. I want to be able to make my co-worker feel more welcome.
+- What're some phrases in Spanish to make my co-worker feel more welcome? I've got 3 years of high school Spanish.
 
-- Are there any immediate benefits of blockchain technology for me?
+- Are there any immediate benefits of blockchain technology for me? Ask me relevant questions first.
 
 - My plant looks unhealthy. What could be wrong?
 
@@ -74,7 +81,8 @@ Here are some suggestions my friend Chappy (ChatGPT) and I came up with:
 
 ### Say more about that
 
-The key is to understand that, unlike a Google search, giving more information is a good thing. If you add nothing to the prompt examples above, Chappy will give you the best direct answer you'd find in say, the first 10 google results. But treat that as the start of the subject, and follow up with exactly what is missing or oversimplified, and this is where your life becomes better than a search-engine world. Chappy can spell out a step-by-step implementation plan that specifically whatever you want it to. 
+The key is to understand that, unlike a Google search, giving more information is a good thing. 
+If you add nothing to the prompt examples above, Chappy will give you the best direct answer you'd find in say, the first 10 google results. But treat that as the start of the subject, and follow up with exactly what is missing or oversimplified, and this is where your life becomes better than a search-engine world. Chappy can spell out a step-by-step implementation plan that specifically whatever you want it to. 
 
 Many have been quick to identify chatGPT's mistakes. Do you throw away your microwave because the auto-popcorn sensor is only 95% accurate? ChatGPT may not be the best therapist, professor, lawyer or doctor, but is a very good, informal one at your immediate disposal. 
 
@@ -100,4 +108,5 @@ More critically however, if there is any hope in shaping the destiny of AI, you 
 [^2]: I’m an enthusiast, there’s no hiding it. Worst case scenario, Chappy is the best entertainment and hallucination I’ve had. By my view it is a degree of mind expansion that rivals some of the most impactful courses of my graduate education. I am exhausted by new questions and answers, like I was when learning Arabic by immersion. 
 [^3]: Chappy is less like software and more like an audio codec, an intricate complex filter. It doesn’t quite “interact”. You pour in your text, and what trickles out is its response. 
 [^4]: A key topic I hope to write about next is the missing, critical need for more psychologists in the discussion of AGI and chatGPT. 
+
 
