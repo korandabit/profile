@@ -20,6 +20,7 @@ tags:
 - prompt engineering
 - questions
 - self-help
+- claude
 title: Know thAIself
 ---
 
@@ -28,31 +29,49 @@ title: Know thAIself
 
 *Prompt Engineering* *for Humans*
 
-*When neurons and nodes speak the same language, the burden to reflect is halved, and your possibilities are doubled.* Welcome to your newly augmented limbs. To truly embrace [Stop avoiding yourself: the AI in you]({{ site.baseurl }}{% post_url 2023-10-28-stop-avoiding-yourself-the-ai-in-you %}), your Googling-era skills will need a makeover.
+*When neurons and nodes speak the same language, the burden to reflect is halved, and your possibilities are doubled.* 
+Welcome to your newly augmented limbs. 
+To truly embrace [the AI in you]({{ site.baseurl }}{% post_url 2023-10-28-stop-avoiding-yourself-the-ai-in-you %}), your Googling-era skills will need a makeover.
 
-What follows are conversational techniques adapted to the strengths and limitations of ChatGPT (Chappy). 
+What follows are conversational techniques adapted to the strengths and limitations of LLMs (e.g., ChatGPT or Claude). Throughout, I'll refer to LLM chatbots such as Claude's Sonnet or OpenAI's chatGPT as Chappy.
 
+[](images/neurons-and-nodes.jpeg)
 *"When neurons and nodes speak the same language." Art created with DALL-E.*
 
 ### What are we talking about?
 
-As the human half of a relationship with blips and bloops, you'll be responsible for [navigating the AI relationship]({{ site.baseurl }}{% post_url 2023-10-28-stop-avoiding-yourself-the-ai-in-you %}) that plums the depths between our imagined worlds. Unlike past relationships with a computer, you need skills in letting go of control. You need to trust what is more important to you, and condition yourself to challenge the rest. 
+As the human half of a relationship with blips and bloops, you'll be responsible for [navigating the AI relationship]({{ site.baseurl }}{% post_url 2023-10-28-stop-avoiding-yourself-the-ai-in-you %}) that plums the depths between our imagined worlds. 
+Unlike past relationships with a computer, you need skills in letting go of control. 
+You need to trust what is more important to you, and condition yourself to challenge the rest. 
 
-Be confident in your direction, and less so about the requirements to get there. Prompts like "What am I asking about?" or "Help me better understand this problem" help ensure you're not accidentally assuming something that is in your way.[^1]  You're both checking to make sure Chappy understands you, and your own understanding of what you're talking about.[^2] 
+Be confident in your direction, and less so about the requirements to get there. 
+Prompts like "What am I asking about?" or "Help me better understand this problem" 
+help ensure you're not accidentally assuming something that is in your way.[^1] 
+You're both checking to make sure Chappy understands you, and your own understanding of what you're talking about.[^2] 
 
-Only when you arrive will it be clear you aren't quite there. At the end of my conversations, I'll ask something like: "How could I have said my part better so we got straight to the point?" In the early days, your goal is to fuse the connection with AI. Understand how it extends from you like a pencil.[^3] 
+Only when you arrive will it be clear you aren't quite there. 
+At the end of my conversations, I'll ask something like: 
+"How could I have said my part better so we got straight to the point?" 
+In the early days, your goal is to fuse the connection with AI. 
+Understand how it extends from you like a pencil.[^3] 
 
 ### Set the conversational tone
 
-*ChatGPT allows you to save customized conversational preferences*.
+Most current (2025) LLMs allow you to save customized conversational preferences. Think of these as permanent instructions considered for every conversation.
 
-Over time, you'll discover aspects of the conversation you don't want to have to repeat, or help you'd like every time. These are the basic fibers of your connection, the part you want calcified into your nerves. It will take some self -reflection to name what it is that annoys you or excites you about Chappy. 
+Over time, you'll discover aspects of the conversation you don't want to have to repeat, or help you'd like every time. 
+These are the basic fibers of your connection, the part you want calcified into your nerves. 
+It will take some self-reflection to name what it is that annoys you or excites you about Chappy. 
 
-Once you have some, put these criteria in your "custom instructions," located in the bottom left menu of the app (online version). The most useful instruction I have is to tell Chappy to keep its replies brief, by default. Here's the relevant text: 
+Once you have some, put these criteria in your "custom instructions," located in the bottom left menu of the app (online version). 
+The most useful instruction I have is to tell Chappy to keep its replies brief, by default. 
+Here's the relevant text: 
 
-*Be succinct, under 200 words. For open-ended questions keep responses to 2-3 options and for close-ended questions, like "which", answer in under 50 words with a clear preference.*
+*Be succinct, under 200 words. 
+For open-ended questions keep responses to 2-3 options and 
+for close-ended questions, like "which", answer in under 50 words with a clear preference.*
 
-And if you ever want Chappy to elaborate with a longer reply in a specific conversation just say something like, "When you answer this question, go over the word limit." 
+And if you ever want Chappy to elaborate with a longer reply in a specific conversation just say something like, blo"When you answer this question, go over the word limit." 
 
 ### Is that the best I've got?
 
@@ -117,7 +136,7 @@ This is Chappy's eye you are staring into and I am obsessing over. Chappy is fun
 
 This is not a promise. It is what the night sky looks like when I'm filled with wonder. 
 
-*Next: A re-imagining of authorship and IP in the age of generative intelligence. Custom GPTs that circumvent Chappy's limitations and flex its strengths. *
+*Next: A re-imagining of authorship and IP in the age of generative intelligence. *
 
 **Footnotes**
 [^1]: As far as I’m aware, the prescriptions of all futurists (e.g., Sam Harris, Emad Mostaque, Mo Gawdat, etc.) rely on significant social change. For all questions that hinge on mass public perception, the best step forward is an informed, first-hand social perception of what “we’re dealing with.” While existential and ethical questions about AGI are crucial, they are abstract and theoretical. The first step to activating a general public is a tangible engagement of AGI’s usefulness and risks. ↩︎
@@ -125,3 +144,4 @@ This is not a promise. It is what the night sky looks like when I'm filled with 
 [^3]: Chappy is less like software and more like an audio codec, an intricate complex filter. It doesn’t quite “interact”. You pour in your text, and what trickles out is its response. 
 
 [^4]: A key topic I hope to write about next is the missing, critical need for more psychologists in the discussion of AGI and chatGPT. 
+
