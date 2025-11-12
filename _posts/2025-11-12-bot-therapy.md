@@ -54,7 +54,7 @@ Even more, it is not a guide on how to be self-aware enough to use this to the f
 
 ## How to Go About It
 
-Start your conversation with this instruction to the bot:
+1. Start your conversation with this instruction to the bot:
 
 > *I need you to act as a cognitive mirror, not a supportive friend.
 > Your job is to reflect contradictions, surface patterns I'm not seeing, and
@@ -67,7 +67,6 @@ It shifts the bot from "supportive listener" mode to "cognitive interviewer" mod
 
 Now proceed:
 
-1. Start a bot conversation.
 2. Tell it: What's going on, how you got there, what feels like the problem.
 3. Add one or more of the text patterns below.
 4. **NOTE**: Trust the bot as much as you would trust a new friend. Trust your judgment.
