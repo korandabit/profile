@@ -74,7 +74,7 @@ Now proceed:
 
 2. Tell it: What's going on, how you got there, what feels like the problem.
 3. Add one or more of the text patterns below.
-4. **NOTE**: Trust the bot as much as you would trust a new friend. Trust your judgment.[^6][^7]
+4. **NOTE**: Trust the bot as much as you would trust a new friend. Trust your judgment.[^5][^6]
 
 The point of talking to the bot is new perspectives, not new answers per se. 
    
@@ -179,8 +179,6 @@ Escalate to humans when you need connection, accountability, or professional int
 
 [^4]: Inkster, B., et al. (2023). To chat or bot to chat: Ethical issues with using chatbots in mental health. *Digital Health*, 9, 20552076231183542. Retrieved from https://pmc.ncbi.nlm.nih.gov/articles/PMC10291862/. Chatbots lack clinical empathy and cannot pick up subtle emotional nuances and non-verbal cues essential for detecting abuse patterns.
 
-[^5]: Warren, A. (2025). Can I use AI as my therapist? *Loma Linda University News*. Retrieved from https://news.llu.edu/health-wellness/can-i-use-ai-my-therapist-truth-about-turning-chatbots-therapy. AI cannot call for help or alert emergency services in critical moments; lacks capability to assess when higher level of care needed.
+[^5]: Mathew, S., et al. (2025). The Efficacy of Conversational AI in Rectifying Theory-of-Mind and Autonomy Biases. *JMIR Mental Health*. Retrieved from https://mental.jmir.org/2025/1/e64396. Identifies overdependence risk where users rely on chatbot for emotional support rather than independently facing challenges; notes excessive use may worsen certain conditions.
 
-[^6]: Mathew, S., et al. (2025). The Efficacy of Conversational AI in Rectifying Theory-of-Mind and Autonomy Biases. *JMIR Mental Health*. Retrieved from https://mental.jmir.org/2025/1/e64396. Identifies overdependence risk where users rely on chatbot for emotional support rather than independently facing challenges; notes excessive use may worsen certain conditions.
-
-[^7]: Khawaja, Z., & Bélisle-Pipon, J.-C. (2023). Your robot therapist is not your therapist: understanding the role of AI-powered mental health chatbots. *Frontiers in Digital Health*, 5, 1278186. Retrieved from https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2023.1278186/full. Describes therapeutic misconception pathways: inaccurate marketing, digital therapeutic alliance formation, inadequate design leading to biases, and limiting autonomy.
+[^6]: Khawaja, Z., & Bélisle-Pipon, J.-C. (2023). Your robot therapist is not your therapist: understanding the role of AI-powered mental health chatbots. *Frontiers in Digital Health*, 5, 1278186. Retrieved from https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2023.1278186/full. Describes therapeutic misconception pathways: inaccurate marketing, digital therapeutic alliance formation, inadequate design leading to biases, and limiting autonomy.
