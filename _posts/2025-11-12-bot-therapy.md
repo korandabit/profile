@@ -173,7 +173,7 @@ Escalate to humans when you need connection, accountability, or professional int
 
 [^1]: Walker, E. R., Cummings, J. R., Hockenberry, J. M., & Druss, B. G. (2015). Insurance status, use of mental health services, and unmet need for mental health care in the United States. *Psychiatric services (Washington, D.C.)*, 66(6), 578–584.  Retrieved from https://doi.org/10.1176/appi.ps.201400248.
 
-[^2]: Nadarzynski, T., et al. (2023). An Overview of Chatbot-Based Mobile Mental Health Apps. *PMC*. Retrieved from https://pmc.ncbi.nlm.nih.gov/articles/PMC10225011/. Analysis of 6,245 user reviews found 44% used chatbots exclusively and expressed intention to replace professional support due to convenience.
+[^2]: Nadarzynski, T., et al. (2023). An Overview of Chatbot-Based Mobile Mental Health Apps. *PMC*. Retrieved from https://mhealth.jmir.org/2023/1/e44838. Analysis of 6,245 user reviews found 44% used chatbots exclusively and expressed intention to replace professional support due to convenience.
 
 [^3]: Heinz, M. V., et al. (2025). Randomized Trial of a Generative AI Chatbot for Mental Health Treatment. *NEJM AI*, 2(4), AIoa2400802. Retrieved from https://ai.nejm.org/doi/full/10.1056/AIoa2400802. First RCT of generative AI therapy chatbot (N=210) showed 51% depression reduction, 31% anxiety reduction, 19% eating disorder symptom reduction over 4 weeks.
 
