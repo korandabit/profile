@@ -16,8 +16,8 @@ title: "From Silence to Bot Therapy: Yes, You Can and Should Talk to Bots for He
 
 ## Context and Purpose  
 
-Some 38% of Americans have never sought therapy at any point in their lives.[^1] 
-Not from you, not from the therapist down the street or online, 
+Half of Americans with mental illness have not gotten help.[^1] 
+Not from the therapist down the street or online, 
 the therapist behind the paywall nor the therapist after hours. 
 
 For the first time ever, millions of these people are talking: 
@@ -38,7 +38,8 @@ what's the best and worst way to use a bot?
 ## What Bot Does and Doesn't Do
 
 This is not a guide for how and why a bot is good at some aspects or others. 
-Even more, it is not a guide on how to be self-aware enough to use this to the fullest (please let me know if such a guide would be useful for you).
+Even more, it is not a guide on how to be self-aware enough to use this to the fullest. 
+(Please let me know if such a guide would be useful for you.)
 
 ### Bot Effectiveness Zone:
 
@@ -170,7 +171,7 @@ Escalate to humans when you need connection, accountability, or professional int
 
 ## Footnotes
 
-[^1]: Thriveworks. (2025). *Pulse on Mental Health Report 2025*. Retrieved from https://thriveworks.com/help-with/research/pulse-on-mental-health-report/. Survey of 2,000 U.S. adults conducted February 2025 by Wakefield Research.
+[^1]: Walker, E. R., Cummings, J. R., Hockenberry, J. M., & Druss, B. G. (2015). Insurance status, use of mental health services, and unmet need for mental health care in the United States. *Psychiatric services (Washington, D.C.)*, 66(6), 578–584.  Retrieved from https://doi.org/10.1176/appi.ps.201400248.
 
 [^2]: Nadarzynski, T., et al. (2023). An Overview of Chatbot-Based Mobile Mental Health Apps. *PMC*. Retrieved from https://pmc.ncbi.nlm.nih.gov/articles/PMC10225011/. Analysis of 6,245 user reviews found 44% used chatbots exclusively and expressed intention to replace professional support due to convenience.
 
