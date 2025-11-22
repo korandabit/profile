@@ -88,8 +88,7 @@ The scanner flags `/blog/2023/10/28/stop-avoiding-yourself-the-ai-in-you/` as br
 
 ## Tools Created
 
-1. **`scan_blog_posts.py`** - Automated scanner for blog issues
-2. **`fix_post_urls.py`** - Automated fixer for Jekyll template syntax
-3. **`BLOG_SCAN_REPORT.md`** - Initial detailed scan report
+1. **`scan_blog_posts.py`** - Automated scanner for blog issues (in `tools/`)
+2. **`BLOG_SCAN_REPORT.md`** - Initial detailed scan report
 
-These tools can be reused for future blog maintenance.
+The scanner can be reused for future blog maintenance checks.

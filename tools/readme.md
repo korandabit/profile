@@ -11,12 +11,7 @@ Scans all blog posts for potential issues:
 
 **Usage:** `python3 tools/scan_blog_posts.py`
 
-### fix_post_urls.py
-Automated fixer for Jekyll `{% post_url %}` template syntax.
-
-**Note:** Rewrites entire files (changes line endings). Final fixes were done manually with surgical edits. Keep for reference.
-
-**Reports:** See [`docs/maintenance/`](../docs/maintenance/) for scan results.
+**Reports:** See [`docs/maintenance/`](../docs/maintenance/) for scan results and fix summaries.
 
 ---
 

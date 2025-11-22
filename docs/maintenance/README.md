@@ -19,7 +19,7 @@ Summary of all fixes applied to blog posts:
 - 2 files with malformed markdown corrected
 - 2 files with added image alt text
 
-All fixes done with surgical line-by-line edits to preserve formatting.
+All fixes done manually with surgical line-by-line edits to preserve formatting.
 
 ### BLOG_PROJECT_ASSESSMENT.md
 High-level assessment of blog content structure, themes, and enhancement opportunities for markkoranda.com.
@@ -27,5 +27,4 @@ High-level assessment of blog content structure, themes, and enhancement opportu
 ## Scripts
 
 Maintenance scripts are located in [`tools/`](../../tools/):
-- `scan_blog_posts.py` - Blog health checker
-- `fix_post_urls.py` - Automated link fixer (reference)
+- `scan_blog_posts.py` - Blog health checker (used to generate reports)
