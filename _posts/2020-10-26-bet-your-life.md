@@ -62,7 +62,7 @@ How real will your dreams get before you die?
 
 No really, consider it, right now. Imagine the most realistic, attainable, best life you could have. Imagine taking the first step, and stay with the thought. Listen to the fear that surfaces. For the moment, never mind how the world has gotten in your way. How are you in your own way? See your doubts with curiosity. Now bet on overcoming them. 
 
-If you take this bet up, congratulations. You've completed the first lesson of the [Intellectual Boot Camp]({{ site.baseurl }}{% post_url 2017-07-28-the-intellectual-boot-camp %}). In future lessons we'll cover bets to avoid, how words are bets, and how to let others doubt you. 
+If you take this bet up, congratulations. You've completed the first lesson of the [Intellectual Boot Camp](/blog/2017/07/28/the-intellectual-boot-camp/). In future lessons we'll cover bets to avoid, how words are bets, and how to let others doubt you. 
 
 In the latest revision of my dream, I am an educator of bets. I’ve been betting on this technique for years now. First, I was my own student, and then I recruited friends and eventually [University students](http://skilledreflection.org/club). I’ve been making the idea of Bets into reality. 
 
@@ -72,4 +72,4 @@ Maybe then I’ll write the book. Hey, a boy can bet, can't he?
 
 ### Next
 
-Check out **[Bet Your Life Notes]({{ site.baseurl }}{% post_url 2020-10-26-bet-your-life-notes %})** for an extended discussion about this topic, or **[The Intellectual Boot Camp]({{ site.baseurl }}{% post_url 2017-07-28-the-intellectual-boot-camp %})** for a background on the program that inspired Bets.
+Check out **[Bet Your Life Notes](/blog/2020/10/26/bet-your-life-notes/)** for an extended discussion about this topic, or **[The Intellectual Boot Camp](/blog/2017/07/28/the-intellectual-boot-camp/)** for a background on the program that inspired Bets.

@@ -99,4 +99,4 @@ In my mind's eye, my mom is grinning back. I wish she could see this. George ta
 
 Ingenuousness is nearly undetectable, which makes it all the more endearing.
 
-Continue reading: ({{ site.baseurl }}{% post_url 2013-04-23-9-emotional-warfare %})
+Continue reading: (/blog/2013/04/23/9-emotional-warfare/)

@@ -71,6 +71,6 @@ ANP writes verbatim: "KEL," "MELT," and "CIB." He's having a grand old time beca
 
 The remainder of the six hours in flight sorta flew by. Forget the pun. After seeing Afghanistan's future security safely file off to their destination, I enjoyed the ride back home. I read 100 pages of "The Art of Racing in the Rain" and have thus learned I have a considerable immunity to motion sickness. I saved the country by safely delivering three crates of fruit, a suitcase, and seven grown men, without having to fire a single round. This is true modern warfare. (Don't worry, I don't really believe that, I only typed it as propaganda for the dirty spies reading my blog.)
 
-**Continue reading:** ({{ site.baseurl }}{% post_url 2013-05-02-a-need-for-combat %})
+**Continue reading:** (/blog/2013/05/02/a-need-for-combat/)
 
 **Previous:** 11. The Super Bowl on AFN.

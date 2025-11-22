@@ -23,4 +23,4 @@ The outside often sees my attitude as a self-justifying situation. I am a Marine
 
 While romantic, my attitude was entirely different. I simply wanted to grow up. I wanted some time and discipline to make better choices, be more confident and capable. I was willing to do whatever the Marine Corps wanted me to, because that was key to gaining the skills and experience I wanted: discipline and obedience. I didn't care about deploying. I didn't care about putting my life in danger. Why am I so eager to deploy?
 
-Continue reading: ({{ site.baseurl }}{% post_url 2013-04-18-3-the-nights-after-the-rain %})
+Continue reading: (/blog/2013/04/18/3-the-nights-after-the-rain/)
