@@ -1,0 +1,122 @@
+# Revised Schema: Objective Psycholinguistic Metrics
+# Focused on measurable properties that differentiate THIS corpus
+
+---
+# === EXISTING ===
+title: "Post Title"
+date: '2024-01-01'
+excerpt: "..."
+slug: "post-slug"
+
+# === ANALYSIS METADATA ===
+
+analysis:
+  
+  # === STRUCTURAL (Objective, Computable) ===
+  
+  word_count: 1274
+  
+  sentence_metrics:
+    avg_sentence_length: 18.3  # words per sentence
+    max_sentence_length: 47    # longest sentence
+    
+  paragraph_metrics:
+    avg_paragraph_length: 4.2  # sentences per paragraph
+    opening_structure: narrative  # narrative|definition|argument|scene|statistic
+  
+  # === LINGUISTIC COMPLEXITY (Objective) ===
+  
+  terminology:
+    domain_term_density: 3.2   # specialized terms per 100 words
+    domains: [ai, mental-health]  # list specific domains if multiple
+    cultural_terms: [CODA, ASL, Deafhood]  # specific terms requiring cultural knowledge
+    terms_defined_inline: 6    # how many terms are explained in the text
+  
+  referential_density:
+    concepts_introduced: 8     # new frameworks/ideas in post
+    concept_rate: 0.63        # concepts per 100 words
+    entities_named: 4         # people, orgs, technologies named
+  
+  # === CONTENT STRUCTURE (Objective) ===
+  
+  content_markers:
+    has_numbered_list: true
+    has_examples: true
+    has_citations: true
+    citation_count: 6
+    has_footnotes: true
+    
+  structure_type: framework  # framework|narrative|how-to|analysis|advocacy
+  
+  # === PREREQUISITES (Specific, Decomposed) ===
+  
+  prerequisites:
+    # Domain knowledge - list ALL domains, note which are critical
+    domains:
+      - name: ai-chatbots
+        level: basic-usage      # none|awareness|basic-usage|expert
+        critical: true          # required vs. helpful
+      - name: mental-health  
+        level: awareness
+        critical: false
+    
+    # Cultural context - specific, not generic
+    cultural:
+      - context: hearing-normative-assumptions
+        requires_shift: true   # reader needs to question defaults
+      - context: therapy-access-barriers
+        requires_shift: false
+    
+    # If prerequisites mentioned in opening:
+    signals_prerequisites: true  # does opening paragraph flag requirements?
+    
+  # === DEPENDENCIES (Network) ===
+  
+  references:
+    internal:
+      - slug: stop-avoiding-yourself-the-ai-in-you
+        type: conceptual  # conceptual|prerequisite|continuation|contrast
+      - slug: know-thaiself
+        type: conceptual
+    
+    external: 6  # count
+    
+    referenced_by: []  # filled during corpus scan
+    
+  dependency_score: low  # none|low|medium|high - how much this needs other posts
+  
+  # === AUDIENCE DIFFERENTIATION (Objective Basis) ===
+  
+  accessibility:
+    linguistic_barrier: low     # none|low|medium|high (sentence complexity, vocab)
+    domain_barrier: medium      # none|low|medium|high (specialized knowledge)
+    cultural_barrier: low       # none|low|medium|high (cultural context)
+    
+    # Specific audiences with different comprehension (based on prerequisites)
+    variance_by:
+      - dimension: ai-usage
+        range: [60, 95]  # comprehension % from novice to expert
+      - dimension: mental-health-literacy  
+        range: [85, 95]
+  
+  # === ACTIONABILITY (Objective) ===
+  
+  actionability:
+    has_templates: true         # copy-paste prompts/frameworks
+    has_protocol: true          # step-by-step instructions
+    has_examples: true          # concrete demonstrations
+    implementation_time: immediate  # immediate|hours|days|ongoing
+  
+  # === RECOMMENDATIONS (Generated from analysis) ===
+  
+  read_next:
+    - slug: stop-avoiding-yourself-the-ai-in-you
+      reason: conceptual-continuation  # why this next?
+    - slug: know-thaiself
+      reason: similar-framework
+  
+  read_before: []  # prerequisites for THIS post
+  
+  enhances: [ai-chatbot-theme]  # themes/collections this enriches
+
+---

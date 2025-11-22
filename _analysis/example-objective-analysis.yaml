@@ -1,0 +1,111 @@
+# Concrete Example: not-the-point analyzed with objective schema
+
+---
+author: Mark Koranda
+categories:
+- Analytical Lenses
+date: '2022-11-20 00:00:00'
+excerpt: 'Dialog is two people saying words. The Point of dialog is an agreed-upon shared result (often unstated). That said, many dialogs lose the Point because of Tangents.'
+title: Not the Point
+slug: not-the-point
+
+analysis:
+  
+  # === STRUCTURAL (Computable) ===
+  word_count: 355
+  sentence_count: 18
+  paragraph_count: 10
+  
+  sentence_metrics:
+    avg_sentence_length: 19.7    # 355 words / 18 sentences
+    max_sentence_length: 32      # "Your partner may feel that the sarcastic..."
+    min_sentence_length: 6       # "Dialog is two people saying words."
+    
+  paragraph_metrics:
+    avg_paragraph_length: 1.8    # sentences per paragraph
+    opening_structure: definition  # "Dialog is two people saying words."
+  
+  # === LINGUISTIC COMPLEXITY (Objective) ===
+  
+  terminology:
+    domain_term_density: 0       # zero specialized/technical terms
+    domains: []                  # no domain-specific knowledge required
+    cultural_terms: []           # no cultural-specific terms
+    terms_defined_inline: 2      # "Point", "Tangent" - both defined
+  
+  referential_density:
+    concepts_introduced: 1       # Point vs. Tangent framework
+    concept_rate: 0.28          # 1 concept / 355 words * 100
+    entities_named: 0           # no people, orgs, technologies
+  
+  # === CONTENT STRUCTURE (Objective) ===
+  
+  content_markers:
+    has_numbered_list: false
+    has_bullet_list: false
+    has_examples: true          # dinner conversation scenario
+    has_citations: false
+    citation_count: 0
+    has_footnotes: false
+    
+  structure_type: framework     # introduces binary classification system
+  
+  # === PREREQUISITES (Specific) ===
+  
+  prerequisites:
+    domains: []                  # genuinely no domain knowledge required
+    
+    cultural: []                 # no cultural context required
+    
+    signals_prerequisites: false # opening assumes zero background
+    
+  # === DEPENDENCIES (Network) ===
+  
+  references:
+    internal:
+      - slug: examples-of-not-the-point  # referenced but doesn't exist
+        type: continuation
+      - slug: the-point
+        type: continuation
+    
+    external: 0
+    
+    referenced_by: []  # TBD during corpus scan
+    
+  dependency_score: low  # references future posts but standalone
+  
+  # === AUDIENCE DIFFERENTIATION ===
+  
+  accessibility:
+    linguistic_barrier: none    # simplest language in corpus
+    domain_barrier: none        # zero domain knowledge
+    cultural_barrier: none      # universal experience (arguments)
+    
+    variance_by:
+      - dimension: argument-experience
+        range: [90, 100]  # near-universal comprehension
+  
+  # === ACTIONABILITY (Objective) ===
+  
+  actionability:
+    has_templates: false
+    has_protocol: true          # two-option response system
+    has_examples: true          # concrete dinner scenario
+    implementation_time: immediate  # use in next conversation
+  
+  # === RECOMMENDATIONS ===
+  
+  read_next:
+    - slug: read-receipts-irl
+      reason: similar-framework  # communication pattern analysis
+    - slug: reader-and-writer
+      reason: conceptual-continuation  # said vs heard asymmetry
+  
+  read_before: []  # no prerequisites
+  
+  enhances: [communication-theme]
+
+---
+
+# Post content...
+
