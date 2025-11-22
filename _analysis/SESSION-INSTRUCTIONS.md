@@ -43,7 +43,7 @@ analysis:
 ```
 Continue systematic post analysis, Session N.
 
-Analyze the following posts using the objective schema in _analysis/revised-schema.yaml:
+Analyze the following posts using the objective schema in _analysis/schema.yaml:
 
 [List 8-10 post slugs here]
 
@@ -238,7 +238,7 @@ not-the-point          | 355   | framework | minimal   | 0       | all:none
 
 ## File Locations
 
-- Schema: `_analysis/revised-schema.yaml`
+- Schema: `_analysis/schema.yaml`
 - Scoping: `_analysis/SCOPING-CRITERIA.md`
 - This file: `_analysis/SESSION-INSTRUCTIONS.md`
 - Output: `_data/post_analysis.json` (create if doesn't exist)

@@ -20,7 +20,7 @@ Continue systematic post analysis, Session 2 (TEST BATCH).
 
 Context:
 - Branch: claude/systematic-post-analysis-013B5xpqWPDTFxrga3Z8So73
-- Schema: _analysis/revised-schema.yaml
+- Schema: _analysis/schema.yaml
 - Scoping: _analysis/SCOPING-CRITERIA.md
 - Instructions: _analysis/SESSION-INSTRUCTIONS.md
 
