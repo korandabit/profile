@@ -94,17 +94,19 @@ Welcome to my blog, where I explore various ideas and topics. Below you'll find 
 <div class="theme-container">
     <div class="theme-box">
         <h3>Discovering AI Chatbots</h3>
-        <p>Developing a rich and nuanced perspective on the immediate psychological implications of a current and future relationship with AI.</p>
+        <p>For millions who've never had anyone to talk to, chatbots aren't replacing therapy—they're creating conversation where silence existed.</p>
         <ul>
+            <li><a href="{% post_url 2025-11-12-bot-therapy %}">From Silence to Bot Therapy</a></li>
             <li><a href="{% post_url 2023-10-28-stop-avoiding-yourself-the-ai-in-you %}">Stop avoiding yourself: the AI in you</a></li>
+            <li><a href="{% post_url 2024-09-16-awakening-ai %}">Awakening the AI</a></li>
+            <li><a href="{% post_url 2024-09-17-ai-zombie %}">AI Zombie</a></li>
             <li><a href="{% post_url 2024-08-30-ai-the-next-technological-leap %}">AI: The Next Technological Leap</a></li>
-            <li><a href="{% post_url 2024-07-17-the-fear-and-power-of-singularity %}">The fear and power of singularity</a></li>
             <li><a href="{% post_url 2024-07-13-right-click-for-ai %}">Right-click for AI</a></li>
         </ul>
     </div>
     <div class="theme-box">
         <h3>Communication</h3>
-        <p>Uncovering the critical first-principles of language as a technology, with the goal of improving your relationships.</p>
+        <p>Dialog is two people saying words. The Point of dialog is an agreed-upon shared result. That said, many dialogs lose the Point because of Tangents.</p>
         <ul>
             <li><a href="{% post_url 2022-11-20-2-not-the-point %}">Not the Point</a></li>
             <li><a href="{% post_url 2023-08-08-read-receipts-irl %}">Read Receipts IRL</a></li>
@@ -142,9 +144,23 @@ Welcome to my blog, where I explore various ideas and topics. Below you'll find 
     <div class="theme-box">
         <h3>Military</h3>
         <p>Exploring the psychology and existence of someone who participated in war and tried to come back home.</p>
+        <p><strong>Retrospective</strong></p>
         <ul>
             <li><a href="{% post_url 2017-04-08-the-unedited-war-story-of-a-veteran %}">The Unedited War Story of a Veteran</a></li>
             <li><a href="{% post_url 2017-07-28-the-intellectual-boot-camp %}">The Intellectual Boot Camp</a></li>
+        </ul>
+        <p><strong>Afghanistan 2013: Real-Time Deployment</strong></p>
+        <ul>
+            <li><a href="{% post_url 2013-04-17-preface-one-of-those-guys %}">Preface: One of Those Guys</a></li>
+            <li><a href="{% post_url 2013-04-17-1-it-rained %}">1. It Rained</a></li>
+            <li><a href="{% post_url 2013-04-18-5-webcam-starts-to-capture %}">5. Webcam Starts to Capture</a></li>
+            <li><a href="{% post_url 2013-04-20-7-a-christmas-special %}">7. A Christmas Special</a></li>
+            <li><a href="{% post_url 2013-04-23-9-emotional-warfare %}">9. Emotional Warfare</a></li>
+            <li><a href="{% post_url 2013-04-25-10-a-fog-of-war %}">10. A Fog of War</a></li>
+            <li><a href="{% post_url 2013-04-27-12-grenades-cigarettes-or-melons %}">12. Grenades, Cigarettes, or Melons</a></li>
+            <li><a href="{% post_url 2013-05-12-14-everyday %}">14. Everyday</a></li>
+            <li><a href="{% post_url 2013-05-16-15-lead-me-home %}">15. Lead Me Home</a></li>
+            <li><a href="{% post_url 2013-05-02-a-need-for-combat %}">A Need for Combat</a></li>
         </ul>
     </div>
 </div>
