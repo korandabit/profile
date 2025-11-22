@@ -12,3 +12,4 @@ kramdown:
   syntax_highlighter: rouge
 exclude:
   - _analysis
+  - docs
