@@ -2,15 +2,263 @@
   "_meta": {
     "schema_version": "1.0",
     "last_updated": "2025-11-22",
-    "total_posts_analyzed": 0,
-    "sessions_completed": 1,
+    "total_posts_analyzed": 3,
+    "sessions_completed": 2,
     "notes": "Hybrid storage: minimal YAML in posts, full analysis here"
   },
-  
+
   "_sample_posts": {
     "bot-therapy": "Analyzed in Session 1 (framework development)",
     "not-the-point": "Analyzed in Session 1 (framework development)",
     "deafhood-unheard": "Analyzed in Session 1 (framework development)",
     "the-unedited-war-story-of-a-veteran": "Analyzed in Session 1 (framework development)"
+  },
+
+  "stop-avoiding-yourself-the-ai-in-you": {
+    "word_count": 950,
+
+    "sentence_metrics": {
+      "avg_sentence_length": 18.2,
+      "max_sentence_length": 52
+    },
+
+    "opening_structure": "question",
+    "structure_type": "framework",
+
+    "terminology": {
+      "domain_term_density": 2.1,
+      "domains": ["ai-chatbots"],
+      "cultural_terms": [],
+      "terms_defined_inline": 3
+    },
+
+    "referential_density": {
+      "concepts_introduced": 6,
+      "concept_rate": 0.63,
+      "entities_named": 2
+    },
+
+    "content_markers": {
+      "has_numbered_list": false,
+      "has_bullet_list": true,
+      "has_examples": true,
+      "has_citations": true,
+      "citation_count": 4,
+      "has_footnotes": true
+    },
+
+    "prerequisites": {
+      "domains": [
+        {
+          "name": "ai-chatbots",
+          "level": "basic-usage",
+          "critical": true
+        }
+      ],
+      "cultural": [],
+      "signals_prerequisites": false
+    },
+
+    "references": {
+      "internal": [
+        {
+          "slug": "future-workshop-post",
+          "type": "continuation",
+          "note": "Mentions future in-depth workshop post"
+        }
+      ],
+      "external": 4,
+      "referenced_by": []
+    },
+
+    "dependency_score": "low",
+
+    "accessibility": {
+      "linguistic_barrier": "low",
+      "domain_barrier": "medium",
+      "cultural_barrier": "none",
+      "variance_by": [
+        {
+          "dimension": "ai-chatbot-usage",
+          "range": [60, 95]
+        }
+      ]
+    },
+
+    "actionability": {
+      "has_templates": true,
+      "has_protocol": true,
+      "has_examples": true,
+      "implementation_time": "immediate"
+    },
+
+    "read_next": [
+      {
+        "slug": "bot-therapy",
+        "reason": "similar-framework"
+      },
+      {
+        "slug": "know-thaiself",
+        "reason": "conceptual-continuation"
+      }
+    ],
+
+    "read_before": [],
+    "enhances": ["ai-chatbot-theme"]
+  },
+
+  "ai-the-next-technological-leap": {
+    "word_count": 550,
+
+    "sentence_metrics": {
+      "avg_sentence_length": 22.4,
+      "max_sentence_length": 48
+    },
+
+    "opening_structure": "argument",
+    "structure_type": "analysis",
+
+    "terminology": {
+      "domain_term_density": 4.5,
+      "domains": ["ai-chatbots", "cognitive-science"],
+      "cultural_terms": [],
+      "terms_defined_inline": 4
+    },
+
+    "referential_density": {
+      "concepts_introduced": 5,
+      "concept_rate": 0.91,
+      "entities_named": 0
+    },
+
+    "content_markers": {
+      "has_numbered_list": false,
+      "has_bullet_list": false,
+      "has_examples": true,
+      "has_citations": false,
+      "citation_count": 0,
+      "has_footnotes": false
+    },
+
+    "prerequisites": {
+      "domains": [
+        {
+          "name": "ai-chatbots",
+          "level": "basic-usage",
+          "critical": true
+        },
+        {
+          "name": "cognitive-science",
+          "level": "awareness",
+          "critical": false
+        }
+      ],
+      "cultural": [],
+      "signals_prerequisites": false
+    },
+
+    "references": {
+      "internal": [],
+      "external": 0,
+      "referenced_by": []
+    },
+
+    "dependency_score": "none",
+
+    "accessibility": {
+      "linguistic_barrier": "medium",
+      "domain_barrier": "medium",
+      "cultural_barrier": "none",
+      "variance_by": [
+        {
+          "dimension": "cognitive-science-literacy",
+          "range": [65, 95]
+        },
+        {
+          "dimension": "ai-usage",
+          "range": [70, 95]
+        }
+      ]
+    },
+
+    "actionability": {
+      "has_templates": false,
+      "has_protocol": false,
+      "has_examples": true,
+      "implementation_time": "ongoing"
+    },
+
+    "read_next": [
+      {
+        "slug": "stop-avoiding-yourself-the-ai-in-you",
+        "reason": "conceptual-foundation"
+      },
+      {
+        "slug": "right-click-for-ai",
+        "reason": "practical-application"
+      }
+    ],
+
+    "read_before": [],
+    "enhances": ["ai-chatbot-theme", "cognitive-augmentation-theme"]
+  },
+
+  "right-click-for-ai": {
+    "word_count": 280,
+
+    "opening_structure": "argument",
+    "structure_type": "analysis",
+
+    "accessibility": {
+      "linguistic_barrier": "low",
+      "domain_barrier": "medium",
+      "cultural_barrier": "none"
+    },
+
+    "content_markers": {
+      "has_citations": true,
+      "citation_count": 1,
+      "has_examples": true
+    },
+
+    "terminology": {
+      "domain_term_density": 3.6,
+      "domains": ["ai-chatbots"],
+      "cultural_terms": [],
+      "terms_defined_inline": 0
+    },
+
+    "prerequisites": {
+      "domains": [
+        {
+          "name": "ai-chatbots",
+          "level": "awareness",
+          "critical": true
+        }
+      ],
+      "cultural": []
+    },
+
+    "references": {
+      "internal": [],
+      "external": 1,
+      "referenced_by": []
+    },
+
+    "dependency_score": "none",
+
+    "read_next": [
+      {
+        "slug": "ai-the-next-technological-leap",
+        "reason": "conceptual-expansion"
+      },
+      {
+        "slug": "stop-avoiding-yourself-the-ai-in-you",
+        "reason": "practical-examples"
+      }
+    ],
+
+    "read_before": [],
+    "enhances": ["ai-chatbot-theme"]
   }
 }
