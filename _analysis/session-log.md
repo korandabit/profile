@@ -72,3 +72,31 @@ This is an append-only log of all analysis sessions.
 **Validation:** All checks passed ✓
 
 ---
+## Session 4: Communication Theme
+**Date:** 2025-11-22
+**Branch:** claude/analysis-session-4
+**Commit:** pending
+**Status:** Completed
+**Posts analyzed:** 3
+
+**Posts:**
+- read-receipts-irl (460w, framework)
+- the-agreement-between-reader-and-writer (290w, framework - minimal scope)
+- say-less-and-more (280w, analysis - minimal scope)
+
+**Key findings:**
+- All 3 posts focus on communication domain
+- 2 of 3 posts under 400w (minimal scope correctly applied)
+- Low domain barriers across all posts (accessible to general audience)
+- agreement-between-reader has internal reference to "not-the-point" (series connection)
+- say-less-and-more bridges AI and communication themes
+- All posts emphasize actionable communication techniques
+
+**Edge cases:**
+- say-less-and-more crosses themes (ai-chatbots + communication + education)
+- agreement-between-reader is highly philosophical yet accessible
+- read-receipts-irl has practical protocol despite theoretical framework
+
+**Validation:** All checks passed ✓
+
+---
