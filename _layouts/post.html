@@ -4,101 +4,16 @@ layout: default
 
 <style>
 .post-metadata {
-    background: #f8f9fa;
-    border-left: 4px solid #007bff;
-    padding: 15px;
-    margin: 20px 0;
-    border-radius: 4px;
-}
-
-.post-metadata h4 {
-    margin-top: 0;
-    color: #333;
-    font-size: 0.9em;
-    text-transform: uppercase;
-    letter-spacing: 0.5px;
-}
-
-.metadata-row {
-    display: flex;
-    gap: 20px;
-    flex-wrap: wrap;
-    margin: 10px 0;
-}
-
-.metadata-item {
-    display: flex;
-    align-items: center;
-    gap: 5px;
-}
-
-.metadata-item strong {
-    color: #555;
-    font-size: 0.85em;
-}
-
-.badge {
-    display: inline-block;
-    padding: 3px 8px;
-    border-radius: 3px;
-    font-size: 0.75em;
-    font-weight: 600;
-    text-transform: uppercase;
-}
-
-.badge-success { background: #d4edda; color: #155724; }
-.badge-warning { background: #fff3cd; color: #856404; }
-.badge-danger { background: #f8d7da; color: #721c24; }
-.badge-info { background: #d1ecf1; color: #0c5460; }
-
-.read-next {
-    background: #fff;
-    border: 1px solid #e0e0e0;
-    padding: 20px;
-    margin: 30px 0;
-    border-radius: 4px;
-}
-
-.read-next h3 {
-    margin-top: 0;
-    color: #333;
-    font-size: 1.2em;
-}
-
-.read-next ul {
-    list-style: none;
-    padding: 0;
-}
-
-.read-next li {
-    margin: 10px 0;
-    padding-left: 20px;
-    position: relative;
-}
-
-.read-next li:before {
-    content: "→";
-    position: absolute;
-    left: 0;
-    color: #007bff;
-}
-
-.read-next .reason {
-    font-size: 0.85em;
     color: #666;
-    font-style: italic;
+    font-size: 0.9em;
+    margin: 10px 0;
 }
-
-.prerequisites-warning {
-    background: #fff3cd;
-    border-left: 4px solid #ffc107;
-    padding: 15px;
-    margin: 20px 0;
-    border-radius: 4px;
+.post-metadata span:not(:last-child):after {
+    content: " • ";
 }
-
-.prerequisites-warning strong {
-    color: #856404;
+.read-next {
+    margin: 30px 0;
+    font-size: 0.95em;
 }
 </style>
 
@@ -117,100 +32,33 @@ layout: default
 
 {% if post_data or page.analysis %}
 <div class="post-metadata">
-    <div class="metadata-row">
-        {% if post_data.word_count %}
-        <div class="metadata-item">
-            <strong>📖 Reading time:</strong>
-            <span>{{ post_data.word_count | divided_by: 200 | plus: 1 }} min ({{ post_data.word_count }} words)</span>
-        </div>
-        {% endif %}
-
-        {% if page.analysis.structure or post_data.structure_type %}
-        <div class="metadata-item">
-            <strong>📝 Type:</strong>
-            <span class="badge badge-info">{{ page.analysis.structure | default: post_data.structure_type | capitalize }}</span>
-        </div>
-        {% endif %}
-    </div>
-
-    {% if page.analysis.barriers or post_data.accessibility %}
-    <div class="metadata-row">
-        <div class="metadata-item">
-            <strong>🎯 Accessibility:</strong>
-        </div>
-
-        {% assign domain_barrier = page.analysis.barriers.domain | default: post_data.accessibility.domain_barrier %}
-        {% if domain_barrier == "none" or domain_barrier == "low" %}
-            <span class="badge badge-success">Accessible</span>
-        {% elsif domain_barrier == "medium" %}
-            <span class="badge badge-warning">Some expertise helpful</span>
-        {% else %}
-            <span class="badge badge-danger">Specialized knowledge needed</span>
-        {% endif %}
-
-        {% assign cultural_barrier = page.analysis.barriers.cultural | default: post_data.accessibility.cultural_barrier %}
-        {% if cultural_barrier == "high" or cultural_barrier == "medium" %}
-            <span class="badge badge-warning">Cultural context needed</span>
-        {% endif %}
-    </div>
-    {% endif %}
+    {% if post_data.word_count %}<span>{{ post_data.word_count | divided_by: 200 | plus: 1 }}min read ({{ post_data.word_count }}w)</span>{% endif %}
+    {% if page.analysis.structure or post_data.structure_type %}<span>{{ page.analysis.structure | default: post_data.structure_type }}</span>{% endif %}
+    {% assign domain_barrier = page.analysis.barriers.domain | default: post_data.accessibility.domain_barrier %}
+    {% if domain_barrier == "high" %}<span>technical</span>{% endif %}
 </div>
-
-{% if post_data.prerequisites %}
-    {% if post_data.prerequisites.domains.size > 0 or post_data.prerequisites.cultural.size > 0 %}
-    <div class="prerequisites-warning">
-        <strong>💡 Background:</strong> This post assumes familiarity with
-        {% if post_data.prerequisites.domains.size > 0 %}
-            {% for domain in post_data.prerequisites.domains %}
-                {% if domain.critical %}
-                    <strong>{{ domain.name | replace: "-", " " }}</strong>{% unless forloop.last %}, {% endunless %}
-                {% endif %}
-            {% endfor %}
-        {% endif %}
-        {% if post_data.prerequisites.cultural.size > 0 %}
-            {% for cultural in post_data.prerequisites.cultural %}
-                {% if cultural.requires_shift %}
-                    and may challenge <strong>{{ cultural.context | replace: "-", " " }}</strong>
-                {% endif %}
-            {% endfor %}
-        {% endif %}
-    </div>
-    {% endif %}
-{% endif %}
 {% endif %}
 
 {{ content }}
 
 {% if page.analysis.read_next or post_data.read_next %}
 <div class="read-next">
-    <h3>📚 Read Next</h3>
-    <ul>
+    <strong>Read next:</strong>
     {% if page.analysis.read_next %}
         {% for next_post in page.analysis.read_next %}
             {% assign next_post_obj = site.posts | where: "slug", next_post.slug | first %}
             {% if next_post_obj %}
-            <li>
-                <a href="{{ next_post_obj.url | relative_url }}">{{ next_post_obj.title }}</a>
-                {% if next_post.reason %}
-                <br><span class="reason">{{ next_post.reason | replace: "-", " " | capitalize }}</span>
-                {% endif %}
-            </li>
+                <a href="{{ next_post_obj.url | relative_url }}">{{ next_post_obj.title }}</a>{% unless forloop.last %}, {% endunless %}
             {% endif %}
         {% endfor %}
     {% elsif post_data.read_next %}
         {% for next_post in post_data.read_next %}
             {% assign next_post_obj = site.posts | where: "slug", next_post.slug | first %}
             {% if next_post_obj %}
-            <li>
-                <a href="{{ next_post_obj.url | relative_url }}">{{ next_post_obj.title }}</a>
-                {% if next_post.reason %}
-                <br><span class="reason">{{ next_post.reason | replace: "-", " " | capitalize }}</span>
-                {% endif %}
-            </li>
+                <a href="{{ next_post_obj.url | relative_url }}">{{ next_post_obj.title }}</a>{% unless forloop.last %}, {% endunless %}
             {% endif %}
         {% endfor %}
     {% endif %}
-    </ul>
 </div>
 {% endif %}
 
