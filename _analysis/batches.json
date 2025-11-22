@@ -1,0 +1,124 @@
+{
+  "batches": [
+    {
+      "session": 1,
+      "name": "Framework Development",
+      "status": "completed",
+      "posts": [
+        "bot-therapy",
+        "not-the-point",
+        "deafhood-unheard",
+        "the-unedited-war-story-of-a-veteran"
+      ],
+      "note": "Sample posts used to develop analysis framework"
+    },
+    {
+      "session": 2,
+      "name": "AI Theme - Test Batch",
+      "status": "completed",
+      "posts": [
+        "2023-10-28-stop-avoiding-yourself-the-ai-in-you",
+        "2024-08-30-ai-the-next-technological-leap",
+        "2024-07-13-right-click-for-ai"
+      ],
+      "theme": "ai"
+    },
+    {
+      "session": 3,
+      "name": "AI Theme - Full Batch",
+      "status": "pending",
+      "posts": [
+        "2024-09-16-awakening-ai",
+        "2024-09-17-ai-zombie",
+        "2024-07-17-the-fear-and-power-of-singularity",
+        "2023-11-14-know-thaiself"
+      ],
+      "theme": "ai"
+    },
+    {
+      "session": 4,
+      "name": "Communication Theme",
+      "status": "pending",
+      "posts": [
+        "2023-08-08-read-receipts-irl",
+        "2022-04-18-the-agreement-between-reader-and-writer",
+        "2024-07-13-say-less-and-more"
+      ],
+      "theme": "communication"
+    },
+    {
+      "session": 5,
+      "name": "Language Science",
+      "status": "pending",
+      "posts": [
+        "2024-06-11-introduction-to-empirical-pragmatism",
+        "2024-06-06-words-youve-never-heard",
+        "2024-07-16-all-the-right-words-youve-said-or-read"
+      ],
+      "theme": "language-science"
+    },
+    {
+      "session": 6,
+      "name": "Cognitive Growth",
+      "status": "pending",
+      "posts": [
+        "2020-10-26-bet-your-life",
+        "2020-10-26-bet-your-life-notes",
+        "2024-07-20-questions-books"
+      ],
+      "theme": "cognitive-growth"
+    },
+    {
+      "session": 7,
+      "name": "Deaf Culture",
+      "status": "pending",
+      "posts": [
+        "2013-10-26-the-definition-of-deaf",
+        "2014-10-10-language-with-a-bionic-ear"
+      ],
+      "theme": "deaf-culture"
+    },
+    {
+      "session": 8,
+      "name": "Military - Retrospective",
+      "status": "pending",
+      "posts": [
+        "2017-07-28-the-intellectual-boot-camp"
+      ],
+      "theme": "military"
+    },
+    {
+      "session": 9,
+      "name": "Military - 2013 Serialization Part 1",
+      "status": "pending",
+      "posts": [
+        "2013-04-17-preface-one-of-those-guys",
+        "2013-04-17-1-it-rained",
+        "2013-04-17-2-unfinished-predeployment-sentiments",
+        "2013-04-18-3-the-nights-after-the-rain",
+        "2013-04-18-4-haircut-hysteria",
+        "2013-04-18-5-webcam-starts-to-capture",
+        "2013-04-20-6-battle-for-peace-and-quiet",
+        "2013-04-20-7-a-christmas-special",
+        "2013-04-20-8-the-sweeter-side-of-work",
+        "2013-04-23-9-emotional-warfare"
+      ],
+      "theme": "military"
+    },
+    {
+      "session": 10,
+      "name": "Military - 2013 Serialization Part 2",
+      "status": "pending",
+      "posts": [
+        "2013-04-25-10-a-fog-of-war",
+        "2013-04-26-11-the-superbowl-on-afn",
+        "2013-04-27-12-grenades-cigarettes-or-melons",
+        "2013-05-12-14-everyday",
+        "2013-05-16-15-lead-me-home",
+        "2013-05-02-a-need-for-combat"
+      ],
+      "theme": "military"
+    }
+  ],
+  "note": "This file defines all analysis batches. Status can be: pending, in_progress, completed, skipped"
+}
