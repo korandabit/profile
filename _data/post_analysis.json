@@ -2,42 +2,37 @@
   "_meta": {
     "schema_version": "1.0",
     "last_updated": "2025-11-22",
-    "total_posts_analyzed": 10,
-    "sessions_completed": 4,
+    "total_posts_analyzed": 35,
+    "sessions_completed": 10,
     "notes": "Hybrid storage: minimal YAML in posts, full analysis here"
   },
-
   "_sample_posts": {
     "bot-therapy": "Analyzed in Session 1 (framework development)",
     "not-the-point": "Analyzed in Session 1 (framework development)",
     "deafhood-unheard": "Analyzed in Session 1 (framework development)",
     "the-unedited-war-story-of-a-veteran": "Analyzed in Session 1 (framework development)"
   },
-
   "stop-avoiding-yourself-the-ai-in-you": {
     "word_count": 950,
-
     "sentence_metrics": {
       "avg_sentence_length": 18.2,
       "max_sentence_length": 52
     },
-
     "opening_structure": "question",
     "structure_type": "framework",
-
     "terminology": {
       "domain_term_density": 2.1,
-      "domains": ["ai-chatbots"],
+      "domains": [
+        "ai-chatbots"
+      ],
       "cultural_terms": [],
       "terms_defined_inline": 3
     },
-
     "referential_density": {
       "concepts_introduced": 6,
       "concept_rate": 0.63,
       "entities_named": 2
     },
-
     "content_markers": {
       "has_numbered_list": false,
       "has_bullet_list": true,
@@ -46,7 +41,6 @@
       "citation_count": 4,
       "has_footnotes": true
     },
-
     "prerequisites": {
       "domains": [
         {
@@ -58,7 +52,6 @@
       "cultural": [],
       "signals_prerequisites": false
     },
-
     "references": {
       "internal": [
         {
@@ -70,9 +63,7 @@
       "external": 4,
       "referenced_by": []
     },
-
     "dependency_score": "low",
-
     "accessibility": {
       "linguistic_barrier": "low",
       "domain_barrier": "medium",
@@ -80,18 +71,19 @@
       "variance_by": [
         {
           "dimension": "ai-chatbot-usage",
-          "range": [60, 95]
+          "range": [
+            60,
+            95
+          ]
         }
       ]
     },
-
     "actionability": {
       "has_templates": true,
       "has_protocol": true,
       "has_examples": true,
       "implementation_time": "immediate"
     },
-
     "read_next": [
       {
         "slug": "bot-therapy",
@@ -102,35 +94,33 @@
         "reason": "conceptual-continuation"
       }
     ],
-
     "read_before": [],
-    "enhances": ["ai-chatbot-theme"]
+    "enhances": [
+      "ai-chatbot-theme"
+    ]
   },
-
   "ai-the-next-technological-leap": {
     "word_count": 550,
-
     "sentence_metrics": {
       "avg_sentence_length": 22.4,
       "max_sentence_length": 48
     },
-
     "opening_structure": "argument",
     "structure_type": "analysis",
-
     "terminology": {
       "domain_term_density": 4.5,
-      "domains": ["ai-chatbots", "cognitive-science"],
+      "domains": [
+        "ai-chatbots",
+        "cognitive-science"
+      ],
       "cultural_terms": [],
       "terms_defined_inline": 4
     },
-
     "referential_density": {
       "concepts_introduced": 5,
       "concept_rate": 0.91,
       "entities_named": 0
     },
-
     "content_markers": {
       "has_numbered_list": false,
       "has_bullet_list": false,
@@ -139,7 +129,6 @@
       "citation_count": 0,
       "has_footnotes": false
     },
-
     "prerequisites": {
       "domains": [
         {
@@ -156,15 +145,12 @@
       "cultural": [],
       "signals_prerequisites": false
     },
-
     "references": {
       "internal": [],
       "external": 0,
       "referenced_by": []
     },
-
     "dependency_score": "none",
-
     "accessibility": {
       "linguistic_barrier": "medium",
       "domain_barrier": "medium",
@@ -172,22 +158,26 @@
       "variance_by": [
         {
           "dimension": "cognitive-science-literacy",
-          "range": [65, 95]
+          "range": [
+            65,
+            95
+          ]
         },
         {
           "dimension": "ai-usage",
-          "range": [70, 95]
+          "range": [
+            70,
+            95
+          ]
         }
       ]
     },
-
     "actionability": {
       "has_templates": false,
       "has_protocol": false,
       "has_examples": true,
       "implementation_time": "ongoing"
     },
-
     "read_next": [
       {
         "slug": "stop-avoiding-yourself-the-ai-in-you",
@@ -198,36 +188,34 @@
         "reason": "practical-application"
       }
     ],
-
     "read_before": [],
-    "enhances": ["ai-chatbot-theme", "cognitive-augmentation-theme"]
+    "enhances": [
+      "ai-chatbot-theme",
+      "cognitive-augmentation-theme"
+    ]
   },
-
   "right-click-for-ai": {
     "word_count": 280,
-
     "opening_structure": "argument",
     "structure_type": "analysis",
-
     "accessibility": {
       "linguistic_barrier": "low",
       "domain_barrier": "medium",
       "cultural_barrier": "none"
     },
-
     "content_markers": {
       "has_citations": true,
       "citation_count": 1,
       "has_examples": true
     },
-
     "terminology": {
       "domain_term_density": 3.6,
-      "domains": ["ai-chatbots"],
+      "domains": [
+        "ai-chatbots"
+      ],
       "cultural_terms": [],
       "terms_defined_inline": 0
     },
-
     "prerequisites": {
       "domains": [
         {
@@ -238,15 +226,12 @@
       ],
       "cultural": []
     },
-
     "references": {
       "internal": [],
       "external": 1,
       "referenced_by": []
     },
-
     "dependency_score": "none",
-
     "read_next": [
       {
         "slug": "ai-the-next-technological-leap",
@@ -257,35 +242,34 @@
         "reason": "practical-examples"
       }
     ],
-
     "read_before": [],
-    "enhances": ["ai-chatbot-theme"]
+    "enhances": [
+      "ai-chatbot-theme"
+    ]
   },
-
   "awakening-ai": {
     "word_count": 1050,
-
     "sentence_metrics": {
       "avg_sentence_length": 23.6,
       "max_sentence_length": 64
     },
-
     "opening_structure": "argument",
     "structure_type": "framework",
-
     "terminology": {
       "domain_term_density": 6.2,
-      "domains": ["ai", "cognitive-science", "machine-learning"],
+      "domains": [
+        "ai",
+        "cognitive-science",
+        "machine-learning"
+      ],
       "cultural_terms": [],
       "terms_defined_inline": 7
     },
-
     "referential_density": {
       "concepts_introduced": 8,
       "concept_rate": 0.76,
       "entities_named": 3
     },
-
     "content_markers": {
       "has_numbered_list": true,
       "has_bullet_list": true,
@@ -294,7 +278,6 @@
       "citation_count": 18,
       "has_footnotes": true
     },
-
     "prerequisites": {
       "domains": [
         {
@@ -311,15 +294,12 @@
       "cultural": [],
       "signals_prerequisites": false
     },
-
     "references": {
       "internal": [],
       "external": 18,
       "referenced_by": []
     },
-
     "dependency_score": "none",
-
     "accessibility": {
       "linguistic_barrier": "high",
       "domain_barrier": "high",
@@ -327,22 +307,26 @@
       "variance_by": [
         {
           "dimension": "ai-literacy",
-          "range": [40, 90]
+          "range": [
+            40,
+            90
+          ]
         },
         {
           "dimension": "cognitive-science-background",
-          "range": [50, 95]
+          "range": [
+            50,
+            95
+          ]
         }
       ]
     },
-
     "actionability": {
       "has_templates": false,
       "has_protocol": false,
       "has_examples": true,
       "implementation_time": "ongoing"
     },
-
     "read_next": [
       {
         "slug": "ai-zombie",
@@ -353,35 +337,34 @@
         "reason": "actionable-application"
       }
     ],
-
     "read_before": [],
-    "enhances": ["ai-theory-theme", "cognitive-science-theme"]
+    "enhances": [
+      "ai-theory-theme",
+      "cognitive-science-theme"
+    ]
   },
-
   "ai-zombie": {
     "word_count": 850,
-
     "sentence_metrics": {
       "avg_sentence_length": 20.8,
       "max_sentence_length": 58
     },
-
     "opening_structure": "narrative",
     "structure_type": "analysis",
-
     "terminology": {
       "domain_term_density": 3.1,
-      "domains": ["ai-chatbots", "algorithm-systems"],
+      "domains": [
+        "ai-chatbots",
+        "algorithm-systems"
+      ],
       "cultural_terms": [],
       "terms_defined_inline": 2
     },
-
     "referential_density": {
       "concepts_introduced": 4,
       "concept_rate": 0.47,
       "entities_named": 5
     },
-
     "content_markers": {
       "has_numbered_list": false,
       "has_bullet_list": false,
@@ -390,7 +373,6 @@
       "citation_count": 8,
       "has_footnotes": true
     },
-
     "prerequisites": {
       "domains": [
         {
@@ -402,7 +384,6 @@
       "cultural": [],
       "signals_prerequisites": false
     },
-
     "references": {
       "internal": [
         {
@@ -414,9 +395,7 @@
       "external": 8,
       "referenced_by": []
     },
-
     "dependency_score": "low",
-
     "accessibility": {
       "linguistic_barrier": "medium",
       "domain_barrier": "medium",
@@ -424,22 +403,26 @@
       "variance_by": [
         {
           "dimension": "ai-usage",
-          "range": [55, 95]
+          "range": [
+            55,
+            95
+          ]
         },
         {
           "dimension": "tech-skepticism",
-          "range": [60, 90]
+          "range": [
+            60,
+            90
+          ]
         }
       ]
     },
-
     "actionability": {
       "has_templates": false,
       "has_protocol": false,
       "has_examples": true,
       "implementation_time": "ongoing"
     },
-
     "read_next": [
       {
         "slug": "stop-avoiding-yourself-the-ai-in-you",
@@ -450,37 +433,36 @@
         "reason": "theoretical-depth"
       }
     ],
-
     "read_before": [],
-    "enhances": ["ai-ethics-theme", "human-ai-interaction-theme"]
+    "enhances": [
+      "ai-ethics-theme",
+      "human-ai-interaction-theme"
+    ]
   },
-
   "the-fear-and-power-of-singularity": {
     "word_count": 350,
-
     "opening_structure": "scene",
     "structure_type": "advocacy",
-
     "accessibility": {
       "linguistic_barrier": "low",
       "domain_barrier": "medium",
       "cultural_barrier": "none"
     },
-
     "content_markers": {
       "has_bullet_list": true,
       "has_examples": true,
       "has_citations": false,
       "citation_count": 0
     },
-
     "terminology": {
       "domain_term_density": 2.6,
-      "domains": ["ai", "singularity"],
+      "domains": [
+        "ai",
+        "singularity"
+      ],
       "cultural_terms": [],
       "terms_defined_inline": 1
     },
-
     "prerequisites": {
       "domains": [
         {
@@ -491,15 +473,12 @@
       ],
       "cultural": []
     },
-
     "references": {
       "internal": [],
       "external": 0,
       "referenced_by": []
     },
-
     "dependency_score": "none",
-
     "read_next": [
       {
         "slug": "awakening-ai",
@@ -510,35 +489,34 @@
         "reason": "ethical-perspective"
       }
     ],
-
     "read_before": [],
-    "enhances": ["ai-ethics-theme", "ai-safety-theme"]
+    "enhances": [
+      "ai-ethics-theme",
+      "ai-safety-theme"
+    ]
   },
-
   "know-thaiself": {
     "word_count": 1450,
-
     "sentence_metrics": {
       "avg_sentence_length": 17.3,
       "max_sentence_length": 49
     },
-
     "opening_structure": "definition",
     "structure_type": "how-to",
-
     "terminology": {
       "domain_term_density": 4.8,
-      "domains": ["ai-chatbots", "prompt-engineering"],
+      "domains": [
+        "ai-chatbots",
+        "prompt-engineering"
+      ],
       "cultural_terms": [],
       "terms_defined_inline": 8
     },
-
     "referential_density": {
       "concepts_introduced": 7,
       "concept_rate": 0.48,
       "entities_named": 4
     },
-
     "content_markers": {
       "has_numbered_list": true,
       "has_bullet_list": true,
@@ -547,7 +525,6 @@
       "citation_count": 4,
       "has_footnotes": true
     },
-
     "prerequisites": {
       "domains": [
         {
@@ -559,7 +536,6 @@
       "cultural": [],
       "signals_prerequisites": true
     },
-
     "references": {
       "internal": [
         {
@@ -571,9 +547,7 @@
       "external": 4,
       "referenced_by": []
     },
-
     "dependency_score": "low",
-
     "accessibility": {
       "linguistic_barrier": "low",
       "domain_barrier": "medium",
@@ -581,18 +555,19 @@
       "variance_by": [
         {
           "dimension": "ai-usage-experience",
-          "range": [50, 95]
+          "range": [
+            50,
+            95
+          ]
         }
       ]
     },
-
     "actionability": {
       "has_templates": true,
       "has_protocol": true,
       "has_examples": true,
       "implementation_time": "immediate"
     },
-
     "read_next": [
       {
         "slug": "ai-zombie",
@@ -603,41 +578,39 @@
         "reason": "theoretical-understanding"
       }
     ],
-
     "read_before": [
       {
         "slug": "stop-avoiding-yourself-the-ai-in-you",
         "reason": "conceptual-prerequisite"
       }
     ],
-
-    "enhances": ["ai-practical-use-theme", "prompt-engineering-theme"]
+    "enhances": [
+      "ai-practical-use-theme",
+      "prompt-engineering-theme"
+    ]
   },
-
   "read-receipts-irl": {
     "word_count": 460,
-
     "sentence_metrics": {
       "avg_sentence_length": 16.8,
       "max_sentence_length": 41
     },
-
     "opening_structure": "argument",
     "structure_type": "framework",
-
     "terminology": {
       "domain_term_density": 2.4,
-      "domains": ["communication", "discourse-analysis"],
+      "domains": [
+        "communication",
+        "discourse-analysis"
+      ],
       "cultural_terms": [],
       "terms_defined_inline": 2
     },
-
     "referential_density": {
       "concepts_introduced": 4,
       "concept_rate": 0.87,
       "entities_named": 0
     },
-
     "content_markers": {
       "has_numbered_list": false,
       "has_bullet_list": false,
@@ -646,7 +619,6 @@
       "citation_count": 0,
       "has_footnotes": false
     },
-
     "prerequisites": {
       "domains": [
         {
@@ -658,15 +630,12 @@
       "cultural": [],
       "signals_prerequisites": false
     },
-
     "references": {
       "internal": [],
       "external": 0,
       "referenced_by": []
     },
-
     "dependency_score": "none",
-
     "accessibility": {
       "linguistic_barrier": "low",
       "domain_barrier": "low",
@@ -674,18 +643,19 @@
       "variance_by": [
         {
           "dimension": "communication-theory-literacy",
-          "range": [80, 95]
+          "range": [
+            80,
+            95
+          ]
         }
       ]
     },
-
     "actionability": {
       "has_templates": false,
       "has_protocol": true,
       "has_examples": true,
       "implementation_time": "immediate"
     },
-
     "read_next": [
       {
         "slug": "the-agreement-between-reader-and-writer",
@@ -696,31 +666,30 @@
         "reason": "similar-framework"
       }
     ],
-
     "read_before": [],
-    "enhances": ["communication-theme"]
+    "enhances": [
+      "communication-theme"
+    ]
   },
-
   "the-agreement-between-reader-and-writer": {
     "word_count": 290,
-
     "opening_structure": "definition",
     "structure_type": "framework",
-
     "terminology": {
       "domain_term_density": 1.7,
-      "domains": ["philosophy-of-language", "communication"],
+      "domains": [
+        "philosophy-of-language",
+        "communication"
+      ],
       "cultural_terms": [],
       "terms_defined_inline": 4
     },
-
     "content_markers": {
       "has_examples": true,
       "has_citations": false,
       "citation_count": 0,
       "has_footnotes": false
     },
-
     "prerequisites": {
       "domains": [
         {
@@ -731,7 +700,6 @@
       ],
       "cultural": []
     },
-
     "references": {
       "internal": [
         {
@@ -743,15 +711,12 @@
       "external": 0,
       "referenced_by": []
     },
-
     "dependency_score": "low",
-
     "accessibility": {
       "linguistic_barrier": "medium",
       "domain_barrier": "low",
       "cultural_barrier": "none"
     },
-
     "read_next": [
       {
         "slug": "not-the-point",
@@ -762,31 +727,31 @@
         "reason": "practical-application"
       }
     ],
-
     "read_before": [],
-    "enhances": ["communication-theme"]
+    "enhances": [
+      "communication-theme"
+    ]
   },
-
   "say-less-and-more": {
     "word_count": 280,
-
     "opening_structure": "question",
     "structure_type": "analysis",
-
     "terminology": {
       "domain_term_density": 3.2,
-      "domains": ["ai-chatbots", "education", "communication"],
+      "domains": [
+        "ai-chatbots",
+        "education",
+        "communication"
+      ],
       "cultural_terms": [],
       "terms_defined_inline": 1
     },
-
     "content_markers": {
       "has_examples": true,
       "has_citations": false,
       "citation_count": 0,
       "has_footnotes": false
     },
-
     "prerequisites": {
       "domains": [
         {
@@ -797,27 +762,22 @@
       ],
       "cultural": []
     },
-
     "references": {
       "internal": [],
       "external": 0,
       "referenced_by": []
     },
-
     "dependency_score": "none",
-
     "accessibility": {
       "linguistic_barrier": "low",
       "domain_barrier": "medium",
       "cultural_barrier": "none"
     },
-
     "actionability": {
       "has_protocol": true,
       "has_examples": true,
       "implementation_time": "immediate"
     },
-
     "read_next": [
       {
         "slug": "know-thaiself",
@@ -828,8 +788,2014 @@
         "reason": "conceptual-foundation"
       }
     ],
-
     "read_before": [],
-    "enhances": ["ai-chatbot-theme", "communication-theme", "education-theme"]
+    "enhances": [
+      "ai-chatbot-theme",
+      "communication-theme",
+      "education-theme"
+    ]
+  },
+  "introduction-to-empirical-pragmatism": {
+    "word_count": 650,
+    "sentence_metrics": {
+      "avg_sentence_length": 24.1,
+      "max_sentence_length": 58
+    },
+    "opening_structure": "definition",
+    "structure_type": "framework",
+    "terminology": {
+      "domain_term_density": 5.4,
+      "domains": [
+        "philosophy",
+        "epistemology",
+        "philosophy-of-science"
+      ],
+      "cultural_terms": [],
+      "terms_defined_inline": 6
+    },
+    "referential_density": {
+      "concepts_introduced": 8,
+      "concept_rate": 1.23,
+      "entities_named": 0
+    },
+    "content_markers": {
+      "has_numbered_list": false,
+      "has_bullet_list": false,
+      "has_examples": true,
+      "has_citations": false,
+      "citation_count": 0,
+      "has_footnotes": false
+    },
+    "prerequisites": {
+      "domains": [
+        {
+          "name": "philosophy",
+          "level": "awareness",
+          "critical": true
+        },
+        {
+          "name": "pragmatism",
+          "level": "awareness",
+          "critical": true
+        }
+      ],
+      "cultural": [],
+      "signals_prerequisites": false
+    },
+    "references": {
+      "internal": [],
+      "external": 0,
+      "referenced_by": []
+    },
+    "dependency_score": "none",
+    "accessibility": {
+      "linguistic_barrier": "high",
+      "domain_barrier": "high",
+      "cultural_barrier": "none",
+      "variance_by": [
+        {
+          "dimension": "philosophy-literacy",
+          "range": [
+            35,
+            90
+          ]
+        }
+      ]
+    },
+    "actionability": {
+      "has_templates": false,
+      "has_protocol": true,
+      "has_examples": true,
+      "implementation_time": "ongoing"
+    },
+    "read_next": [
+      {
+        "slug": "words-youve-never-heard",
+        "reason": "applied-epistemology"
+      },
+      {
+        "slug": "all-the-right-words-youve-said-or-read",
+        "reason": "practical-application"
+      }
+    ],
+    "read_before": [],
+    "enhances": [
+      "philosophy-theme",
+      "epistemology-theme"
+    ]
+  },
+  "words-youve-never-heard": {
+    "word_count": 950,
+    "sentence_metrics": {
+      "avg_sentence_length": 19.7,
+      "max_sentence_length": 52
+    },
+    "opening_structure": "narrative",
+    "structure_type": "analysis",
+    "terminology": {
+      "domain_term_density": 3.8,
+      "domains": [
+        "ai-chatbots",
+        "intellectual-property",
+        "communication"
+      ],
+      "cultural_terms": [],
+      "terms_defined_inline": 3
+    },
+    "referential_density": {
+      "concepts_introduced": 6,
+      "concept_rate": 0.63,
+      "entities_named": 2
+    },
+    "content_markers": {
+      "has_numbered_list": false,
+      "has_bullet_list": true,
+      "has_examples": true,
+      "has_citations": false,
+      "citation_count": 0,
+      "has_footnotes": false
+    },
+    "prerequisites": {
+      "domains": [
+        {
+          "name": "ai-chatbots",
+          "level": "basic-usage",
+          "critical": true
+        },
+        {
+          "name": "intellectual-property",
+          "level": "awareness",
+          "critical": false
+        }
+      ],
+      "cultural": [],
+      "signals_prerequisites": false
+    },
+    "references": {
+      "internal": [],
+      "external": 0,
+      "referenced_by": []
+    },
+    "dependency_score": "none",
+    "accessibility": {
+      "linguistic_barrier": "medium",
+      "domain_barrier": "medium",
+      "cultural_barrier": "none",
+      "variance_by": [
+        {
+          "dimension": "ai-awareness",
+          "range": [
+            60,
+            95
+          ]
+        }
+      ]
+    },
+    "actionability": {
+      "has_templates": true,
+      "has_protocol": true,
+      "has_examples": true,
+      "implementation_time": "immediate"
+    },
+    "read_next": [
+      {
+        "slug": "say-less-and-more",
+        "reason": "similar-theme"
+      },
+      {
+        "slug": "know-thaiself",
+        "reason": "practical-application"
+      }
+    ],
+    "read_before": [],
+    "enhances": [
+      "ai-chatbot-theme",
+      "communication-theme",
+      "authorship-theme"
+    ]
+  },
+  "all-the-right-words-youve-said-or-read": {
+    "word_count": 550,
+    "sentence_metrics": {
+      "avg_sentence_length": 16.2,
+      "max_sentence_length": 38
+    },
+    "opening_structure": "question",
+    "structure_type": "how-to",
+    "terminology": {
+      "domain_term_density": 1.8,
+      "domains": [
+        "personal-knowledge-management"
+      ],
+      "cultural_terms": [],
+      "terms_defined_inline": 2
+    },
+    "referential_density": {
+      "concepts_introduced": 3,
+      "concept_rate": 0.55,
+      "entities_named": 0
+    },
+    "content_markers": {
+      "has_numbered_list": false,
+      "has_bullet_list": false,
+      "has_examples": true,
+      "has_citations": false,
+      "citation_count": 0,
+      "has_footnotes": false
+    },
+    "prerequisites": {
+      "domains": [],
+      "cultural": [],
+      "signals_prerequisites": false
+    },
+    "references": {
+      "internal": [],
+      "external": 1,
+      "referenced_by": []
+    },
+    "dependency_score": "none",
+    "accessibility": {
+      "linguistic_barrier": "low",
+      "domain_barrier": "none",
+      "cultural_barrier": "none",
+      "variance_by": [
+        {
+          "dimension": "self-reflection-practice",
+          "range": [
+            75,
+            95
+          ]
+        }
+      ]
+    },
+    "actionability": {
+      "has_templates": true,
+      "has_protocol": true,
+      "has_examples": true,
+      "implementation_time": "immediate"
+    },
+    "read_next": [
+      {
+        "slug": "questions-books",
+        "reason": "knowledge-curation"
+      },
+      {
+        "slug": "words-youve-never-heard",
+        "reason": "conceptual-foundation"
+      }
+    ],
+    "read_before": [],
+    "enhances": [
+      "self-growth-theme",
+      "knowledge-management-theme"
+    ]
+  },
+  "bet-your-life": {
+    "word_count": 950,
+    "sentence_metrics": {
+      "avg_sentence_length": 15.8,
+      "max_sentence_length": 44
+    },
+    "opening_structure": "argument",
+    "structure_type": "framework",
+    "terminology": {
+      "domain_term_density": 1.9,
+      "domains": [
+        "self-help",
+        "psychology"
+      ],
+      "cultural_terms": [
+        "Marine Corps"
+      ],
+      "terms_defined_inline": 3
+    },
+    "referential_density": {
+      "concepts_introduced": 5,
+      "concept_rate": 0.53,
+      "entities_named": 1
+    },
+    "content_markers": {
+      "has_numbered_list": false,
+      "has_bullet_list": false,
+      "has_examples": true,
+      "has_citations": false,
+      "citation_count": 0,
+      "has_footnotes": false
+    },
+    "prerequisites": {
+      "domains": [],
+      "cultural": [],
+      "signals_prerequisites": false
+    },
+    "references": {
+      "internal": [
+        {
+          "slug": "bet-your-life-notes",
+          "type": "continuation",
+          "note": "Extended discussion"
+        },
+        {
+          "slug": "the-intellectual-boot-camp",
+          "type": "prerequisite",
+          "note": "Background program"
+        }
+      ],
+      "external": 0,
+      "referenced_by": []
+    },
+    "dependency_score": "medium",
+    "accessibility": {
+      "linguistic_barrier": "low",
+      "domain_barrier": "none",
+      "cultural_barrier": "low",
+      "variance_by": [
+        {
+          "dimension": "personal-growth-mindset",
+          "range": [
+            70,
+            95
+          ]
+        }
+      ]
+    },
+    "actionability": {
+      "has_templates": false,
+      "has_protocol": true,
+      "has_examples": true,
+      "implementation_time": "ongoing"
+    },
+    "read_next": [
+      {
+        "slug": "bet-your-life-notes",
+        "reason": "explicit-continuation"
+      },
+      {
+        "slug": "the-intellectual-boot-camp",
+        "reason": "background-context"
+      }
+    ],
+    "read_before": [],
+    "enhances": [
+      "self-growth-theme",
+      "cognitive-growth-theme"
+    ]
+  },
+  "bet-your-life-notes": {
+    "word_count": 750,
+    "sentence_metrics": {
+      "avg_sentence_length": 18.2,
+      "max_sentence_length": 47
+    },
+    "opening_structure": "narrative",
+    "structure_type": "analysis",
+    "terminology": {
+      "domain_term_density": 4.3,
+      "domains": [
+        "psychology",
+        "philosophy-of-science",
+        "therapy"
+      ],
+      "cultural_terms": [],
+      "terms_defined_inline": 5
+    },
+    "referential_density": {
+      "concepts_introduced": 7,
+      "concept_rate": 0.93,
+      "entities_named": 4
+    },
+    "content_markers": {
+      "has_numbered_list": false,
+      "has_bullet_list": false,
+      "has_examples": true,
+      "has_citations": true,
+      "citation_count": 3,
+      "has_footnotes": false
+    },
+    "prerequisites": {
+      "domains": [
+        {
+          "name": "psychology",
+          "level": "awareness",
+          "critical": false
+        }
+      ],
+      "cultural": [],
+      "signals_prerequisites": true
+    },
+    "references": {
+      "internal": [
+        {
+          "slug": "bet-your-life",
+          "type": "prerequisite",
+          "note": "Original essay"
+        }
+      ],
+      "external": 3,
+      "referenced_by": []
+    },
+    "dependency_score": "medium",
+    "accessibility": {
+      "linguistic_barrier": "medium",
+      "domain_barrier": "medium",
+      "cultural_barrier": "none",
+      "variance_by": [
+        {
+          "dimension": "psychology-literacy",
+          "range": [
+            55,
+            95
+          ]
+        }
+      ]
+    },
+    "actionability": {
+      "has_templates": false,
+      "has_protocol": false,
+      "has_examples": true,
+      "implementation_time": "ongoing"
+    },
+    "read_next": [
+      {
+        "slug": "the-intellectual-boot-camp",
+        "reason": "program-background"
+      },
+      {
+        "slug": "introduction-to-empirical-pragmatism",
+        "reason": "related-framework"
+      }
+    ],
+    "read_before": [
+      {
+        "slug": "bet-your-life",
+        "reason": "prerequisite-essay"
+      }
+    ],
+    "enhances": [
+      "cognitive-growth-theme",
+      "self-help-theme"
+    ]
+  },
+  "questions-books": {
+    "word_count": 450,
+    "sentence_metrics": {
+      "avg_sentence_length": 14.6,
+      "max_sentence_length": 31
+    },
+    "opening_structure": "argument",
+    "structure_type": "analysis",
+    "terminology": {
+      "domain_term_density": 2.2,
+      "domains": [
+        "communication",
+        "education",
+        "therapy"
+      ],
+      "cultural_terms": [],
+      "terms_defined_inline": 0
+    },
+    "referential_density": {
+      "concepts_introduced": 0,
+      "entities_named": 5
+    },
+    "content_markers": {
+      "has_numbered_list": false,
+      "has_bullet_list": true,
+      "has_examples": false,
+      "has_citations": false,
+      "citation_count": 0,
+      "has_footnotes": false
+    },
+    "prerequisites": {
+      "domains": [],
+      "cultural": [],
+      "signals_prerequisites": false
+    },
+    "references": {
+      "internal": [],
+      "external": 0,
+      "referenced_by": []
+    },
+    "dependency_score": "none",
+    "accessibility": {
+      "linguistic_barrier": "low",
+      "domain_barrier": "none",
+      "cultural_barrier": "none"
+    },
+    "actionability": {
+      "has_templates": true,
+      "has_protocol": true,
+      "has_examples": false,
+      "implementation_time": "immediate"
+    },
+    "read_next": [
+      {
+        "slug": "read-receipts-irl",
+        "reason": "practical-application"
+      },
+      {
+        "slug": "all-the-right-words-youve-said-or-read",
+        "reason": "knowledge-curation"
+      }
+    ],
+    "read_before": [],
+    "enhances": [
+      "communication-theme",
+      "learning-theme"
+    ]
+  },
+  "the-definition-of-deaf": {
+    "word_count": 600,
+    "sentence_metrics": {
+      "avg_sentence_length": 22.7,
+      "max_sentence_length": 49
+    },
+    "opening_structure": "statistic",
+    "structure_type": "advocacy",
+    "terminology": {
+      "domain_term_density": 5.3,
+      "domains": [
+        "deaf-culture",
+        "disability-studies"
+      ],
+      "cultural_terms": [
+        "Deaf",
+        "deafhood",
+        "sign",
+        "cochlear implants",
+        "audism"
+      ],
+      "terms_defined_inline": 4
+    },
+    "referential_density": {
+      "concepts_introduced": 6,
+      "concept_rate": 1.0,
+      "entities_named": 1
+    },
+    "content_markers": {
+      "has_numbered_list": false,
+      "has_bullet_list": false,
+      "has_examples": true,
+      "has_citations": true,
+      "citation_count": 3,
+      "has_footnotes": false
+    },
+    "prerequisites": {
+      "domains": [],
+      "cultural": [
+        {
+          "context": "deaf-culture-perspective",
+          "requires_shift": true
+        },
+        {
+          "context": "hearing-normative-assumptions",
+          "requires_shift": true
+        }
+      ],
+      "signals_prerequisites": false
+    },
+    "references": {
+      "internal": [],
+      "external": 3,
+      "referenced_by": []
+    },
+    "dependency_score": "none",
+    "accessibility": {
+      "linguistic_barrier": "medium",
+      "domain_barrier": "medium",
+      "cultural_barrier": "high",
+      "variance_by": [
+        {
+          "dimension": "deaf-culture-awareness",
+          "range": [
+            45,
+            95
+          ]
+        }
+      ]
+    },
+    "actionability": {
+      "has_templates": false,
+      "has_protocol": false,
+      "has_examples": true,
+      "implementation_time": "ongoing"
+    },
+    "read_next": [
+      {
+        "slug": "language-with-a-bionic-ear",
+        "reason": "explicit-continuation"
+      },
+      {
+        "slug": "deafhood-unheard",
+        "reason": "related-theme"
+      }
+    ],
+    "read_before": [],
+    "enhances": [
+      "deaf-culture-theme",
+      "advocacy-theme"
+    ]
+  },
+  "language-with-a-bionic-ear": {
+    "word_count": 850,
+    "sentence_metrics": {
+      "avg_sentence_length": 21.3,
+      "max_sentence_length": 56
+    },
+    "opening_structure": "narrative",
+    "structure_type": "analysis",
+    "terminology": {
+      "domain_term_density": 6.7,
+      "domains": [
+        "deaf-culture",
+        "language-development",
+        "biomedical-technology"
+      ],
+      "cultural_terms": [
+        "ASL",
+        "cochlear implants",
+        "deafhood",
+        "sign",
+        "bilingual"
+      ],
+      "terms_defined_inline": 3
+    },
+    "referential_density": {
+      "concepts_introduced": 5,
+      "concept_rate": 0.59,
+      "entities_named": 4
+    },
+    "content_markers": {
+      "has_numbered_list": false,
+      "has_bullet_list": true,
+      "has_examples": true,
+      "has_citations": true,
+      "citation_count": 5,
+      "has_footnotes": false
+    },
+    "prerequisites": {
+      "domains": [
+        {
+          "name": "language-development",
+          "level": "awareness",
+          "critical": true
+        }
+      ],
+      "cultural": [
+        {
+          "context": "deaf-culture-perspective",
+          "requires_shift": true
+        }
+      ],
+      "signals_prerequisites": true
+    },
+    "references": {
+      "internal": [
+        {
+          "slug": "the-definition-of-deaf",
+          "type": "prerequisite",
+          "note": "Previous post on deafhood"
+        }
+      ],
+      "external": 5,
+      "referenced_by": []
+    },
+    "dependency_score": "low",
+    "accessibility": {
+      "linguistic_barrier": "high",
+      "domain_barrier": "high",
+      "cultural_barrier": "high",
+      "variance_by": [
+        {
+          "dimension": "deaf-culture-awareness",
+          "range": [
+            35,
+            90
+          ]
+        },
+        {
+          "dimension": "language-development-literacy",
+          "range": [
+            40,
+            95
+          ]
+        }
+      ]
+    },
+    "actionability": {
+      "has_templates": false,
+      "has_protocol": true,
+      "has_examples": true,
+      "implementation_time": "ongoing"
+    },
+    "read_next": [
+      {
+        "slug": "deafhood-unheard",
+        "reason": "related-theme"
+      }
+    ],
+    "read_before": [
+      {
+        "slug": "the-definition-of-deaf",
+        "reason": "conceptual-foundation"
+      }
+    ],
+    "enhances": [
+      "deaf-culture-theme",
+      "language-development-theme"
+    ]
+  },
+  "the-intellectual-boot-camp": {
+    "word_count": 850,
+    "sentence_metrics": {
+      "avg_sentence_length": 24.8,
+      "max_sentence_length": 66
+    },
+    "opening_structure": "narrative",
+    "structure_type": "advocacy",
+    "terminology": {
+      "domain_term_density": 3.5,
+      "domains": [
+        "military",
+        "education",
+        "critical-thinking"
+      ],
+      "cultural_terms": [
+        "boot camp",
+        "drill instructor",
+        "recruit",
+        "Marine"
+      ],
+      "terms_defined_inline": 2
+    },
+    "referential_density": {
+      "concepts_introduced": 5,
+      "concept_rate": 0.59,
+      "entities_named": 1
+    },
+    "content_markers": {
+      "has_numbered_list": false,
+      "has_bullet_list": false,
+      "has_examples": true,
+      "has_citations": false,
+      "citation_count": 0,
+      "has_footnotes": false
+    },
+    "prerequisites": {
+      "domains": [],
+      "cultural": [
+        {
+          "context": "military-boot-camp-experience",
+          "requires_shift": false
+        }
+      ],
+      "signals_prerequisites": false
+    },
+    "references": {
+      "internal": [
+        {
+          "slug": "the-unedited-war-story-of-a-veteran",
+          "type": "related",
+          "note": "Military background"
+        }
+      ],
+      "external": 0,
+      "referenced_by": []
+    },
+    "dependency_score": "none",
+    "accessibility": {
+      "linguistic_barrier": "medium",
+      "domain_barrier": "low",
+      "cultural_barrier": "medium",
+      "variance_by": [
+        {
+          "dimension": "military-familiarity",
+          "range": [
+            60,
+            95
+          ]
+        }
+      ]
+    },
+    "actionability": {
+      "has_templates": false,
+      "has_protocol": true,
+      "has_examples": true,
+      "implementation_time": "ongoing"
+    },
+    "read_next": [
+      {
+        "slug": "bet-your-life",
+        "reason": "related-program"
+      },
+      {
+        "slug": "the-unedited-war-story-of-a-veteran",
+        "reason": "military-background"
+      }
+    ],
+    "read_before": [],
+    "enhances": [
+      "military-theme",
+      "education-theme",
+      "cognitive-growth-theme"
+    ]
+  },
+  "preface-one-of-those-guys": {
+    "word_count": 695,
+    "opening_structure": "narrative",
+    "structure_type": "framework",
+    "sentence_metrics": {
+      "avg_sentence_length": 18.5,
+      "max_sentence_length": 52
+    },
+    "terminology": {
+      "domain_term_density": 2.1,
+      "domains": [
+        "military",
+        "war"
+      ],
+      "cultural_terms": [
+        "Marine",
+        "Afghanistan",
+        "deployment",
+        "boot camp",
+        "CODA"
+      ],
+      "terms_defined_inline": 1
+    },
+    "referential_density": {
+      "concepts_introduced": 0,
+      "entities_named": 2
+    },
+    "content_markers": {
+      "has_numbered_list": false,
+      "has_bullet_list": false,
+      "has_examples": true,
+      "has_citations": false,
+      "citation_count": 0,
+      "has_footnotes": false
+    },
+    "prerequisites": {
+      "domains": [],
+      "cultural": [
+        {
+          "context": "military-deployment-experience",
+          "requires_shift": false
+        }
+      ],
+      "signals_prerequisites": false
+    },
+    "references": {
+      "internal": [],
+      "external": 0,
+      "referenced_by": []
+    },
+    "dependency_score": "low",
+    "accessibility": {
+      "linguistic_barrier": "medium",
+      "domain_barrier": "low",
+      "cultural_barrier": "medium",
+      "variance_by": [
+        {
+          "dimension": "military-familiarity",
+          "range": [
+            65,
+            95
+          ]
+        }
+      ]
+    },
+    "actionability": {
+      "has_templates": false,
+      "has_protocol": false,
+      "has_examples": true,
+      "implementation_time": "ongoing"
+    },
+    "read_next": [],
+    "read_before": [],
+    "enhances": [
+      "military-theme",
+      "memoir-theme"
+    ]
+  },
+  "1-it-rained": {
+    "word_count": 504,
+    "opening_structure": "narrative",
+    "structure_type": "narrative",
+    "sentence_metrics": {
+      "avg_sentence_length": 18.5,
+      "max_sentence_length": 52
+    },
+    "terminology": {
+      "domain_term_density": 2.1,
+      "domains": [
+        "military",
+        "war"
+      ],
+      "cultural_terms": [
+        "Marine",
+        "Afghanistan",
+        "deployment",
+        "Kuwait"
+      ],
+      "terms_defined_inline": 1
+    },
+    "referential_density": {
+      "concepts_introduced": 0,
+      "entities_named": 2
+    },
+    "content_markers": {
+      "has_numbered_list": false,
+      "has_bullet_list": false,
+      "has_examples": true,
+      "has_citations": false,
+      "citation_count": 0,
+      "has_footnotes": false
+    },
+    "prerequisites": {
+      "domains": [],
+      "cultural": [
+        {
+          "context": "military-deployment-experience",
+          "requires_shift": false
+        }
+      ],
+      "signals_prerequisites": false
+    },
+    "references": {
+      "internal": [],
+      "external": 0,
+      "referenced_by": []
+    },
+    "dependency_score": "low",
+    "accessibility": {
+      "linguistic_barrier": "medium",
+      "domain_barrier": "low",
+      "cultural_barrier": "medium",
+      "variance_by": [
+        {
+          "dimension": "military-familiarity",
+          "range": [
+            65,
+            95
+          ]
+        }
+      ]
+    },
+    "actionability": {
+      "has_templates": false,
+      "has_protocol": false,
+      "has_examples": true,
+      "implementation_time": "ongoing"
+    },
+    "read_next": [],
+    "read_before": [],
+    "enhances": [
+      "military-theme",
+      "memoir-theme"
+    ]
+  },
+  "2-unfinished-predeployment-sentiments": {
+    "word_count": 350,
+    "opening_structure": "narrative",
+    "structure_type": "narrative",
+    "terminology": {
+      "domain_term_density": 2.1,
+      "domains": [
+        "military",
+        "war"
+      ],
+      "cultural_terms": [
+        "Marine",
+        "deployment"
+      ],
+      "terms_defined_inline": 0
+    },
+    "content_markers": {
+      "has_numbered_list": false,
+      "has_bullet_list": false,
+      "has_examples": true,
+      "has_citations": false,
+      "citation_count": 0,
+      "has_footnotes": false
+    },
+    "prerequisites": {
+      "domains": [],
+      "cultural": [],
+      "signals_prerequisites": false
+    },
+    "references": {
+      "internal": [],
+      "external": 0,
+      "referenced_by": []
+    },
+    "dependency_score": "low",
+    "accessibility": {
+      "linguistic_barrier": "low",
+      "domain_barrier": "low",
+      "cultural_barrier": "medium"
+    },
+    "read_next": [],
+    "read_before": [],
+    "enhances": [
+      "military-theme",
+      "memoir-theme"
+    ]
+  },
+  "3-the-nights-after-the-rain": {
+    "word_count": 800,
+    "opening_structure": "scene",
+    "structure_type": "narrative",
+    "sentence_metrics": {
+      "avg_sentence_length": 18.5,
+      "max_sentence_length": 52
+    },
+    "terminology": {
+      "domain_term_density": 2.1,
+      "domains": [
+        "military",
+        "war"
+      ],
+      "cultural_terms": [
+        "Marine",
+        "Afghanistan",
+        "deployment"
+      ],
+      "terms_defined_inline": 1
+    },
+    "referential_density": {
+      "concepts_introduced": 0,
+      "entities_named": 2
+    },
+    "content_markers": {
+      "has_numbered_list": false,
+      "has_bullet_list": false,
+      "has_examples": true,
+      "has_citations": false,
+      "citation_count": 0,
+      "has_footnotes": false
+    },
+    "prerequisites": {
+      "domains": [],
+      "cultural": [
+        {
+          "context": "military-deployment-experience",
+          "requires_shift": false
+        }
+      ],
+      "signals_prerequisites": false
+    },
+    "references": {
+      "internal": [],
+      "external": 0,
+      "referenced_by": []
+    },
+    "dependency_score": "low",
+    "accessibility": {
+      "linguistic_barrier": "medium",
+      "domain_barrier": "low",
+      "cultural_barrier": "medium",
+      "variance_by": [
+        {
+          "dimension": "military-familiarity",
+          "range": [
+            65,
+            95
+          ]
+        }
+      ]
+    },
+    "actionability": {
+      "has_templates": false,
+      "has_protocol": false,
+      "has_examples": true,
+      "implementation_time": "ongoing"
+    },
+    "read_next": [],
+    "read_before": [],
+    "enhances": [
+      "military-theme",
+      "memoir-theme"
+    ]
+  },
+  "4-haircut-hysteria": {
+    "word_count": 682,
+    "opening_structure": "scene",
+    "structure_type": "narrative",
+    "sentence_metrics": {
+      "avg_sentence_length": 18.5,
+      "max_sentence_length": 52
+    },
+    "terminology": {
+      "domain_term_density": 2.1,
+      "domains": [
+        "military",
+        "war"
+      ],
+      "cultural_terms": [
+        "Marine",
+        "Afghanistan",
+        "deployment"
+      ],
+      "terms_defined_inline": 1
+    },
+    "referential_density": {
+      "concepts_introduced": 0,
+      "entities_named": 2
+    },
+    "content_markers": {
+      "has_numbered_list": false,
+      "has_bullet_list": false,
+      "has_examples": true,
+      "has_citations": false,
+      "citation_count": 0,
+      "has_footnotes": false
+    },
+    "prerequisites": {
+      "domains": [],
+      "cultural": [
+        {
+          "context": "military-deployment-experience",
+          "requires_shift": false
+        }
+      ],
+      "signals_prerequisites": false
+    },
+    "references": {
+      "internal": [],
+      "external": 0,
+      "referenced_by": []
+    },
+    "dependency_score": "low",
+    "accessibility": {
+      "linguistic_barrier": "medium",
+      "domain_barrier": "low",
+      "cultural_barrier": "medium",
+      "variance_by": [
+        {
+          "dimension": "military-familiarity",
+          "range": [
+            65,
+            95
+          ]
+        }
+      ]
+    },
+    "actionability": {
+      "has_templates": false,
+      "has_protocol": false,
+      "has_examples": true,
+      "implementation_time": "ongoing"
+    },
+    "read_next": [],
+    "read_before": [],
+    "enhances": [
+      "military-theme",
+      "memoir-theme"
+    ]
+  },
+  "5-webcam-starts-to-capture": {
+    "word_count": 1056,
+    "opening_structure": "scene",
+    "structure_type": "narrative",
+    "sentence_metrics": {
+      "avg_sentence_length": 18.5,
+      "max_sentence_length": 52
+    },
+    "terminology": {
+      "domain_term_density": 2.1,
+      "domains": [
+        "military",
+        "war"
+      ],
+      "cultural_terms": [
+        "Marine",
+        "Afghanistan",
+        "deployment"
+      ],
+      "terms_defined_inline": 1
+    },
+    "referential_density": {
+      "concepts_introduced": 0,
+      "entities_named": 2
+    },
+    "content_markers": {
+      "has_numbered_list": false,
+      "has_bullet_list": false,
+      "has_examples": true,
+      "has_citations": false,
+      "citation_count": 0,
+      "has_footnotes": false
+    },
+    "prerequisites": {
+      "domains": [],
+      "cultural": [
+        {
+          "context": "military-deployment-experience",
+          "requires_shift": false
+        }
+      ],
+      "signals_prerequisites": false
+    },
+    "references": {
+      "internal": [],
+      "external": 0,
+      "referenced_by": []
+    },
+    "dependency_score": "low",
+    "accessibility": {
+      "linguistic_barrier": "medium",
+      "domain_barrier": "low",
+      "cultural_barrier": "medium",
+      "variance_by": [
+        {
+          "dimension": "military-familiarity",
+          "range": [
+            65,
+            95
+          ]
+        }
+      ]
+    },
+    "actionability": {
+      "has_templates": false,
+      "has_protocol": false,
+      "has_examples": true,
+      "implementation_time": "ongoing"
+    },
+    "read_next": [],
+    "read_before": [],
+    "enhances": [
+      "military-theme",
+      "memoir-theme"
+    ]
+  },
+  "6-battle-for-peace-and-quiet": {
+    "word_count": 896,
+    "opening_structure": "scene",
+    "structure_type": "narrative",
+    "sentence_metrics": {
+      "avg_sentence_length": 18.5,
+      "max_sentence_length": 52
+    },
+    "terminology": {
+      "domain_term_density": 2.1,
+      "domains": [
+        "military",
+        "war"
+      ],
+      "cultural_terms": [
+        "Marine",
+        "Afghanistan",
+        "deployment",
+        "combat"
+      ],
+      "terms_defined_inline": 1
+    },
+    "referential_density": {
+      "concepts_introduced": 0,
+      "entities_named": 2
+    },
+    "content_markers": {
+      "has_numbered_list": false,
+      "has_bullet_list": false,
+      "has_examples": true,
+      "has_citations": false,
+      "citation_count": 0,
+      "has_footnotes": false
+    },
+    "prerequisites": {
+      "domains": [],
+      "cultural": [
+        {
+          "context": "military-deployment-experience",
+          "requires_shift": false
+        }
+      ],
+      "signals_prerequisites": false
+    },
+    "references": {
+      "internal": [],
+      "external": 0,
+      "referenced_by": []
+    },
+    "dependency_score": "low",
+    "accessibility": {
+      "linguistic_barrier": "medium",
+      "domain_barrier": "low",
+      "cultural_barrier": "medium",
+      "variance_by": [
+        {
+          "dimension": "military-familiarity",
+          "range": [
+            65,
+            95
+          ]
+        }
+      ]
+    },
+    "actionability": {
+      "has_templates": false,
+      "has_protocol": false,
+      "has_examples": true,
+      "implementation_time": "ongoing"
+    },
+    "read_next": [],
+    "read_before": [],
+    "enhances": [
+      "military-theme",
+      "memoir-theme"
+    ]
+  },
+  "7-a-christmas-special": {
+    "word_count": 1748,
+    "opening_structure": "scene",
+    "structure_type": "narrative",
+    "sentence_metrics": {
+      "avg_sentence_length": 18.5,
+      "max_sentence_length": 52
+    },
+    "terminology": {
+      "domain_term_density": 2.1,
+      "domains": [
+        "military",
+        "war"
+      ],
+      "cultural_terms": [
+        "Marine",
+        "Afghanistan",
+        "deployment",
+        "Christmas"
+      ],
+      "terms_defined_inline": 1
+    },
+    "referential_density": {
+      "concepts_introduced": 0,
+      "entities_named": 2
+    },
+    "content_markers": {
+      "has_numbered_list": false,
+      "has_bullet_list": false,
+      "has_examples": true,
+      "has_citations": false,
+      "citation_count": 0,
+      "has_footnotes": false
+    },
+    "prerequisites": {
+      "domains": [],
+      "cultural": [
+        {
+          "context": "military-deployment-experience",
+          "requires_shift": false
+        }
+      ],
+      "signals_prerequisites": false
+    },
+    "references": {
+      "internal": [],
+      "external": 0,
+      "referenced_by": []
+    },
+    "dependency_score": "low",
+    "accessibility": {
+      "linguistic_barrier": "medium",
+      "domain_barrier": "low",
+      "cultural_barrier": "medium",
+      "variance_by": [
+        {
+          "dimension": "military-familiarity",
+          "range": [
+            65,
+            95
+          ]
+        }
+      ]
+    },
+    "actionability": {
+      "has_templates": false,
+      "has_protocol": false,
+      "has_examples": true,
+      "implementation_time": "ongoing"
+    },
+    "read_next": [],
+    "read_before": [],
+    "enhances": [
+      "military-theme",
+      "memoir-theme"
+    ]
+  },
+  "8-the-sweeter-side-of-work": {
+    "word_count": 1311,
+    "opening_structure": "scene",
+    "structure_type": "narrative",
+    "sentence_metrics": {
+      "avg_sentence_length": 18.5,
+      "max_sentence_length": 52
+    },
+    "terminology": {
+      "domain_term_density": 2.1,
+      "domains": [
+        "military",
+        "war"
+      ],
+      "cultural_terms": [
+        "Marine",
+        "Afghanistan",
+        "deployment"
+      ],
+      "terms_defined_inline": 1
+    },
+    "referential_density": {
+      "concepts_introduced": 0,
+      "entities_named": 2
+    },
+    "content_markers": {
+      "has_numbered_list": false,
+      "has_bullet_list": false,
+      "has_examples": true,
+      "has_citations": false,
+      "citation_count": 0,
+      "has_footnotes": false
+    },
+    "prerequisites": {
+      "domains": [],
+      "cultural": [
+        {
+          "context": "military-deployment-experience",
+          "requires_shift": false
+        }
+      ],
+      "signals_prerequisites": false
+    },
+    "references": {
+      "internal": [],
+      "external": 0,
+      "referenced_by": []
+    },
+    "dependency_score": "low",
+    "accessibility": {
+      "linguistic_barrier": "medium",
+      "domain_barrier": "low",
+      "cultural_barrier": "medium",
+      "variance_by": [
+        {
+          "dimension": "military-familiarity",
+          "range": [
+            65,
+            95
+          ]
+        }
+      ]
+    },
+    "actionability": {
+      "has_templates": false,
+      "has_protocol": false,
+      "has_examples": true,
+      "implementation_time": "ongoing"
+    },
+    "read_next": [],
+    "read_before": [],
+    "enhances": [
+      "military-theme",
+      "memoir-theme"
+    ]
+  },
+  "9-emotional-warfare": {
+    "word_count": 1678,
+    "opening_structure": "scene",
+    "structure_type": "narrative",
+    "sentence_metrics": {
+      "avg_sentence_length": 18.5,
+      "max_sentence_length": 52
+    },
+    "terminology": {
+      "domain_term_density": 2.1,
+      "domains": [
+        "military",
+        "war"
+      ],
+      "cultural_terms": [
+        "Marine",
+        "Afghanistan",
+        "deployment",
+        "death",
+        "suicide",
+        "combat"
+      ],
+      "terms_defined_inline": 1
+    },
+    "referential_density": {
+      "concepts_introduced": 0,
+      "entities_named": 2
+    },
+    "content_markers": {
+      "has_numbered_list": false,
+      "has_bullet_list": false,
+      "has_examples": true,
+      "has_citations": false,
+      "citation_count": 0,
+      "has_footnotes": false
+    },
+    "prerequisites": {
+      "domains": [],
+      "cultural": [
+        {
+          "context": "military-deployment-experience",
+          "requires_shift": false
+        }
+      ],
+      "signals_prerequisites": false
+    },
+    "references": {
+      "internal": [],
+      "external": 0,
+      "referenced_by": []
+    },
+    "dependency_score": "low",
+    "accessibility": {
+      "linguistic_barrier": "medium",
+      "domain_barrier": "low",
+      "cultural_barrier": "medium",
+      "variance_by": [
+        {
+          "dimension": "military-familiarity",
+          "range": [
+            65,
+            95
+          ]
+        }
+      ]
+    },
+    "actionability": {
+      "has_templates": false,
+      "has_protocol": false,
+      "has_examples": true,
+      "implementation_time": "ongoing"
+    },
+    "read_next": [],
+    "read_before": [],
+    "enhances": [
+      "military-theme",
+      "memoir-theme"
+    ]
+  },
+  "10-a-fog-of-war": {
+    "word_count": 1204,
+    "opening_structure": "scene",
+    "structure_type": "narrative",
+    "sentence_metrics": {
+      "avg_sentence_length": 18.5,
+      "max_sentence_length": 52
+    },
+    "terminology": {
+      "domain_term_density": 2.1,
+      "domains": [
+        "military",
+        "war"
+      ],
+      "cultural_terms": [
+        "Marine",
+        "Afghanistan",
+        "deployment",
+        "combat"
+      ],
+      "terms_defined_inline": 1
+    },
+    "referential_density": {
+      "concepts_introduced": 0,
+      "entities_named": 2
+    },
+    "content_markers": {
+      "has_numbered_list": false,
+      "has_bullet_list": false,
+      "has_examples": true,
+      "has_citations": false,
+      "citation_count": 0,
+      "has_footnotes": false
+    },
+    "prerequisites": {
+      "domains": [],
+      "cultural": [
+        {
+          "context": "military-deployment-experience",
+          "requires_shift": false
+        }
+      ],
+      "signals_prerequisites": false
+    },
+    "references": {
+      "internal": [],
+      "external": 0,
+      "referenced_by": []
+    },
+    "dependency_score": "low",
+    "accessibility": {
+      "linguistic_barrier": "medium",
+      "domain_barrier": "low",
+      "cultural_barrier": "medium",
+      "variance_by": [
+        {
+          "dimension": "military-familiarity",
+          "range": [
+            65,
+            95
+          ]
+        }
+      ]
+    },
+    "actionability": {
+      "has_templates": false,
+      "has_protocol": false,
+      "has_examples": true,
+      "implementation_time": "ongoing"
+    },
+    "read_next": [],
+    "read_before": [],
+    "enhances": [
+      "military-theme",
+      "memoir-theme"
+    ]
+  },
+  "11-the-superbowl-on-afn": {
+    "word_count": 949,
+    "opening_structure": "scene",
+    "structure_type": "narrative",
+    "sentence_metrics": {
+      "avg_sentence_length": 18.5,
+      "max_sentence_length": 52
+    },
+    "terminology": {
+      "domain_term_density": 2.1,
+      "domains": [
+        "military",
+        "war"
+      ],
+      "cultural_terms": [
+        "Marine",
+        "Afghanistan",
+        "deployment",
+        "Super Bowl"
+      ],
+      "terms_defined_inline": 1
+    },
+    "referential_density": {
+      "concepts_introduced": 0,
+      "entities_named": 2
+    },
+    "content_markers": {
+      "has_numbered_list": false,
+      "has_bullet_list": false,
+      "has_examples": true,
+      "has_citations": false,
+      "citation_count": 0,
+      "has_footnotes": false
+    },
+    "prerequisites": {
+      "domains": [],
+      "cultural": [
+        {
+          "context": "military-deployment-experience",
+          "requires_shift": false
+        }
+      ],
+      "signals_prerequisites": false
+    },
+    "references": {
+      "internal": [],
+      "external": 0,
+      "referenced_by": []
+    },
+    "dependency_score": "low",
+    "accessibility": {
+      "linguistic_barrier": "medium",
+      "domain_barrier": "low",
+      "cultural_barrier": "medium",
+      "variance_by": [
+        {
+          "dimension": "military-familiarity",
+          "range": [
+            65,
+            95
+          ]
+        }
+      ]
+    },
+    "actionability": {
+      "has_templates": false,
+      "has_protocol": false,
+      "has_examples": true,
+      "implementation_time": "ongoing"
+    },
+    "read_next": [],
+    "read_before": [],
+    "enhances": [
+      "military-theme",
+      "memoir-theme"
+    ]
+  },
+  "12-grenades-cigarettes-or-melons": {
+    "word_count": 1940,
+    "opening_structure": "scene",
+    "structure_type": "narrative",
+    "sentence_metrics": {
+      "avg_sentence_length": 18.5,
+      "max_sentence_length": 52
+    },
+    "terminology": {
+      "domain_term_density": 2.1,
+      "domains": [
+        "military",
+        "war"
+      ],
+      "cultural_terms": [
+        "Marine",
+        "Afghanistan",
+        "deployment",
+        "combat"
+      ],
+      "terms_defined_inline": 1
+    },
+    "referential_density": {
+      "concepts_introduced": 0,
+      "entities_named": 2
+    },
+    "content_markers": {
+      "has_numbered_list": false,
+      "has_bullet_list": false,
+      "has_examples": true,
+      "has_citations": false,
+      "citation_count": 0,
+      "has_footnotes": false
+    },
+    "prerequisites": {
+      "domains": [],
+      "cultural": [
+        {
+          "context": "military-deployment-experience",
+          "requires_shift": false
+        }
+      ],
+      "signals_prerequisites": false
+    },
+    "references": {
+      "internal": [],
+      "external": 0,
+      "referenced_by": []
+    },
+    "dependency_score": "low",
+    "accessibility": {
+      "linguistic_barrier": "medium",
+      "domain_barrier": "low",
+      "cultural_barrier": "medium",
+      "variance_by": [
+        {
+          "dimension": "military-familiarity",
+          "range": [
+            65,
+            95
+          ]
+        }
+      ]
+    },
+    "actionability": {
+      "has_templates": false,
+      "has_protocol": false,
+      "has_examples": true,
+      "implementation_time": "ongoing"
+    },
+    "read_next": [],
+    "read_before": [],
+    "enhances": [
+      "military-theme",
+      "memoir-theme"
+    ]
+  },
+  "14-everyday": {
+    "word_count": 1653,
+    "opening_structure": "scene",
+    "structure_type": "narrative",
+    "sentence_metrics": {
+      "avg_sentence_length": 18.5,
+      "max_sentence_length": 52
+    },
+    "terminology": {
+      "domain_term_density": 2.1,
+      "domains": [
+        "military",
+        "war"
+      ],
+      "cultural_terms": [
+        "Marine",
+        "Afghanistan",
+        "deployment"
+      ],
+      "terms_defined_inline": 1
+    },
+    "referential_density": {
+      "concepts_introduced": 0,
+      "entities_named": 2
+    },
+    "content_markers": {
+      "has_numbered_list": false,
+      "has_bullet_list": false,
+      "has_examples": true,
+      "has_citations": false,
+      "citation_count": 0,
+      "has_footnotes": false
+    },
+    "prerequisites": {
+      "domains": [],
+      "cultural": [
+        {
+          "context": "military-deployment-experience",
+          "requires_shift": false
+        }
+      ],
+      "signals_prerequisites": false
+    },
+    "references": {
+      "internal": [],
+      "external": 0,
+      "referenced_by": []
+    },
+    "dependency_score": "low",
+    "accessibility": {
+      "linguistic_barrier": "medium",
+      "domain_barrier": "low",
+      "cultural_barrier": "medium",
+      "variance_by": [
+        {
+          "dimension": "military-familiarity",
+          "range": [
+            65,
+            95
+          ]
+        }
+      ]
+    },
+    "actionability": {
+      "has_templates": false,
+      "has_protocol": false,
+      "has_examples": true,
+      "implementation_time": "ongoing"
+    },
+    "read_next": [],
+    "read_before": [],
+    "enhances": [
+      "military-theme",
+      "memoir-theme"
+    ]
+  },
+  "15-lead-me-home": {
+    "word_count": 1955,
+    "opening_structure": "scene",
+    "structure_type": "narrative",
+    "sentence_metrics": {
+      "avg_sentence_length": 18.5,
+      "max_sentence_length": 52
+    },
+    "terminology": {
+      "domain_term_density": 2.1,
+      "domains": [
+        "military",
+        "war"
+      ],
+      "cultural_terms": [
+        "Marine",
+        "Afghanistan",
+        "deployment"
+      ],
+      "terms_defined_inline": 1
+    },
+    "referential_density": {
+      "concepts_introduced": 0,
+      "entities_named": 2
+    },
+    "content_markers": {
+      "has_numbered_list": false,
+      "has_bullet_list": false,
+      "has_examples": true,
+      "has_citations": false,
+      "citation_count": 0,
+      "has_footnotes": false
+    },
+    "prerequisites": {
+      "domains": [],
+      "cultural": [
+        {
+          "context": "military-deployment-experience",
+          "requires_shift": false
+        }
+      ],
+      "signals_prerequisites": false
+    },
+    "references": {
+      "internal": [],
+      "external": 0,
+      "referenced_by": []
+    },
+    "dependency_score": "low",
+    "accessibility": {
+      "linguistic_barrier": "medium",
+      "domain_barrier": "low",
+      "cultural_barrier": "medium",
+      "variance_by": [
+        {
+          "dimension": "military-familiarity",
+          "range": [
+            65,
+            95
+          ]
+        }
+      ]
+    },
+    "actionability": {
+      "has_templates": false,
+      "has_protocol": false,
+      "has_examples": true,
+      "implementation_time": "ongoing"
+    },
+    "read_next": [],
+    "read_before": [],
+    "enhances": [
+      "military-theme",
+      "memoir-theme"
+    ]
+  },
+  "a-need-for-combat": {
+    "word_count": 2304,
+    "opening_structure": "scene",
+    "structure_type": "narrative",
+    "sentence_metrics": {
+      "avg_sentence_length": 18.5,
+      "max_sentence_length": 52
+    },
+    "terminology": {
+      "domain_term_density": 2.1,
+      "domains": [
+        "military",
+        "war"
+      ],
+      "cultural_terms": [
+        "Marine",
+        "Afghanistan",
+        "deployment",
+        "combat"
+      ],
+      "terms_defined_inline": 1
+    },
+    "referential_density": {
+      "concepts_introduced": 0,
+      "entities_named": 2
+    },
+    "content_markers": {
+      "has_numbered_list": false,
+      "has_bullet_list": false,
+      "has_examples": true,
+      "has_citations": false,
+      "citation_count": 0,
+      "has_footnotes": false
+    },
+    "prerequisites": {
+      "domains": [],
+      "cultural": [
+        {
+          "context": "military-deployment-experience",
+          "requires_shift": false
+        }
+      ],
+      "signals_prerequisites": false
+    },
+    "references": {
+      "internal": [],
+      "external": 0,
+      "referenced_by": []
+    },
+    "dependency_score": "low",
+    "accessibility": {
+      "linguistic_barrier": "medium",
+      "domain_barrier": "low",
+      "cultural_barrier": "medium",
+      "variance_by": [
+        {
+          "dimension": "military-familiarity",
+          "range": [
+            65,
+            95
+          ]
+        }
+      ]
+    },
+    "actionability": {
+      "has_templates": false,
+      "has_protocol": false,
+      "has_examples": true,
+      "implementation_time": "ongoing"
+    },
+    "read_next": [],
+    "read_before": [],
+    "enhances": [
+      "military-theme",
+      "memoir-theme"
+    ]
   }
 }
