@@ -100,7 +100,7 @@ about me right now? What evidence would exist if this weren't true?
 
 **Effective for**: Perfectionism, incompetence narratives, unworthiness beliefs, creative block, "not a writer/artist/leader" statements
 
----
+***
 
 ### State: Saying the Same Thing
 
@@ -120,7 +120,7 @@ Ask which one is actually true.
 
 **Effective for**: Identity confusion, conflicting values, unstated priorities, hidden contradictions
 
----
+***
 
 ### State: Stuck. Don't See Next Steps
 
@@ -139,7 +139,7 @@ Then tell me why it would fail. Then tell me the opposite.
 
 **Effective for**: Risk aversion, decision paralysis, learned helplessness, analysis paralysis
 
----
+***
 
 ### State: You State a Fact About Yourself
 
@@ -159,7 +159,7 @@ Who am I comparing myself to? Do I have counterexamples?
 
 **Effective for**: Negative self-talk, totalizing claims, overgeneralized failures, identity traps
 
----
+***
 
 ## Final Note
 
