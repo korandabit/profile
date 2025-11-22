@@ -2,8 +2,8 @@
   "_meta": {
     "schema_version": "1.0",
     "last_updated": "2025-11-22",
-    "total_posts_analyzed": 7,
-    "sessions_completed": 3,
+    "total_posts_analyzed": 10,
+    "sessions_completed": 4,
     "notes": "Hybrid storage: minimal YAML in posts, full analysis here"
   },
 
@@ -612,5 +612,224 @@
     ],
 
     "enhances": ["ai-practical-use-theme", "prompt-engineering-theme"]
+  },
+
+  "read-receipts-irl": {
+    "word_count": 460,
+
+    "sentence_metrics": {
+      "avg_sentence_length": 16.8,
+      "max_sentence_length": 41
+    },
+
+    "opening_structure": "argument",
+    "structure_type": "framework",
+
+    "terminology": {
+      "domain_term_density": 2.4,
+      "domains": ["communication", "discourse-analysis"],
+      "cultural_terms": [],
+      "terms_defined_inline": 2
+    },
+
+    "referential_density": {
+      "concepts_introduced": 4,
+      "concept_rate": 0.87,
+      "entities_named": 0
+    },
+
+    "content_markers": {
+      "has_numbered_list": false,
+      "has_bullet_list": false,
+      "has_examples": true,
+      "has_citations": false,
+      "citation_count": 0,
+      "has_footnotes": false
+    },
+
+    "prerequisites": {
+      "domains": [
+        {
+          "name": "discourse-analysis",
+          "level": "awareness",
+          "critical": false
+        }
+      ],
+      "cultural": [],
+      "signals_prerequisites": false
+    },
+
+    "references": {
+      "internal": [],
+      "external": 0,
+      "referenced_by": []
+    },
+
+    "dependency_score": "none",
+
+    "accessibility": {
+      "linguistic_barrier": "low",
+      "domain_barrier": "low",
+      "cultural_barrier": "none",
+      "variance_by": [
+        {
+          "dimension": "communication-theory-literacy",
+          "range": [80, 95]
+        }
+      ]
+    },
+
+    "actionability": {
+      "has_templates": false,
+      "has_protocol": true,
+      "has_examples": true,
+      "implementation_time": "immediate"
+    },
+
+    "read_next": [
+      {
+        "slug": "the-agreement-between-reader-and-writer",
+        "reason": "conceptual-foundation"
+      },
+      {
+        "slug": "not-the-point",
+        "reason": "similar-framework"
+      }
+    ],
+
+    "read_before": [],
+    "enhances": ["communication-theme"]
+  },
+
+  "the-agreement-between-reader-and-writer": {
+    "word_count": 290,
+
+    "opening_structure": "definition",
+    "structure_type": "framework",
+
+    "terminology": {
+      "domain_term_density": 1.7,
+      "domains": ["philosophy-of-language", "communication"],
+      "cultural_terms": [],
+      "terms_defined_inline": 4
+    },
+
+    "content_markers": {
+      "has_examples": true,
+      "has_citations": false,
+      "citation_count": 0,
+      "has_footnotes": false
+    },
+
+    "prerequisites": {
+      "domains": [
+        {
+          "name": "philosophy-of-language",
+          "level": "awareness",
+          "critical": false
+        }
+      ],
+      "cultural": []
+    },
+
+    "references": {
+      "internal": [
+        {
+          "slug": "not-the-point",
+          "type": "continuation",
+          "note": "Part of Brief Essays on Communication series"
+        }
+      ],
+      "external": 0,
+      "referenced_by": []
+    },
+
+    "dependency_score": "low",
+
+    "accessibility": {
+      "linguistic_barrier": "medium",
+      "domain_barrier": "low",
+      "cultural_barrier": "none"
+    },
+
+    "read_next": [
+      {
+        "slug": "not-the-point",
+        "reason": "explicit-continuation"
+      },
+      {
+        "slug": "read-receipts-irl",
+        "reason": "practical-application"
+      }
+    ],
+
+    "read_before": [],
+    "enhances": ["communication-theme"]
+  },
+
+  "say-less-and-more": {
+    "word_count": 280,
+
+    "opening_structure": "question",
+    "structure_type": "analysis",
+
+    "terminology": {
+      "domain_term_density": 3.2,
+      "domains": ["ai-chatbots", "education", "communication"],
+      "cultural_terms": [],
+      "terms_defined_inline": 1
+    },
+
+    "content_markers": {
+      "has_examples": true,
+      "has_citations": false,
+      "citation_count": 0,
+      "has_footnotes": false
+    },
+
+    "prerequisites": {
+      "domains": [
+        {
+          "name": "ai-chatbots",
+          "level": "awareness",
+          "critical": true
+        }
+      ],
+      "cultural": []
+    },
+
+    "references": {
+      "internal": [],
+      "external": 0,
+      "referenced_by": []
+    },
+
+    "dependency_score": "none",
+
+    "accessibility": {
+      "linguistic_barrier": "low",
+      "domain_barrier": "medium",
+      "cultural_barrier": "none"
+    },
+
+    "actionability": {
+      "has_protocol": true,
+      "has_examples": true,
+      "implementation_time": "immediate"
+    },
+
+    "read_next": [
+      {
+        "slug": "know-thaiself",
+        "reason": "similar-theme"
+      },
+      {
+        "slug": "stop-avoiding-yourself-the-ai-in-you",
+        "reason": "conceptual-foundation"
+      }
+    ],
+
+    "read_before": [],
+    "enhances": ["ai-chatbot-theme", "communication-theme", "education-theme"]
   }
 }
