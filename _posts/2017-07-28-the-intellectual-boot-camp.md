@@ -15,6 +15,16 @@ tags:
 - logic
 - reason
 title: The Intellectual Boot Camp
+analysis:
+  structure: advocacy
+  barriers:
+    domain: low
+    cultural: medium
+  read_next:
+    - slug: bet-your-life
+      reason: related-program
+    - slug: the-unedited-war-story-of-a-veteran
+      reason: military-background
 ---
 
 

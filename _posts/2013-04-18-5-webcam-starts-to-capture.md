@@ -17,6 +17,11 @@ tags:
 - Marine
 - webcam
 title: 5. Webcam starts to capture
+analysis:
+  structure: narrative
+  barriers:
+    domain: low
+    cultural: medium
 ---
 
 

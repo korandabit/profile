@@ -16,6 +16,16 @@ tags:
 - google maps
 - technology
 title: Right-click for AI
+analysis:
+  structure: analysis
+  barriers:
+    domain: medium
+    cultural: none
+  read_next:
+    - slug: ai-the-next-technological-leap
+      reason: conceptual-expansion
+    - slug: stop-avoiding-yourself-the-ai-in-you
+      reason: practical-examples
 ---
 
 

@@ -16,6 +16,11 @@ tags:
 - Marine
 - perspective
 title: 'Preface: One of those guys'
+analysis:
+  structure: framework
+  barriers:
+    domain: low
+    cultural: medium
 ---
 
 

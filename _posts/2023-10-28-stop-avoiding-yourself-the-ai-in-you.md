@@ -17,6 +17,16 @@ tags:
 - sociolinguistics
 - trust
 title: 'Stop avoiding yourself: the AI in you'
+analysis:
+  structure: framework
+  barriers:
+    domain: medium
+    cultural: none
+  read_next:
+    - slug: bot-therapy
+      reason: similar-framework
+    - slug: know-thaiself
+      reason: conceptual-continuation
 ---
 
 

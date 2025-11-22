@@ -20,6 +20,16 @@ tags:
 - prevention
 - singularity
 title: The fear and power of singularity
+analysis:
+  structure: advocacy
+  barriers:
+    domain: medium
+    cultural: none
+  read_next:
+    - slug: awakening-ai
+      reason: technical-depth
+    - slug: ai-zombie
+      reason: ethical-perspective
 ---
 
 

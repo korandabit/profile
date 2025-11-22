@@ -24,6 +24,16 @@ tags:
 - word choice
 - word limit
 title: Say less and more
+analysis:
+  structure: analysis
+  barriers:
+    domain: medium
+    cultural: none
+  read_next:
+    - slug: know-thaiself
+      reason: similar-theme
+    - slug: stop-avoiding-yourself-the-ai-in-you
+      reason: conceptual-foundation
 ---
 
 

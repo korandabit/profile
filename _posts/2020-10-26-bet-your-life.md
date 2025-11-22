@@ -17,6 +17,16 @@ tags:
 - productivity
 - skilled reflection
 title: Bet your life
+analysis:
+  structure: framework
+  barriers:
+    domain: none
+    cultural: low
+  read_next:
+    - slug: bet-your-life-notes
+      reason: explicit-continuation
+    - slug: the-intellectual-boot-camp
+      reason: background-context
 ---
 
 

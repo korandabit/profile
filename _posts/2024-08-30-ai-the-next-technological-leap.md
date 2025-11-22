@@ -4,6 +4,16 @@ title: "AI: The Next Technological Leap"
 date: 2024-08-30 12:00:00 -0500
 categories: [AI, Technology]
 tags: [artificial intelligence, cognitive augmentation, future tech]
+analysis:
+  structure: analysis
+  barriers:
+    domain: medium
+    cultural: none
+  read_next:
+    - slug: stop-avoiding-yourself-the-ai-in-you
+      reason: conceptual-foundation
+    - slug: right-click-for-ai
+      reason: practical-application
 ---
 
 The current capacity of an uninhibited, curious, and enterprising human paired with AI is capable of a new order of magnitude of creativity and discovery. There's a whole new way of being available through this. Chatbots promise to take us to new realms, extending our intellectual power more profoundly than pencils or computers ever did.

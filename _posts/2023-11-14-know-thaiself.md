@@ -22,6 +22,16 @@ tags:
 - self-help
 - claude
 title: Know thAIself
+analysis:
+  structure: how-to
+  barriers:
+    domain: medium
+    cultural: none
+  read_next:
+    - slug: ai-zombie
+      reason: deeper-implications
+    - slug: awakening-ai
+      reason: theoretical-understanding
 ---
 
 

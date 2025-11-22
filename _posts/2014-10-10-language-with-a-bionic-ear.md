@@ -15,6 +15,14 @@ tags:
 - language development
 - sign
 title: Language with a bionic ear
+analysis:
+  structure: analysis
+  barriers:
+    domain: high
+    cultural: high
+  read_next:
+    - slug: deafhood-unheard
+      reason: related-theme
 ---
 
 

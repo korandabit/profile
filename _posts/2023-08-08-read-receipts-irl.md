@@ -17,6 +17,16 @@ tags:
 - holding space
 - read receipt
 title: Read Receipts IRL
+analysis:
+  structure: framework
+  barriers:
+    domain: low
+    cultural: none
+  read_next:
+    - slug: the-agreement-between-reader-and-writer
+      reason: conceptual-foundation
+    - slug: not-the-point
+      reason: similar-framework
 ---
 
 

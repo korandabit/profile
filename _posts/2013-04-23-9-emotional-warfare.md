@@ -18,6 +18,11 @@ tags:
 - suicide
 - tribute to the fallen
 title: 9. Emotional Warfare
+analysis:
+  structure: narrative
+  barriers:
+    domain: low
+    cultural: medium
 ---
 
 

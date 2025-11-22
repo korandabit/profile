@@ -21,6 +21,16 @@ tags:
 - skilled reflection
 - values
 title: All the (right) words you've said or read
+analysis:
+  structure: how-to
+  barriers:
+    domain: none
+    cultural: none
+  read_next:
+    - slug: questions-books
+      reason: knowledge-curation
+    - slug: words-youve-never-heard
+      reason: conceptual-foundation
 ---
 
 

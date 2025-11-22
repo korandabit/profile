@@ -18,6 +18,16 @@ tags:
 - philosophy of science
 - pragmatism
 title: Introduction to Empirical Pragmatism
+analysis:
+  structure: framework
+  barriers:
+    domain: high
+    cultural: none
+  read_next:
+    - slug: words-youve-never-heard
+      reason: applied-epistemology
+    - slug: all-the-right-words-youve-said-or-read
+      reason: practical-application
 ---
 
 

@@ -23,6 +23,16 @@ tags:
 - ip
 - technology
 title: Words you've never heard
+analysis:
+  structure: analysis
+  barriers:
+    domain: medium
+    cultural: none
+  read_next:
+    - slug: say-less-and-more
+      reason: similar-theme
+    - slug: know-thaiself
+      reason: practical-application
 ---
 
 

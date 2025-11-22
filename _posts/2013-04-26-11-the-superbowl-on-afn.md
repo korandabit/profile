@@ -16,6 +16,11 @@ tags:
 - Superbowl
 - USMC
 title: 11. The Superbowl on AFN
+analysis:
+  structure: narrative
+  barriers:
+    domain: low
+    cultural: medium
 ---
 
 
