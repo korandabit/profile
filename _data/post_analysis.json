@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "last_updated": "2025-11-22",
+    "total_posts_analyzed": 0,
+    "sessions_completed": 1,
+    "notes": "Hybrid storage: minimal YAML in posts, full analysis here"
+  },
+  
+  "_sample_posts": {
+    "bot-therapy": "Analyzed in Session 1 (framework development)",
+    "not-the-point": "Analyzed in Session 1 (framework development)",
+    "deafhood-unheard": "Analyzed in Session 1 (framework development)",
+    "the-unedited-war-story-of-a-veteran": "Analyzed in Session 1 (framework development)"
+  }
+}
