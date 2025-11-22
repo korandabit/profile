@@ -1,0 +1,145 @@
+{
+  "broken_references": [
+    {
+      "from": "stop-avoiding-yourself-the-ai-in-you",
+      "to": "future-workshop-post",
+      "type": "continuation",
+      "note": "Mentions future in-depth workshop post"
+    }
+  ],
+  "missing_links": [],
+  "accessibility_issues": [
+    {
+      "slug": "the-definition-of-deaf",
+      "issue": "high-cultural-barrier-no-signal",
+      "cultural": [
+        {
+          "context": "deaf-culture-perspective",
+          "requires_shift": true
+        },
+        {
+          "context": "hearing-normative-assumptions",
+          "requires_shift": true
+        }
+      ]
+    }
+  ],
+  "expansion_opportunities": [],
+  "series_gaps": [],
+  "orphans": [
+    {
+      "slug": "awakening-ai",
+      "concept_rate": 0.76,
+      "structure": "framework",
+      "domains": [
+        "ai",
+        "cognitive-science",
+        "machine-learning"
+      ],
+      "reason": "high-concept-framework-no-connections"
+    },
+    {
+      "slug": "read-receipts-irl",
+      "concept_rate": 0.87,
+      "structure": "framework",
+      "domains": [
+        "communication",
+        "discourse-analysis"
+      ],
+      "reason": "high-concept-framework-no-connections"
+    },
+    {
+      "slug": "introduction-to-empirical-pragmatism",
+      "concept_rate": 1.23,
+      "structure": "framework",
+      "domains": [
+        "philosophy",
+        "epistemology",
+        "philosophy-of-science"
+      ],
+      "reason": "high-concept-framework-no-connections"
+    }
+  ],
+  "domain_bridges": [
+    {
+      "slug": "awakening-ai",
+      "domains": [
+        "ai",
+        "cognitive-science",
+        "machine-learning"
+      ],
+      "structure": "framework",
+      "word_count": 1050
+    },
+    {
+      "slug": "say-less-and-more",
+      "domains": [
+        "ai-chatbots",
+        "education",
+        "communication"
+      ],
+      "structure": "analysis",
+      "word_count": 280
+    },
+    {
+      "slug": "introduction-to-empirical-pragmatism",
+      "domains": [
+        "philosophy",
+        "epistemology",
+        "philosophy-of-science"
+      ],
+      "structure": "framework",
+      "word_count": 650
+    },
+    {
+      "slug": "words-youve-never-heard",
+      "domains": [
+        "ai-chatbots",
+        "intellectual-property",
+        "communication"
+      ],
+      "structure": "analysis",
+      "word_count": 950
+    },
+    {
+      "slug": "bet-your-life-notes",
+      "domains": [
+        "psychology",
+        "philosophy-of-science",
+        "therapy"
+      ],
+      "structure": "analysis",
+      "word_count": 750
+    },
+    {
+      "slug": "questions-books",
+      "domains": [
+        "communication",
+        "education",
+        "therapy"
+      ],
+      "structure": "analysis",
+      "word_count": 450
+    },
+    {
+      "slug": "language-with-a-bionic-ear",
+      "domains": [
+        "deaf-culture",
+        "language-development",
+        "biomedical-technology"
+      ],
+      "structure": "analysis",
+      "word_count": 850
+    },
+    {
+      "slug": "the-intellectual-boot-camp",
+      "domains": [
+        "military",
+        "education",
+        "critical-thinking"
+      ],
+      "structure": "advocacy",
+      "word_count": 850
+    }
+  ]
+}
