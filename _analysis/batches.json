@@ -49,7 +49,7 @@
     {
       "session": 5,
       "name": "Language Science",
-      "status": "pending",
+      "status": "completed",
       "posts": [
         "2024-06-11-introduction-to-empirical-pragmatism",
         "2024-06-06-words-youve-never-heard",
@@ -60,7 +60,7 @@
     {
       "session": 6,
       "name": "Cognitive Growth",
-      "status": "pending",
+      "status": "completed",
       "posts": [
         "2020-10-26-bet-your-life",
         "2020-10-26-bet-your-life-notes",
@@ -71,7 +71,7 @@
     {
       "session": 7,
       "name": "Deaf Culture",
-      "status": "pending",
+      "status": "completed",
       "posts": [
         "2013-10-26-the-definition-of-deaf",
         "2014-10-10-language-with-a-bionic-ear"
@@ -81,7 +81,7 @@
     {
       "session": 8,
       "name": "Military - Retrospective",
-      "status": "pending",
+      "status": "completed",
       "posts": [
         "2017-07-28-the-intellectual-boot-camp"
       ],
@@ -90,7 +90,7 @@
     {
       "session": 9,
       "name": "Military - 2013 Serialization Part 1",
-      "status": "pending",
+      "status": "completed",
       "posts": [
         "2013-04-17-preface-one-of-those-guys",
         "2013-04-17-1-it-rained",
@@ -108,7 +108,7 @@
     {
       "session": 10,
       "name": "Military - 2013 Serialization Part 2",
-      "status": "pending",
+      "status": "completed",
       "posts": [
         "2013-04-25-10-a-fog-of-war",
         "2013-04-26-11-the-superbowl-on-afn",
