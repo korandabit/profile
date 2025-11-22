@@ -15,6 +15,11 @@ tags:
 - deployment
 - Marine
 title: 3. The nights after the rain
+analysis:
+  structure: narrative
+  barriers:
+    domain: low
+    cultural: medium
 ---
 
 

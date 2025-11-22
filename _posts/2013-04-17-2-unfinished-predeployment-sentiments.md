@@ -8,6 +8,11 @@ excerpt: '**Nov. 20th, 2009 (Entry 4)** A year ago I was on my way to Iraq, but 
   for the deployment.'
 layout: post
 title: 2. Unfinished predeployment sentiments
+analysis:
+  structure: narrative
+  barriers:
+    domain: low
+    cultural: medium
 ---
 
 

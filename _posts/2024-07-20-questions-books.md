@@ -26,6 +26,16 @@ tags:
 - therapy
 - tldr
 title: Questions Books
+analysis:
+  structure: analysis
+  barriers:
+    domain: none
+    cultural: none
+  read_next:
+    - slug: read-receipts-irl
+      reason: practical-application
+    - slug: all-the-right-words-youve-said-or-read
+      reason: knowledge-curation
 ---
 
 

@@ -275,3 +275,72 @@ This is an append-only log of all analysis sessions.
 **Validation:** All checks passed ✓
 
 ---
+## Session 11: Corpus-Wide Analysis
+**Date:** 2025-11-22
+**Branch:** claude/review-recent-updates-01R5mwn5dy9hcNN5H7wgKceY
+**Commit:** pending
+**Status:** Completed
+**Posts analyzed:** 0 (synthesis session)
+
+**Deliverables:**
+- `dependency-graph.md` - Internal reference network analysis
+- `reading-paths.md` - Recommended reading sequences and entry points
+- `corpus-index.md` - Comprehensive index by domain, accessibility, and concept density
+
+**Key findings:**
+- 35 posts analyzed across 26 domains
+- 9 internal references creating interconnections
+- 4 universal entry points (low barrier across all dimensions)
+- 26 isolated posts (no internal references)
+- Concept density ranges from 0.47 to 1.23 per 100w
+- Military/war themes dominate (17 posts), followed by AI (7 posts)
+
+**Network structure:**
+- Hub posts: "stop-avoiding-yourself-the-ai-in-you" most referenced (2 inbound)
+- Prerequisite chains: 4 explicit prerequisite relationships
+- Series connections: bet-your-life series, deaf culture series
+- 8 posts have outbound references, 8 have inbound references
+
+**Validation:** All deliverables created ✓
+
+---
+
+## Session 12: Jekyll Integration
+**Date:** 2025-11-22
+**Branch:** claude/review-recent-updates-01R5mwn5dy9hcNN5H7wgKceY
+**Commit:** pending
+**Status:** Completed
+**Posts modified:** 35 (all analyzed posts)
+
+**Deliverables:**
+- Added minimal `analysis` section to YAML front matter in all 35 analyzed posts
+- YAML includes: structure type, accessibility barriers, read_next recommendations
+- All YAML validated with Python yaml parser
+
+**YAML Structure Added:**
+```yaml
+analysis:
+  structure: framework|narrative|analysis|how-to|advocacy
+  barriers:
+    domain: none|low|medium|high
+    cultural: none|low|medium|high
+  read_next:  # optional, only if recommendations exist
+    - slug: post-slug
+      reason: similar-framework|conceptual-continuation|etc
+```
+
+**Validation Results:**
+- All 35 posts updated successfully
+- YAML syntax validated on sample posts
+- Jekyll-compatible format confirmed
+- No errors during update process
+
+**Next Steps:**
+- Test filtering/sorting on blog using new analysis data
+- Consider adding index pages organized by barriers/structure
+- Potential integration with search/discovery features
+
+**Validation:** All posts updated and validated ✓
+
+---
+

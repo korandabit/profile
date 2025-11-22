@@ -16,6 +16,11 @@ tags:
 - mortar
 - USMC
 title: 13. A Need for Combat
+analysis:
+  structure: narrative
+  barriers:
+    domain: low
+    cultural: medium
 ---
 
 

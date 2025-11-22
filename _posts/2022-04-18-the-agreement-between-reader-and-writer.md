@@ -20,6 +20,16 @@ tags:
 - searle
 - under 100 words
 title: Reader and Writer
+analysis:
+  structure: framework
+  barriers:
+    domain: low
+    cultural: none
+  read_next:
+    - slug: not-the-point
+      reason: explicit-continuation
+    - slug: read-receipts-irl
+      reason: practical-application
 ---
 
 

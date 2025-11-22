@@ -13,6 +13,11 @@ tags:
 - Marine
 - sleepless
 title: 6. Battle for peace and quiet
+analysis:
+  structure: narrative
+  barriers:
+    domain: low
+    cultural: medium
 ---
 
 

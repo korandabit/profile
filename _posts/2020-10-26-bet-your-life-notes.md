@@ -18,6 +18,16 @@ tags:
 - therapy
 - time
 title: 'Bet Your Life: Notes'
+analysis:
+  structure: analysis
+  barriers:
+    domain: medium
+    cultural: none
+  read_next:
+    - slug: the-intellectual-boot-camp
+      reason: program-background
+    - slug: introduction-to-empirical-pragmatism
+      reason: related-framework
 ---
 
 

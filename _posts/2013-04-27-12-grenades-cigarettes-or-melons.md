@@ -20,6 +20,11 @@ tags:
 - translation
 - USMC
 title: 12. Grenades, cigarettes, or melons
+analysis:
+  structure: narrative
+  barriers:
+    domain: low
+    cultural: medium
 ---
 
 

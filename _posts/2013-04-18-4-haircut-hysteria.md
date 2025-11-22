@@ -15,6 +15,11 @@ tags:
 - mud
 - regulation
 title: 4. Haircut hysteria
+analysis:
+  structure: narrative
+  barriers:
+    domain: low
+    cultural: medium
 ---
 
 

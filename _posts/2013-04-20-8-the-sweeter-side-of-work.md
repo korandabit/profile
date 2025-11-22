@@ -16,6 +16,11 @@ tags:
 - Marine
 - shift work
 title: 8. The sweeter side of work
+analysis:
+  structure: narrative
+  barriers:
+    domain: low
+    cultural: medium
 ---
 
 

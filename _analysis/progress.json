@@ -1,5 +1,5 @@
 {
-  "current_session": 10,
+  "current_session": 12,
   "last_updated": "2025-11-22",
   "completed_sessions": [
     1,
@@ -11,7 +11,9 @@
     7,
     8,
     9,
-    10
+    10,
+    11,
+    12
   ],
   "sessions": {
     "1": {
@@ -93,9 +95,25 @@
       "branch": "claude/analyze-code-01EiLUhVkDnGLitps8nMzqei",
       "commit": "pending",
       "note": "Military - 2013 Serialization Part 2"
+    },
+    "11": {
+      "status": "completed",
+      "completed_date": "2025-11-22",
+      "posts_analyzed": 0,
+      "branch": "claude/review-recent-updates-01R5mwn5dy9hcNN5H7wgKceY",
+      "commit": "pending",
+      "note": "Corpus-wide analysis: dependency graph, reading paths, corpus index"
+    },
+    "12": {
+      "status": "completed",
+      "completed_date": "2025-11-22",
+      "posts_analyzed": 35,
+      "branch": "claude/review-recent-updates-01R5mwn5dy9hcNN5H7wgKceY",
+      "commit": "pending",
+      "note": "Jekyll integration: added analysis YAML to all analyzed posts"
     }
   },
-  "next_session": 11,
-  "total_posts_analyzed": 39,
-  "total_posts_remaining": 37
+  "next_session": 13,
+  "total_posts_analyzed": 35,
+  "total_posts_remaining": 41
 }

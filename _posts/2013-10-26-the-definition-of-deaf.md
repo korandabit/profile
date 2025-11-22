@@ -16,6 +16,16 @@ tags:
 - hearing
 - identity
 title: The Definition of Deaf
+analysis:
+  structure: advocacy
+  barriers:
+    domain: medium
+    cultural: high
+  read_next:
+    - slug: language-with-a-bionic-ear
+      reason: explicit-continuation
+    - slug: deafhood-unheard
+      reason: related-theme
 ---
 
 

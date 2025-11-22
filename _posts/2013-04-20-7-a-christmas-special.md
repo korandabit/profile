@@ -16,6 +16,11 @@ tags:
 - Nepalese
 - overseas
 title: 7. A Christmas special
+analysis:
+  structure: narrative
+  barriers:
+    domain: low
+    cultural: medium
 ---
 
 
