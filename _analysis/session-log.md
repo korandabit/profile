@@ -41,3 +41,34 @@ This is an append-only log of all analysis sessions.
 **Validation:** All checks passed ✓
 
 ---
+
+## Session 3: AI Theme - Full Batch
+**Date:** 2025-11-22
+**Branch:** claude/analysis-session-3
+**Commit:** pending
+**Status:** Completed
+**Posts analyzed:** 4
+
+**Posts:**
+- awakening-ai (1050w, framework)
+- ai-zombie (850w, analysis)
+- the-fear-and-power-of-singularity (350w, advocacy - minimal scope)
+- know-thaiself (1450w, how-to)
+
+**Key findings:**
+- Wide range of structure types: framework, analysis, advocacy, how-to
+- Minimal scope correctly applied to <400w post (singularity)
+- Strong internal network: 2 posts reference "stop-avoiding-yourself-the-ai-in-you"
+- Actionability varies: know-thaiself highly actionable, awakening-ai theoretical
+- Academic depth varies: awakening-ai has 18 citations, singularity has 0
+- Concept density ranges 0.47-0.76 per 100w
+
+**Edge cases:**
+- know-thaiself signals prerequisites explicitly (first in corpus)
+- awakening-ai highest citation count so far (18)
+- fear-and-power-of-singularity shortest advocacy piece
+- ai-zombie blends narrative opening with analytical structure
+
+**Validation:** All checks passed ✓
+
+---

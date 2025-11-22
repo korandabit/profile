@@ -2,8 +2,8 @@
   "_meta": {
     "schema_version": "1.0",
     "last_updated": "2025-11-22",
-    "total_posts_analyzed": 3,
-    "sessions_completed": 2,
+    "total_posts_analyzed": 7,
+    "sessions_completed": 3,
     "notes": "Hybrid storage: minimal YAML in posts, full analysis here"
   },
 
@@ -260,5 +260,357 @@
 
     "read_before": [],
     "enhances": ["ai-chatbot-theme"]
+  },
+
+  "awakening-ai": {
+    "word_count": 1050,
+
+    "sentence_metrics": {
+      "avg_sentence_length": 23.6,
+      "max_sentence_length": 64
+    },
+
+    "opening_structure": "argument",
+    "structure_type": "framework",
+
+    "terminology": {
+      "domain_term_density": 6.2,
+      "domains": ["ai", "cognitive-science", "machine-learning"],
+      "cultural_terms": [],
+      "terms_defined_inline": 7
+    },
+
+    "referential_density": {
+      "concepts_introduced": 8,
+      "concept_rate": 0.76,
+      "entities_named": 3
+    },
+
+    "content_markers": {
+      "has_numbered_list": true,
+      "has_bullet_list": true,
+      "has_examples": true,
+      "has_citations": true,
+      "citation_count": 18,
+      "has_footnotes": true
+    },
+
+    "prerequisites": {
+      "domains": [
+        {
+          "name": "ai",
+          "level": "basic-usage",
+          "critical": true
+        },
+        {
+          "name": "cognitive-science",
+          "level": "awareness",
+          "critical": false
+        }
+      ],
+      "cultural": [],
+      "signals_prerequisites": false
+    },
+
+    "references": {
+      "internal": [],
+      "external": 18,
+      "referenced_by": []
+    },
+
+    "dependency_score": "none",
+
+    "accessibility": {
+      "linguistic_barrier": "high",
+      "domain_barrier": "high",
+      "cultural_barrier": "none",
+      "variance_by": [
+        {
+          "dimension": "ai-literacy",
+          "range": [40, 90]
+        },
+        {
+          "dimension": "cognitive-science-background",
+          "range": [50, 95]
+        }
+      ]
+    },
+
+    "actionability": {
+      "has_templates": false,
+      "has_protocol": false,
+      "has_examples": true,
+      "implementation_time": "ongoing"
+    },
+
+    "read_next": [
+      {
+        "slug": "ai-zombie",
+        "reason": "practical-implications"
+      },
+      {
+        "slug": "know-thaiself",
+        "reason": "actionable-application"
+      }
+    ],
+
+    "read_before": [],
+    "enhances": ["ai-theory-theme", "cognitive-science-theme"]
+  },
+
+  "ai-zombie": {
+    "word_count": 850,
+
+    "sentence_metrics": {
+      "avg_sentence_length": 20.8,
+      "max_sentence_length": 58
+    },
+
+    "opening_structure": "narrative",
+    "structure_type": "analysis",
+
+    "terminology": {
+      "domain_term_density": 3.1,
+      "domains": ["ai-chatbots", "algorithm-systems"],
+      "cultural_terms": [],
+      "terms_defined_inline": 2
+    },
+
+    "referential_density": {
+      "concepts_introduced": 4,
+      "concept_rate": 0.47,
+      "entities_named": 5
+    },
+
+    "content_markers": {
+      "has_numbered_list": false,
+      "has_bullet_list": false,
+      "has_examples": true,
+      "has_citations": true,
+      "citation_count": 8,
+      "has_footnotes": true
+    },
+
+    "prerequisites": {
+      "domains": [
+        {
+          "name": "ai-chatbots",
+          "level": "basic-usage",
+          "critical": true
+        }
+      ],
+      "cultural": [],
+      "signals_prerequisites": false
+    },
+
+    "references": {
+      "internal": [
+        {
+          "slug": "stop-avoiding-yourself-the-ai-in-you",
+          "type": "conceptual",
+          "note": "References AI identity concepts"
+        }
+      ],
+      "external": 8,
+      "referenced_by": []
+    },
+
+    "dependency_score": "low",
+
+    "accessibility": {
+      "linguistic_barrier": "medium",
+      "domain_barrier": "medium",
+      "cultural_barrier": "none",
+      "variance_by": [
+        {
+          "dimension": "ai-usage",
+          "range": [55, 95]
+        },
+        {
+          "dimension": "tech-skepticism",
+          "range": [60, 90]
+        }
+      ]
+    },
+
+    "actionability": {
+      "has_templates": false,
+      "has_protocol": false,
+      "has_examples": true,
+      "implementation_time": "ongoing"
+    },
+
+    "read_next": [
+      {
+        "slug": "stop-avoiding-yourself-the-ai-in-you",
+        "reason": "conceptual-foundation"
+      },
+      {
+        "slug": "awakening-ai",
+        "reason": "theoretical-depth"
+      }
+    ],
+
+    "read_before": [],
+    "enhances": ["ai-ethics-theme", "human-ai-interaction-theme"]
+  },
+
+  "the-fear-and-power-of-singularity": {
+    "word_count": 350,
+
+    "opening_structure": "scene",
+    "structure_type": "advocacy",
+
+    "accessibility": {
+      "linguistic_barrier": "low",
+      "domain_barrier": "medium",
+      "cultural_barrier": "none"
+    },
+
+    "content_markers": {
+      "has_bullet_list": true,
+      "has_examples": true,
+      "has_citations": false,
+      "citation_count": 0
+    },
+
+    "terminology": {
+      "domain_term_density": 2.6,
+      "domains": ["ai", "singularity"],
+      "cultural_terms": [],
+      "terms_defined_inline": 1
+    },
+
+    "prerequisites": {
+      "domains": [
+        {
+          "name": "ai",
+          "level": "awareness",
+          "critical": true
+        }
+      ],
+      "cultural": []
+    },
+
+    "references": {
+      "internal": [],
+      "external": 0,
+      "referenced_by": []
+    },
+
+    "dependency_score": "none",
+
+    "read_next": [
+      {
+        "slug": "awakening-ai",
+        "reason": "technical-depth"
+      },
+      {
+        "slug": "ai-zombie",
+        "reason": "ethical-perspective"
+      }
+    ],
+
+    "read_before": [],
+    "enhances": ["ai-ethics-theme", "ai-safety-theme"]
+  },
+
+  "know-thaiself": {
+    "word_count": 1450,
+
+    "sentence_metrics": {
+      "avg_sentence_length": 17.3,
+      "max_sentence_length": 49
+    },
+
+    "opening_structure": "definition",
+    "structure_type": "how-to",
+
+    "terminology": {
+      "domain_term_density": 4.8,
+      "domains": ["ai-chatbots", "prompt-engineering"],
+      "cultural_terms": [],
+      "terms_defined_inline": 8
+    },
+
+    "referential_density": {
+      "concepts_introduced": 7,
+      "concept_rate": 0.48,
+      "entities_named": 4
+    },
+
+    "content_markers": {
+      "has_numbered_list": true,
+      "has_bullet_list": true,
+      "has_examples": true,
+      "has_citations": true,
+      "citation_count": 4,
+      "has_footnotes": true
+    },
+
+    "prerequisites": {
+      "domains": [
+        {
+          "name": "ai-chatbots",
+          "level": "basic-usage",
+          "critical": true
+        }
+      ],
+      "cultural": [],
+      "signals_prerequisites": true
+    },
+
+    "references": {
+      "internal": [
+        {
+          "slug": "stop-avoiding-yourself-the-ai-in-you",
+          "type": "prerequisite",
+          "note": "Conceptual foundation for AI relationship"
+        }
+      ],
+      "external": 4,
+      "referenced_by": []
+    },
+
+    "dependency_score": "low",
+
+    "accessibility": {
+      "linguistic_barrier": "low",
+      "domain_barrier": "medium",
+      "cultural_barrier": "none",
+      "variance_by": [
+        {
+          "dimension": "ai-usage-experience",
+          "range": [50, 95]
+        }
+      ]
+    },
+
+    "actionability": {
+      "has_templates": true,
+      "has_protocol": true,
+      "has_examples": true,
+      "implementation_time": "immediate"
+    },
+
+    "read_next": [
+      {
+        "slug": "ai-zombie",
+        "reason": "deeper-implications"
+      },
+      {
+        "slug": "awakening-ai",
+        "reason": "theoretical-understanding"
+      }
+    ],
+
+    "read_before": [
+      {
+        "slug": "stop-avoiding-yourself-the-ai-in-you",
+        "reason": "conceptual-prerequisite"
+      }
+    ],
+
+    "enhances": ["ai-practical-use-theme", "prompt-engineering-theme"]
   }
 }
