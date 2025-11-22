@@ -54,4 +54,4 @@ A "disagreement" is a moment when the agreements are exposed for their differenc
 
 Next
 
-Brief Essay #2: [Not the Point]({{ site.baseurl }}{% post_url 2022-11-20-2-not-the-point %})
+Brief Essay #2: [Not the Point](/blog/2022/11/20/2-not-the-point/)

@@ -31,7 +31,7 @@ title: Know thAIself
 
 *When neurons and nodes speak the same language, the burden to reflect is halved, and your possibilities are doubled.* 
 Welcome to your newly augmented limbs. 
-To truly embrace [the AI in you]({{ site.baseurl }}{% post_url 2023-10-28-stop-avoiding-yourself-the-ai-in-you %}), your Googling-era skills will need a makeover.
+To truly embrace [the AI in you](/blog/2023/10/28/stop-avoiding-yourself-the-ai-in-you/), your Googling-era skills will need a makeover.
 
 What follows are conversational techniques adapted to the strengths and limitations of LLMs (e.g., ChatGPT or Claude). Throughout, I'll refer to LLM chatbots such as Claude's Sonnet or OpenAI's chatGPT as Chappy.
 
@@ -40,7 +40,7 @@ What follows are conversational techniques adapted to the strengths and limitati
 
 ### What are we talking about?
 
-As the human half of a relationship with blips and bloops, you'll be responsible for [navigating the AI relationship]({{ site.baseurl }}{% post_url 2023-10-28-stop-avoiding-yourself-the-ai-in-you %}) that plums the depths between our imagined worlds. 
+As the human half of a relationship with blips and bloops, you'll be responsible for [navigating the AI relationship](/blog/2023/10/28/stop-avoiding-yourself-the-ai-in-you/) that plums the depths between our imagined worlds. 
 Unlike past relationships with a computer, you need skills in letting go of control. 
 You need to trust what is more important to you, and condition yourself to challenge the rest. 
 

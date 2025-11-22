@@ -35,15 +35,15 @@ Nervous?
 
 Legal documents imply rigid compliance, reflecting caution and delimiting responsibilities. On the surface, it is an impersonal obligation. 
 
-Yet the format of communication - whether legal, emotional, or otherwise - profoundly shapes our interpretations. A ({{ site.baseurl }}{% post_url 2023-08-01-dear-love %}) invites vulnerability and expresses boundless faith. 
+Yet the format of communication - whether legal, emotional, or otherwise - profoundly shapes our interpretations. A (/blog/2023/08/01/dear-love/) invites vulnerability and expresses boundless faith. 
 
 Open another envelope. This personalized letter contains: "I will always be here for you, no matter what."
 
-There is sentiment in the legal, just as there is legalese in the love letter. Our assumptions about form often blind us to the substance beneath. But the form itself is merely a convention, ({{ site.baseurl }}{% post_url 2022-11-20-2-not-the-point %}). 
+There is sentiment in the legal, just as there is legalese in the love letter. Our assumptions about form often blind us to the substance beneath. But the form itself is merely a convention, (/blog/2022/11/20/2-not-the-point/). 
 
 Communication shapes connection, but true connection lies in seeing past the format, into the heart of expression. 
 
-Both letters share a human predicting presence. In fact ({{ site.baseurl }}{% post_url 2022-04-18-the-agreement-between-reader-and-writer %}) implies co-presence. 
+Both letters share a human predicting presence. In fact (/blog/2022/04/18/the-agreement-between-reader-and-writer/) implies co-presence. 
 
 Don't lose sight of this. Even a legal contract will drip with human love when there is no one left. 
 

@@ -23,7 +23,7 @@ title: 'Bet Your Life: Notes'
 
 
 
-The essay ({{ site.baseurl }}{% post_url 2020-10-26-bet-your-life %}) took over three months to become what it is now, which is not to suggest it is refined, but rather, the most restless topic I have written on. When I write, I rewrite, but never before have so many words changed over so many times. There are many many important points I wanted to make, but omitted in the interest of attempting coherence in a single essay.
+The essay (/blog/2020/10/26/bet-your-life/) took over three months to become what it is now, which is not to suggest it is refined, but rather, the most restless topic I have written on. When I write, I rewrite, but never before have so many words changed over so many times. There are many many important points I wanted to make, but omitted in the interest of attempting coherence in a single essay.
 
 This post serves as a collection of those points, and also helpful feedback I've received outside of Thought Repair, which may or may not serve the basis of future work. 
 
