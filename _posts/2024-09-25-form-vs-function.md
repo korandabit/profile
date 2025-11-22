@@ -1,6 +1,6 @@
 ---
 title: Teasing apart form from function
-author: s0
+author: Mark Koranda
 date: 2024-09-25
 excerpt: I'm always a little uncomfortable being called a good writer or my work a harmony of form and function. Instead, tell me how you live better because of words.
 tags:
