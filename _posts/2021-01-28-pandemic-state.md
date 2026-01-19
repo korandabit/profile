@@ -29,7 +29,7 @@ title: The Pandemic State
 A tangle of critical unknowns has arrested us--  
 the path and lethality of an invisible bug.  
 
-The microscopic alien suffocates us,  
+The microscopic alien suffocates us,   
 we who cannot help but hold each other.  
 
 We only suffocate the virus if we withhold,  
