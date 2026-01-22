@@ -24,7 +24,8 @@ title: The Pandemic State
 
 
 
-(https://thoughtrepair.wordpress.com/wp-content/uploads/2021/01/img_4383b-e1611844991771.jpg)Visual metaphor. Domestication, shelter, desolation, isolation, etc.
+![Visual metaphor. Domestication, shelter, desolation, isolation, etc.](/images/barnwide.jpg)
+
 
 A tangle of critical unknowns has arrested us--  
 the path and lethality of an invisible bug.  
