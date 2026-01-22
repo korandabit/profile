@@ -3,9 +3,7 @@ author: Mark Koranda
 categories:
 - Psychic lenses
 date: '2021-01-28 00:00:00'
-excerpt: jpg)Visual metaphor. Domestication, shelter, desolation, isolation, etc.
-  A tangle of critical unknowns has arrested us-- the path and lethality of an invisible
-  bug. The microscopic alien suffocates us, we who cannot help but hold each other.
+excerpt: How peculiar, to question the hard work of those that protect you, in desperate times when you need scientists most.
 layout: post
 tags:
 - anarchy
