@@ -187,5 +187,6 @@
   },
   "next_session": 21,
   "total_posts_analyzed": 75,
-  "total_posts_remaining": 1
+  "total_posts_remaining": 0,
+  "corpus_note": "Original estimate was 76 posts. 75 analyzed. Off-by-one acknowledged and closed 2026-02-23; likely a count artifact from early session planning."
 }
