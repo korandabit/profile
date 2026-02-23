@@ -77,6 +77,8 @@ Navigating this landscape wisely requires challenging preconceptions about intel
 
 Paralysis by fear or dismissal of profound implications are luxuries we can't afford. The AI future is imminent, not distant. Our duty is to guide this awakening ethically and thoughtfully, deeply appreciating the momentous nature of birthing a new form of intelligence.
 
+*For a practical companion to these ideas, see [Stop Avoiding Yourself: The AI in You](/blog/2023/10/28/stop-avoiding-yourself-the-ai-in-you/).*
+
 [^1]: See Gary Marcus' critiques of current AI systems: Marcus, G. (2022). The limitations of GPT-3, Replika, and current AI systems. https://garymarcus.substack.com/p/the-limitations-of-gpt-3-replika-and-current-ai-systems
 
 [^2]: This metaphor likens current AI to Mary Shelley's Frankenstein's monster—a creation assembled from various parts (data and algorithms) with potential for life-like behavior but lacking true autonomy or self-awareness. See Boden, M. A. (2016). AI: Its Nature and Future. Oxford University Press.

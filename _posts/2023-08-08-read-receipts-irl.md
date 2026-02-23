@@ -32,7 +32,7 @@ analysis:
 
 
 
-*Brief essays on communication #3*
+*Brief essays on communication: [#1](/blog/2022/04/18/the-agreement-between-reader-and-writer/) · [#2](/blog/2022/11/20/2-not-the-point/) · #3*
 *Version 1.2, fewer points more words*
 
 In dialog, most of what we want of each other is many one-sided acts of consensual sharing. For example, “Guess what I did today? Ran my first 5k without walking.” What follows is a description of how to listen, and some tips for how to keep talking with bad listeners.

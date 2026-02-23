@@ -62,6 +62,6 @@ A "disagreement" is a moment when the agreements are exposed for their differenc
 
 *I'm going away.* 
 
-Next
+[Next: Not the Point →](/blog/2022/11/20/2-not-the-point/)
 
 Brief Essay #2: [Not the Point](/blog/2022/11/20/2-not-the-point/)
