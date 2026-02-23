@@ -1,0 +1,30 @@
+name: Check Links
+
+on:
+  push:
+    branches: [master]
+  pull_request:
+    branches: [master]
+
+jobs:
+  htmlproofer:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.2'
+
+      - name: Install dependencies
+        run: gem install jekyll jekyll-theme-minimal jekyll-feed html-proofer
+
+      - name: Build Jekyll site
+        run: jekyll build
+
+      - name: Run htmlproofer (internal links only)
+        run: |
+          htmlproofer ./_site \
+            --disable-external \
+            --ignore-urls "/^#/" \
+            --no-enforce-https
