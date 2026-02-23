@@ -205,9 +205,14 @@ Welcome to my blog, where I explore various ideas and topics. Below you'll find 
         <h3>Deaf Culture</h3>
         <p>Exploring the unique perspective of growing up as a child of Deaf adults (CODA) in two worlds.</p>
         <ul>
-            <li><a href="{% post_url 2014-10-04-deafhood-unheard %}">Deafhood Unheard</a></li>
+            <li><a href="{% post_url 2013-09-09-a-world-without-music %}">A World Without Music</a></li>
+            <li><a href="{% post_url 2013-10-05-talk-about-deafhood %}">Talk About Deafhood</a></li>
             <li><a href="{% post_url 2013-10-26-the-definition-of-deaf %}">The Definition of Deaf</a></li>
+            <li><a href="{% post_url 2013-12-07-dealing-with-deaf-at-the-party %}">Dealing with Deaf at the Party</a></li>
+            <li><a href="{% post_url 2014-10-04-deafhood-unheard %}">Deafhood Unheard</a></li>
             <li><a href="{% post_url 2014-10-10-language-with-a-bionic-ear %}">Language with a Bionic Ear</a></li>
+            <li><a href="{% post_url 2014-12-07-treating-hearing-status %}">Treating Hearing Status</a></li>
+            <li><a href="{% post_url 2022-04-15-youre-not-my-dad %}">You're Not My Dad</a></li>
             <li><a href="{% post_url 2015-02-23-irrationally-speaking %}">Irrationally Speaking</a></li>
         </ul>
     </div>
