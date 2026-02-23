@@ -47,3 +47,5 @@ Most marketed products like Brita and Pur are [NSF 42](https://info.nsf.org/Cert
 ### IPX: Waterproof, water resistant, sweat resistant, dustproof
 
 Refers to the effect of the product in keeping stuff (moisture and dust) out of it. This is especially relevant for electronics, and typical for weatherproofing. A higher IPX rating is better.
+
+Refers to the effect of the product in keeping stuff (moisture and dust) out of it. This is especially relevant for electronics, and typical for weatherproofing. A higher IPX rating is better.

@@ -222,6 +222,15 @@ Multi-domain post (3 domains) - opportunity to create cross-domain connections.
 
 ---
 
+## Known Analysis Errors
+
+### FALSE-POSITIVE-001: "Stub" detection wrong for treating-hearing-status and standards
+**Detected:** Sessions 15–16 flagged both posts as truncated/incomplete.
+**Actual cause:** Source files were content-truncated during Session 12 YAML bulk-add. Live site (downstream) retained full content; upstream source did not. Restored from live site 2026-02-23.
+**Lesson:** Stub detection from source file line count is unreliable if a bulk-edit pass has modified posts. Validate against live site or git blame before flagging as incomplete.
+
+---
+
 ## LOW Priority
 
 ### BLOG-001: Investigate "awe" as a featured theme or series anchor
