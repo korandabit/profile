@@ -95,8 +95,8 @@ Welcome to my blog, where I explore various ideas and topics. Below you'll find 
     <div class="path">
         <h3>AI Chatbots</h3>
         <ol>
-            <li><a href="{% post_url 2025-11-12-bot-therapy %}">Bot Therapy</a> <span class="meta">5min, how-to</span></li>
             <li><a href="{% post_url 2023-10-28-stop-avoiding-yourself-the-ai-in-you %}">Stop Avoiding Yourself</a> <span class="meta">5min, framework</span></li>
+            <li><a href="{% post_url 2025-11-12-bot-therapy %}">Bot Therapy</a> <span class="meta">5min, how-to</span></li>
             <li><a href="{% post_url 2024-08-30-ai-the-next-technological-leap %}">Next Technological Leap</a> <span class="meta">3min</span></li>
             <li><a href="{% post_url 2024-09-16-awakening-ai %}">Awakening AI</a> <span class="meta">6min, technical</span></li>
         </ol>
@@ -208,6 +208,7 @@ Welcome to my blog, where I explore various ideas and topics. Below you'll find 
             <li><a href="{% post_url 2014-10-04-deafhood-unheard %}">Deafhood Unheard</a></li>
             <li><a href="{% post_url 2013-10-26-the-definition-of-deaf %}">The Definition of Deaf</a></li>
             <li><a href="{% post_url 2014-10-10-language-with-a-bionic-ear %}">Language with a Bionic Ear</a></li>
+            <li><a href="{% post_url 2015-02-23-irrationally-speaking %}">Irrationally Speaking</a></li>
         </ul>
     </div>
     <div class="theme-box">
@@ -233,6 +234,23 @@ Welcome to my blog, where I explore various ideas and topics. Below you'll find 
         </ul>
     </div>
 </div>
+
+<details>
+<summary>A letter series: Dear_</summary>
+<p>Three letters, one structure, different senders. Human to love. Human to AI. AI to human. The same words mean something different depending on who speaks them.</p>
+<ul>
+  <li><a href="{% post_url 2023-08-01-dear-love %}">Dear Love,</a> — signed: You</li>
+  <li><a href="{% post_url 2023-10-20-dear-a-i %}">Dear A.I.,</a> — signed: Human</li>
+  <li><a href="{% post_url 2023-10-20-dear-human %}">Dear Human,</a> — signed: ChatGPT</li>
+</ul>
+</details>
+
+<style>
+details { margin: 10px 0 30px 0; font-size: 0.95em; }
+details summary { cursor: pointer; color: #666; font-size: 0.9em; }
+details summary:hover { color: #333; }
+details ul { margin-top: 10px; }
+</style>
 
 ## All Blog Posts
 

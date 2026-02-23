@@ -220,6 +220,21 @@ Multi-domain post (3 domains) - opportunity to create cross-domain connections.
 - **Missing Content:** 1 tasks
 - **Series Completion:** 1 tasks
 
+---
+
+## LOW Priority
+
+### BLOG-001: Investigate "awe" as a featured theme or series anchor
+**Category:** Content Strategy
+**Effort:** Unknown — needs scoping first
+**Priority:** Low/Medium
+
+The dear_ triptych (dear-love, dear-a-i, dear-human) shares a structure built around wonder, address, and transformation. Question: is there enough existing or planned content to warrant an "awe" or wonder-centered theme block on the blog landing page? Possible posts in scope: dear_, know-thaiself, awakening-ai, possibly new writing.
+
+**Next step:** Review whether the two unpublished dear_ placeholders (in essays/2023 ai/) are worth writing or explain why they weren't. Then decide if awe/wonder is a real theme or just three posts.
+
+---
+
 ## Quick Wins (< 1 hour)
 
 - ACCESS-001: Add prerequisite signal to "the-definition-of-deaf"
