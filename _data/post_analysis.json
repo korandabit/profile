@@ -2797,5 +2797,2107 @@
       "military-theme",
       "memoir-theme"
     ]
+  },
+  "political-debate": {
+    "word_count": 820,
+    "sentence_metrics": {
+      "avg_sentence_length": 26.4,
+      "max_sentence_length": 68
+    },
+    "paragraph_metrics": {
+      "avg_paragraph_length": 3.8,
+      "opening_structure": "argument"
+    },
+    "terminology": {
+      "domain_term_density": 1.8,
+      "domains": ["rhetoric", "political-science"],
+      "cultural_terms": [],
+      "terms_defined_inline": 0
+    },
+    "referential_density": {
+      "concepts_introduced": 4,
+      "concept_rate": 0.49,
+      "entities_named": 3
+    },
+    "content_markers": {
+      "has_numbered_list": false,
+      "has_bullet_list": false,
+      "has_examples": true,
+      "has_citations": false,
+      "citation_count": 0,
+      "has_footnotes": false
+    },
+    "structure_type": "analysis",
+    "prerequisites": {
+      "domains": [
+        {
+          "name": "political-science",
+          "level": "awareness",
+          "critical": false
+        }
+      ],
+      "cultural": [],
+      "signals_prerequisites": false
+    },
+    "references": {
+      "internal": [],
+      "external": 0,
+      "referenced_by": []
+    },
+    "dependency_score": "none",
+    "accessibility": {
+      "linguistic_barrier": "medium",
+      "domain_barrier": "low",
+      "cultural_barrier": "none"
+    },
+    "read_next": [
+      { "slug": "dont-change-the-world", "reason": "similar-analytical-essay" },
+      { "slug": "introductory-research-methods-for-information-consumers", "reason": "shared-theme-information-epistemics" }
+    ],
+    "enhances": ["analytical-essays-theme"]
+  },
+  "introductory-research-methods-for-information-consumers": {
+    "word_count": 590,
+    "sentence_metrics": {
+      "avg_sentence_length": 22.1,
+      "max_sentence_length": 56
+    },
+    "paragraph_metrics": {
+      "avg_paragraph_length": 4.1,
+      "opening_structure": "argument"
+    },
+    "terminology": {
+      "domain_term_density": 1.5,
+      "domains": ["information-literacy", "research-methods"],
+      "cultural_terms": [],
+      "terms_defined_inline": 0
+    },
+    "referential_density": {
+      "concepts_introduced": 3,
+      "concept_rate": 0.51,
+      "entities_named": 0
+    },
+    "content_markers": {
+      "has_numbered_list": false,
+      "has_bullet_list": false,
+      "has_examples": true,
+      "has_citations": false,
+      "citation_count": 0,
+      "has_footnotes": false
+    },
+    "structure_type": "how-to",
+    "prerequisites": {
+      "domains": [],
+      "cultural": [],
+      "signals_prerequisites": false
+    },
+    "references": {
+      "internal": [],
+      "external": 0,
+      "referenced_by": []
+    },
+    "dependency_score": "none",
+    "accessibility": {
+      "linguistic_barrier": "low",
+      "domain_barrier": "none",
+      "cultural_barrier": "none"
+    },
+    "read_next": [
+      { "slug": "political-debate", "reason": "shared-theme-epistemics-and-discourse" },
+      { "slug": "introduction-to-empirical-pragmatism", "reason": "conceptual-continuation-evidence-reasoning" }
+    ],
+    "enhances": ["analytical-essays-theme"]
+  },
+  "dont-change-the-world": {
+    "word_count": 505,
+    "sentence_metrics": {
+      "avg_sentence_length": 21.3,
+      "max_sentence_length": 62
+    },
+    "paragraph_metrics": {
+      "avg_paragraph_length": 4.2,
+      "opening_structure": "argument"
+    },
+    "terminology": {
+      "domain_term_density": 1.2,
+      "domains": ["ethics", "semantics"],
+      "cultural_terms": [],
+      "terms_defined_inline": 2
+    },
+    "referential_density": {
+      "concepts_introduced": 3,
+      "concept_rate": 0.59,
+      "entities_named": 3
+    },
+    "content_markers": {
+      "has_numbered_list": false,
+      "has_bullet_list": false,
+      "has_examples": true,
+      "has_citations": false,
+      "citation_count": 0,
+      "has_footnotes": false
+    },
+    "structure_type": "analysis",
+    "prerequisites": {
+      "domains": [],
+      "cultural": [],
+      "signals_prerequisites": false
+    },
+    "references": {
+      "internal": [],
+      "external": 0,
+      "referenced_by": []
+    },
+    "dependency_score": "none",
+    "accessibility": {
+      "linguistic_barrier": "low",
+      "domain_barrier": "none",
+      "cultural_barrier": "none"
+    },
+    "read_next": [
+      { "slug": "political-debate", "reason": "similar-analytical-essay-social-themes" },
+      { "slug": "irrationally-speaking", "reason": "similar-reasoning-about-human-behavior" }
+    ],
+    "enhances": ["analytical-essays-theme"]
+  },
+  "how-to-climb-mountains-of-grief-dont": {
+    "word_count": 395,
+    "opening_structure": "definition",
+    "structure_type": "analysis",
+    "terminology": {
+      "domain_term_density": 1.5,
+      "domains": ["psychology"],
+      "cultural_terms": [],
+      "terms_defined_inline": 2
+    },
+    "content_markers": {
+      "has_numbered_list": false,
+      "has_bullet_list": false,
+      "has_examples": true,
+      "has_citations": false,
+      "citation_count": 0,
+      "has_footnotes": false
+    },
+    "prerequisites": {
+      "domains": [
+        {
+          "name": "psychology",
+          "level": "awareness",
+          "critical": false
+        }
+      ],
+      "cultural": []
+    },
+    "references": {
+      "internal": [],
+      "external": 0,
+      "referenced_by": []
+    },
+    "accessibility": {
+      "linguistic_barrier": "low",
+      "domain_barrier": "low",
+      "cultural_barrier": "none"
+    },
+    "read_next": [
+      { "slug": "quit-psychoanalyzing-me", "reason": "related-psychology-theme" },
+      { "slug": "therapists-for-everyone-else", "reason": "conceptual-continuation-therapy-themes" }
+    ],
+    "enhances": ["analytical-essays-theme"]
+  },
+  "quit-psychoanalyzing-me": {
+    "word_count": 250,
+    "opening_structure": "narrative",
+    "structure_type": "analysis",
+    "terminology": {
+      "domain_term_density": 2.0,
+      "domains": ["psychology"],
+      "cultural_terms": [],
+      "terms_defined_inline": 1
+    },
+    "content_markers": {
+      "has_numbered_list": false,
+      "has_bullet_list": false,
+      "has_examples": false,
+      "has_citations": false,
+      "citation_count": 0,
+      "has_footnotes": false
+    },
+    "prerequisites": {
+      "domains": [],
+      "cultural": []
+    },
+    "references": {
+      "internal": [],
+      "external": 0,
+      "referenced_by": []
+    },
+    "accessibility": {
+      "linguistic_barrier": "low",
+      "domain_barrier": "none",
+      "cultural_barrier": "none"
+    },
+    "read_next": [
+      { "slug": "how-to-climb-mountains-of-grief-dont", "reason": "related-psychology-theme" },
+      { "slug": "therapists-for-everyone-else", "reason": "thematic-continuation-psychology-as-discipline" }
+    ],
+    "enhances": ["analytical-essays-theme"]
+  },
+  "how-to-be-friends-with-mans-best-friend-his-feelings": {
+    "word_count": 550,
+    "sentence_metrics": {
+      "avg_sentence_length": 20.8,
+      "max_sentence_length": 55
+    },
+    "paragraph_metrics": {
+      "avg_paragraph_length": 4.6,
+      "opening_structure": "scene"
+    },
+    "terminology": {
+      "domain_term_density": 1.8,
+      "domains": ["psychology"],
+      "cultural_terms": [],
+      "terms_defined_inline": 1
+    },
+    "referential_density": {
+      "concepts_introduced": 3,
+      "concept_rate": 0.55,
+      "entities_named": 2
+    },
+    "content_markers": {
+      "has_numbered_list": false,
+      "has_bullet_list": false,
+      "has_examples": true,
+      "has_citations": false,
+      "citation_count": 0,
+      "has_footnotes": false
+    },
+    "structure_type": "analysis",
+    "prerequisites": {
+      "domains": [
+        {
+          "name": "psychology",
+          "level": "awareness",
+          "critical": false
+        }
+      ],
+      "cultural": [],
+      "signals_prerequisites": false
+    },
+    "references": {
+      "internal": [],
+      "external": 0,
+      "referenced_by": []
+    },
+    "dependency_score": "none",
+    "accessibility": {
+      "linguistic_barrier": "low",
+      "domain_barrier": "low",
+      "cultural_barrier": "none"
+    },
+    "read_next": [
+      { "slug": "how-to-climb-mountains-of-grief-dont", "reason": "related-psychology-metaphor" },
+      { "slug": "therapists-for-everyone-else", "reason": "thematic-continuation-emotional-insight" }
+    ],
+    "enhances": ["analytical-essays-theme"]
+  },
+  "art-boring-artist-weird": {
+    "word_count": 280,
+    "opening_structure": "scene",
+    "structure_type": "advocacy",
+    "terminology": {
+      "domain_term_density": 0.7,
+      "domains": [],
+      "cultural_terms": [],
+      "terms_defined_inline": 0
+    },
+    "content_markers": {
+      "has_numbered_list": false,
+      "has_bullet_list": true,
+      "has_examples": true,
+      "has_citations": false,
+      "citation_count": 0,
+      "has_footnotes": false
+    },
+    "prerequisites": {
+      "domains": [],
+      "cultural": []
+    },
+    "references": {
+      "internal": [],
+      "external": 0,
+      "referenced_by": []
+    },
+    "accessibility": {
+      "linguistic_barrier": "none",
+      "domain_barrier": "none",
+      "cultural_barrier": "none"
+    },
+    "read_next": [
+      { "slug": "dont-change-the-world", "reason": "similar-cultural-critique-tone" },
+      { "slug": "a-world-without-music", "reason": "related-perspective-on-cultural-assumptions" }
+    ],
+    "enhances": ["analytical-essays-theme"]
+  },
+  "a-world-without-music": {
+    "word_count": 520,
+    "sentence_metrics": {
+      "avg_sentence_length": 21.5,
+      "max_sentence_length": 54
+    },
+    "paragraph_metrics": {
+      "avg_paragraph_length": 5.2,
+      "opening_structure": "narrative"
+    },
+    "terminology": {
+      "domain_term_density": 2.3,
+      "domains": ["deaf-culture"],
+      "cultural_terms": ["ASL", "deaf", "audism", "CODA"],
+      "terms_defined_inline": 1
+    },
+    "referential_density": {
+      "concepts_introduced": 3,
+      "concept_rate": 0.58,
+      "entities_named": 2
+    },
+    "content_markers": {
+      "has_numbered_list": false,
+      "has_bullet_list": false,
+      "has_examples": true,
+      "has_citations": false,
+      "citation_count": 0,
+      "has_footnotes": false
+    },
+    "structure_type": "analysis",
+    "prerequisites": {
+      "domains": [
+        {
+          "name": "deaf-culture",
+          "level": "awareness",
+          "critical": false
+        }
+      ],
+      "cultural": [
+        {
+          "context": "hearing-normative-assumptions",
+          "requires_shift": true
+        }
+      ],
+      "signals_prerequisites": false
+    },
+    "references": {
+      "internal": [],
+      "external": 1,
+      "referenced_by": []
+    },
+    "dependency_score": "none",
+    "accessibility": {
+      "linguistic_barrier": "low",
+      "domain_barrier": "low",
+      "cultural_barrier": "medium",
+      "variance_by": [
+        {
+          "dimension": "deaf-culture-familiarity",
+          "range": [70, 95]
+        }
+      ]
+    },
+    "read_next": [
+      { "slug": "irrationally-speaking", "reason": "conceptual-continuation-coda-identity" },
+      { "slug": "talk-about-deafhood", "reason": "related-deaf-culture-essay" }
+    ],
+    "enhances": ["deaf-culture-theme"]
+  },
+  "irrationally-speaking": {
+    "word_count": 750,
+    "sentence_metrics": {
+      "avg_sentence_length": 23.4,
+      "max_sentence_length": 72
+    },
+    "paragraph_metrics": {
+      "avg_paragraph_length": 5.8,
+      "opening_structure": "argument"
+    },
+    "terminology": {
+      "domain_term_density": 3.1,
+      "domains": ["deaf-culture", "psychology"],
+      "cultural_terms": ["CODA", "ASL", "audism", "deaf", "cochlear implant"],
+      "terms_defined_inline": 1
+    },
+    "referential_density": {
+      "concepts_introduced": 4,
+      "concept_rate": 0.53,
+      "entities_named": 2
+    },
+    "content_markers": {
+      "has_numbered_list": false,
+      "has_bullet_list": true,
+      "has_examples": true,
+      "has_citations": false,
+      "citation_count": 0,
+      "has_footnotes": false
+    },
+    "structure_type": "narrative",
+    "prerequisites": {
+      "domains": [
+        {
+          "name": "deaf-culture",
+          "level": "awareness",
+          "critical": false
+        }
+      ],
+      "cultural": [
+        {
+          "context": "coda-identity",
+          "requires_shift": false
+        },
+        {
+          "context": "hearing-normative-assumptions",
+          "requires_shift": true
+        }
+      ],
+      "signals_prerequisites": true
+    },
+    "references": {
+      "internal": [
+        { "slug": "deafhood-unheard", "type": "prerequisite" },
+        { "slug": "a-world-without-music", "type": "conceptual" },
+        { "slug": "talk-about-deafhood", "type": "conceptual" },
+        { "slug": "the-definition-of-deaf", "type": "conceptual" },
+        { "slug": "dealing-with-deaf-at-the-party", "type": "conceptual" },
+        { "slug": "language-with-a-bionic-ear", "type": "conceptual" },
+        { "slug": "treating-hearing-status", "type": "conceptual" }
+      ],
+      "external": 1,
+      "referenced_by": []
+    },
+    "dependency_score": "high",
+    "accessibility": {
+      "linguistic_barrier": "low",
+      "domain_barrier": "low",
+      "cultural_barrier": "high",
+      "variance_by": [
+        {
+          "dimension": "deaf-culture-familiarity",
+          "range": [55, 95]
+        },
+        {
+          "dimension": "coda-identity",
+          "range": [60, 98]
+        }
+      ]
+    },
+    "read_before": [
+      "deafhood-unheard",
+      "a-world-without-music",
+      "the-definition-of-deaf"
+    ],
+    "read_next": [
+      { "slug": "deafhood-unheard", "reason": "prerequisite-referenced-in-text" },
+      { "slug": "a-world-without-music", "reason": "prerequisite-referenced-in-text" }
+    ],
+    "enhances": ["deaf-culture-theme"]
+  },
+  "conservative-brain-data": {
+    "word_count": 70,
+    "opening_structure": "argument",
+    "structure_type": "analysis",
+    "terminology": {
+      "domain_term_density": 2.9,
+      "domains": ["neuroscience"],
+      "cultural_terms": [],
+      "terms_defined_inline": 0
+    },
+    "content_markers": {
+      "has_numbered_list": false,
+      "has_bullet_list": false,
+      "has_examples": false,
+      "has_citations": false,
+      "citation_count": 0,
+      "has_footnotes": false
+    },
+    "prerequisites": {
+      "domains": [],
+      "cultural": []
+    },
+    "references": {
+      "internal": [],
+      "external": 1,
+      "referenced_by": []
+    },
+    "accessibility": {
+      "linguistic_barrier": "none",
+      "domain_barrier": "none",
+      "cultural_barrier": "none"
+    },
+    "read_next": [
+      { "slug": "introductory-research-methods-for-information-consumers", "reason": "related-theme-information-skepticism" },
+      { "slug": "irrationally-speaking", "reason": "related-theme-rationality-and-emotion" }
+    ],
+    "enhances": ["analytical-essays-theme"]
+  },
+  "talk-about-deafhood": {
+    "word_count": 490,
+    "sentence_metrics": {
+      "avg_sentence_length": 16.8,
+      "max_sentence_length": 44
+    },
+    "paragraph_metrics": {
+      "avg_paragraph_length": 3.2,
+      "opening_structure": "narrative"
+    },
+    "terminology": {
+      "domain_term_density": 2.8,
+      "domains": ["deaf-culture"],
+      "cultural_terms": ["CODA", "ASL", "audism", "deaf", "Deafhood", "TTY", "hearing-impaired"],
+      "terms_defined_inline": 3
+    },
+    "content_markers": {
+      "has_numbered_list": false,
+      "has_bullet_list": true,
+      "has_examples": true,
+      "has_citations": false,
+      "citation_count": 0,
+      "has_footnotes": false
+    },
+    "structure_type": "narrative",
+    "prerequisites": {
+      "domains": [],
+      "cultural": [
+        {
+          "context": "hearing-normative-assumptions",
+          "requires_shift": true
+        }
+      ],
+      "signals_prerequisites": false
+    },
+    "references": {
+      "internal": [
+        { "slug": "the-definition-of-deaf", "type": "continuation" },
+        { "slug": "a-world-without-music", "type": "conceptual" }
+      ],
+      "external": 4,
+      "referenced_by": []
+    },
+    "dependency_score": "low",
+    "accessibility": {
+      "linguistic_barrier": "low",
+      "domain_barrier": "low",
+      "cultural_barrier": "medium",
+      "variance_by": [
+        {
+          "dimension": "deaf-culture-familiarity",
+          "range": [65, 95]
+        }
+      ]
+    },
+    "read_next": [
+      { "slug": "the-definition-of-deaf", "reason": "explicit-continuation-in-text" },
+      { "slug": "deafhood-unheard", "reason": "deeper-deaf-culture-argument" }
+    ],
+    "enhances": ["deaf-culture-theme"]
+  },
+  "deafhood-unheard": {
+    "word_count": 900,
+    "sentence_metrics": {
+      "avg_sentence_length": 24.6,
+      "max_sentence_length": 72
+    },
+    "paragraph_metrics": {
+      "avg_paragraph_length": 5.4,
+      "opening_structure": "scene"
+    },
+    "terminology": {
+      "domain_term_density": 3.2,
+      "domains": ["deaf-culture", "medical-ethics"],
+      "cultural_terms": ["ASL", "CODA", "audism", "deaf", "Deafhood", "cochlear implant"],
+      "terms_defined_inline": 2
+    },
+    "referential_density": {
+      "concepts_introduced": 5,
+      "concept_rate": 0.56,
+      "entities_named": 3
+    },
+    "content_markers": {
+      "has_numbered_list": false,
+      "has_bullet_list": false,
+      "has_examples": true,
+      "has_citations": false,
+      "citation_count": 0,
+      "has_footnotes": false
+    },
+    "structure_type": "analysis",
+    "prerequisites": {
+      "domains": [
+        {
+          "name": "deaf-culture",
+          "level": "awareness",
+          "critical": false
+        }
+      ],
+      "cultural": [
+        {
+          "context": "hearing-normative-assumptions",
+          "requires_shift": true
+        },
+        {
+          "context": "coda-identity",
+          "requires_shift": false
+        }
+      ],
+      "signals_prerequisites": false
+    },
+    "references": {
+      "internal": [
+        { "slug": "talk-about-deafhood", "type": "conceptual" },
+        { "slug": "the-definition-of-deaf", "type": "conceptual" }
+      ],
+      "external": 4,
+      "referenced_by": []
+    },
+    "dependency_score": "low",
+    "accessibility": {
+      "linguistic_barrier": "medium",
+      "domain_barrier": "low",
+      "cultural_barrier": "high",
+      "variance_by": [
+        {
+          "dimension": "deaf-culture-familiarity",
+          "range": [55, 95]
+        }
+      ]
+    },
+    "read_next": [
+      { "slug": "talk-about-deafhood", "reason": "foundational-intro-same-theme" },
+      { "slug": "irrationally-speaking", "reason": "emotional-coda-perspective-that-references-this-post" }
+    ],
+    "enhances": ["deaf-culture-theme"]
+  },
+  "dealing-with-deaf-at-the-party": {
+    "word_count": 680,
+    "sentence_metrics": {
+      "avg_sentence_length": 22.3,
+      "max_sentence_length": 65
+    },
+    "paragraph_metrics": {
+      "avg_paragraph_length": 5.1,
+      "opening_structure": "scene"
+    },
+    "terminology": {
+      "domain_term_density": 2.1,
+      "domains": ["deaf-culture"],
+      "cultural_terms": ["deaf", "CODA", "ASL", "sign language"],
+      "terms_defined_inline": 0
+    },
+    "referential_density": {
+      "entities_named": 4
+    },
+    "content_markers": {
+      "has_numbered_list": false,
+      "has_bullet_list": false,
+      "has_examples": true,
+      "has_citations": false,
+      "citation_count": 0,
+      "has_footnotes": true
+    },
+    "structure_type": "narrative",
+    "prerequisites": {
+      "domains": [],
+      "cultural": [
+        {
+          "context": "hearing-normative-assumptions",
+          "requires_shift": true
+        }
+      ],
+      "signals_prerequisites": false
+    },
+    "references": {
+      "internal": [],
+      "external": 0,
+      "referenced_by": []
+    },
+    "dependency_score": "none",
+    "accessibility": {
+      "linguistic_barrier": "low",
+      "domain_barrier": "none",
+      "cultural_barrier": "medium",
+      "variance_by": [
+        {
+          "dimension": "deaf-culture-familiarity",
+          "range": [70, 95]
+        }
+      ]
+    },
+    "read_next": [
+      { "slug": "talk-about-deafhood", "reason": "foundational-deaf-culture-intro" },
+      { "slug": "deafhood-unheard", "reason": "deeper-argument-same-theme" }
+    ],
+    "enhances": ["deaf-culture-theme"]
+  },
+  "treating-hearing-status": {
+    "word_count": 175,
+    "opening_structure": "argument",
+    "structure_type": "analysis",
+    "terminology": {
+      "domain_term_density": 2.3,
+      "domains": ["deaf-culture", "medical-ethics"],
+      "cultural_terms": ["deaf", "cochlear implant", "sign language"],
+      "terms_defined_inline": 0
+    },
+    "content_markers": {
+      "has_numbered_list": false,
+      "has_bullet_list": false,
+      "has_examples": false,
+      "has_citations": false,
+      "citation_count": 0,
+      "has_footnotes": false
+    },
+    "prerequisites": {
+      "domains": [
+        {
+          "name": "deaf-culture",
+          "level": "awareness",
+          "critical": false
+        }
+      ],
+      "cultural": []
+    },
+    "references": {
+      "internal": [],
+      "external": 0,
+      "referenced_by": []
+    },
+    "accessibility": {
+      "linguistic_barrier": "low",
+      "domain_barrier": "low",
+      "cultural_barrier": "medium"
+    },
+    "read_next": [
+      { "slug": "deafhood-unheard", "reason": "fuller-argument-on-cochlear-implant-debate" },
+      { "slug": "talk-about-deafhood", "reason": "broader-context-deaf-culture-intro" }
+    ],
+    "enhances": ["deaf-culture-theme"]
+  },
+  "delete-is-from-your-vocabulary-to-improve-communication": {
+    "word_count": 290,
+    "opening_structure": "definition",
+    "structure_type": "how-to",
+    "terminology": {
+      "domain_term_density": 1.7,
+      "domains": ["linguistics", "communication"],
+      "cultural_terms": [],
+      "terms_defined_inline": 2
+    },
+    "content_markers": {
+      "has_numbered_list": true,
+      "has_bullet_list": false,
+      "has_examples": true,
+      "has_citations": false,
+      "citation_count": 0,
+      "has_footnotes": false
+    },
+    "prerequisites": {
+      "domains": [],
+      "cultural": []
+    },
+    "references": {
+      "internal": [],
+      "external": 1,
+      "referenced_by": []
+    },
+    "accessibility": {
+      "linguistic_barrier": "none",
+      "domain_barrier": "none",
+      "cultural_barrier": "none"
+    },
+    "read_next": [
+      { "slug": "say-less-and-more", "reason": "related-communication-minimalism-theme" },
+      { "slug": "the-agreement-between-reader-and-writer", "reason": "related-communication-craft" }
+    ],
+    "enhances": ["communication-theme"]
+  },
+  "None": {
+    "word_count": 80,
+    "opening_structure": "argument",
+    "structure_type": "analysis",
+    "terminology": {
+      "domain_term_density": 1.2,
+      "domains": ["technology", "social-media"],
+      "cultural_terms": [],
+      "terms_defined_inline": 0
+    },
+    "content_markers": {
+      "has_numbered_list": false,
+      "has_bullet_list": false,
+      "has_examples": false,
+      "has_citations": false,
+      "citation_count": 0,
+      "has_footnotes": false
+    },
+    "prerequisites": {
+      "domains": [],
+      "cultural": []
+    },
+    "references": {
+      "internal": [],
+      "external": 0,
+      "referenced_by": []
+    },
+    "accessibility": {
+      "linguistic_barrier": "none",
+      "domain_barrier": "none",
+      "cultural_barrier": "none"
+    },
+    "read_next": [
+      { "slug": "political-debate", "reason": "similar-analytical-stub-era" },
+      { "slug": "introductory-research-methods-for-information-consumers", "reason": "related-theme-information-consumption" }
+    ],
+    "enhances": ["analytical-essays-theme"]
+  },
+  "whats-the-difference-between-fundraising-and-begging": {
+    "word_count": 200,
+    "opening_structure": "argument",
+    "structure_type": "analysis",
+    "terminology": {
+      "domain_term_density": 0.5,
+      "domains": [],
+      "cultural_terms": [],
+      "terms_defined_inline": 0
+    },
+    "content_markers": {
+      "has_numbered_list": false,
+      "has_bullet_list": false,
+      "has_examples": true,
+      "has_citations": false,
+      "citation_count": 0,
+      "has_footnotes": false
+    },
+    "prerequisites": {
+      "domains": [],
+      "cultural": []
+    },
+    "references": {
+      "internal": [],
+      "external": 0,
+      "referenced_by": []
+    },
+    "accessibility": {
+      "linguistic_barrier": "none",
+      "domain_barrier": "none",
+      "cultural_barrier": "none"
+    },
+    "read_next": [
+      { "slug": "dont-change-the-world", "reason": "similar-ethical-reflection-tone" },
+      { "slug": "political-debate", "reason": "similar-social-critique-era" }
+    ],
+    "enhances": ["analytical-essays-theme"]
+  },
+  "pandemic-state": {
+    "word_count": 300,
+    "opening_structure": "scene",
+    "structure_type": "narrative",
+    "terminology": {
+      "domain_term_density": 1.3,
+      "domains": ["science-advocacy"],
+      "cultural_terms": [],
+      "terms_defined_inline": 0
+    },
+    "sentence_metrics": {
+      "avg_sentence_length": 8.2,
+      "max_sentence_length": 18,
+      "min_sentence_length": 2
+    },
+    "content_markers": {
+      "has_numbered_list": false,
+      "has_bullet_list": false,
+      "has_examples": false,
+      "has_citations": false,
+      "citation_count": 0,
+      "has_footnotes": false
+    },
+    "prerequisites": {
+      "domains": [],
+      "cultural": []
+    },
+    "references": {
+      "internal": [],
+      "external": 0,
+      "referenced_by": []
+    },
+    "accessibility": {
+      "linguistic_barrier": "none",
+      "domain_barrier": "none",
+      "cultural_barrier": "none"
+    },
+    "read_next": [
+      { "slug": "how-to-climb-mountains-of-grief-dont", "reason": "related-emotional-reflection-tone" },
+      { "slug": "commercial-home", "reason": "temporal-proximity-covid-era" }
+    ],
+    "enhances": ["analytical-essays-theme"]
+  },
+  "commercial-home": {
+    "word_count": 400,
+    "sentence_metrics": {
+      "avg_sentence_length": 9.4,
+      "max_sentence_length": 26
+    },
+    "paragraph_metrics": {
+      "avg_paragraph_length": 2.1,
+      "opening_structure": "argument"
+    },
+    "terminology": {
+      "domain_term_density": 1.5,
+      "domains": ["product-design", "consumerism"],
+      "cultural_terms": [],
+      "terms_defined_inline": 2
+    },
+    "referential_density": {
+      "concepts_introduced": 4,
+      "concept_rate": 1.0,
+      "entities_named": 0
+    },
+    "content_markers": {
+      "has_numbered_list": false,
+      "has_bullet_list": false,
+      "has_examples": true,
+      "has_citations": false,
+      "citation_count": 0,
+      "has_footnotes": false
+    },
+    "structure_type": "framework",
+    "prerequisites": {
+      "domains": [],
+      "cultural": []
+    },
+    "references": {
+      "internal": [],
+      "external": 0,
+      "referenced_by": []
+    },
+    "dependency_score": "none",
+    "accessibility": {
+      "linguistic_barrier": "none",
+      "domain_barrier": "none",
+      "cultural_barrier": "none"
+    },
+    "actionability": {
+      "has_templates": false,
+      "has_protocol": false,
+      "has_examples": true,
+      "implementation_time": "ongoing"
+    },
+    "read_next": [
+      { "slug": "standards", "reason": "continuation-same-product-obsession-era" },
+      { "slug": "good-goods", "reason": "related-product-consumerism-theme" }
+    ],
+    "enhances": ["products-theme"]
+  },
+  "standards": {
+    "word_count": 320,
+    "sentence_metrics": {
+      "avg_sentence_length": 15.2,
+      "max_sentence_length": 36
+    },
+    "paragraph_metrics": {
+      "avg_paragraph_length": 3.0,
+      "opening_structure": "definition"
+    },
+    "terminology": {
+      "domain_term_density": 3.8,
+      "domains": ["product-standards", "consumerism"],
+      "cultural_terms": [],
+      "terms_defined_inline": 5
+    },
+    "content_markers": {
+      "has_numbered_list": true,
+      "has_bullet_list": false,
+      "has_examples": true,
+      "has_citations": false,
+      "citation_count": 0,
+      "has_footnotes": false
+    },
+    "structure_type": "how-to",
+    "prerequisites": {
+      "domains": [],
+      "cultural": []
+    },
+    "references": {
+      "internal": [],
+      "external": 1,
+      "referenced_by": []
+    },
+    "dependency_score": "none",
+    "accessibility": {
+      "linguistic_barrier": "none",
+      "domain_barrier": "low",
+      "cultural_barrier": "none"
+    },
+    "actionability": {
+      "has_templates": false,
+      "has_protocol": false,
+      "has_examples": true,
+      "implementation_time": "immediate"
+    },
+    "read_next": [
+      { "slug": "commercial-home", "reason": "companion-post-same-product-obsession-era" },
+      { "slug": "good-goods", "reason": "related-product-evaluation-theme" }
+    ],
+    "enhances": ["products-theme"]
+  },
+  "the-best-of-food-delivery-services": {
+    "word_count": 700,
+    "sentence_metrics": {
+      "avg_sentence_length": 17.3,
+      "max_sentence_length": 52
+    },
+    "paragraph_metrics": {
+      "avg_paragraph_length": 3.1,
+      "opening_structure": "definition"
+    },
+    "terminology": {
+      "domain_term_density": 1.8,
+      "domains": ["product-review", "food-delivery"],
+      "cultural_terms": [],
+      "terms_defined_inline": 2
+    },
+    "content_markers": {
+      "has_numbered_list": true,
+      "has_bullet_list": true,
+      "has_examples": true,
+      "has_citations": false,
+      "citation_count": 0,
+      "has_footnotes": false
+    },
+    "structure_type": "how-to",
+    "prerequisites": {
+      "domains": [],
+      "cultural": []
+    },
+    "references": {
+      "internal": [],
+      "external": 0,
+      "referenced_by": []
+    },
+    "dependency_score": "none",
+    "accessibility": {
+      "linguistic_barrier": "none",
+      "domain_barrier": "none",
+      "cultural_barrier": "none"
+    },
+    "actionability": {
+      "has_templates": false,
+      "has_protocol": true,
+      "has_examples": true,
+      "implementation_time": "immediate"
+    },
+    "read_next": [
+      { "slug": "standards", "reason": "related-consumer-product-evaluation" },
+      { "slug": "good-goods", "reason": "companion-product-obsession-era" }
+    ],
+    "enhances": ["products-theme"]
+  },
+  "good-goods": {
+    "word_count": 380,
+    "opening_structure": "definition",
+    "structure_type": "framework",
+    "terminology": {
+      "domain_term_density": 1.0,
+      "domains": ["product-design"],
+      "cultural_terms": [],
+      "terms_defined_inline": 1
+    },
+    "referential_density": {
+      "concepts_introduced": 4,
+      "concept_rate": 1.05
+    },
+    "content_markers": {
+      "has_numbered_list": true,
+      "has_bullet_list": false,
+      "has_examples": true,
+      "has_citations": false,
+      "citation_count": 0,
+      "has_footnotes": false
+    },
+    "prerequisites": {
+      "domains": [],
+      "cultural": []
+    },
+    "references": {
+      "internal": [],
+      "external": 0,
+      "referenced_by": []
+    },
+    "accessibility": {
+      "linguistic_barrier": "none",
+      "domain_barrier": "none",
+      "cultural_barrier": "none"
+    },
+    "actionability": {
+      "has_templates": false,
+      "has_protocol": false,
+      "has_examples": true,
+      "implementation_time": "ongoing"
+    },
+    "read_next": [
+      { "slug": "commercial-home", "reason": "companion-product-design-framework" },
+      { "slug": "standards", "reason": "related-product-evaluation-theme" }
+    ],
+    "enhances": ["products-theme"]
+  },
+  "speech-to-text-forecast": {
+    "word_count": 280,
+    "opening_structure": "argument",
+    "structure_type": "analysis",
+    "terminology": {
+      "domain_term_density": 2.5,
+      "domains": ["technology", "deaf-culture"],
+      "cultural_terms": ["deaf", "ASL"],
+      "terms_defined_inline": 1
+    },
+    "content_markers": {
+      "has_numbered_list": false,
+      "has_bullet_list": false,
+      "has_examples": true,
+      "has_citations": false,
+      "citation_count": 0,
+      "has_footnotes": false
+    },
+    "prerequisites": {
+      "domains": [
+        {
+          "name": "technology",
+          "level": "awareness",
+          "critical": false
+        }
+      ],
+      "cultural": []
+    },
+    "references": {
+      "internal": [],
+      "external": 0,
+      "referenced_by": []
+    },
+    "accessibility": {
+      "linguistic_barrier": "none",
+      "domain_barrier": "low",
+      "cultural_barrier": "low"
+    },
+    "read_next": [
+      { "slug": "youre-not-my-dad", "reason": "related-deaf-accessibility-advocacy" },
+      { "slug": "the-definition-of-deaf", "reason": "broader-deaf-culture-context" }
+    ],
+    "enhances": ["deaf-culture-theme", "products-theme"]
+  },
+  "youre-not-my-dad": {
+    "word_count": 380,
+    "opening_structure": "argument",
+    "structure_type": "advocacy",
+    "terminology": {
+      "domain_term_density": 2.1,
+      "domains": ["deaf-culture", "social-justice"],
+      "cultural_terms": ["ASL", "deaf", "Deaf", "paternalism"],
+      "terms_defined_inline": 2
+    },
+    "content_markers": {
+      "has_numbered_list": false,
+      "has_bullet_list": false,
+      "has_examples": true,
+      "has_citations": false,
+      "citation_count": 0,
+      "has_footnotes": false
+    },
+    "prerequisites": {
+      "domains": [
+        {
+          "name": "deaf-culture",
+          "level": "awareness",
+          "critical": false
+        }
+      ],
+      "cultural": [
+        {
+          "context": "hearing-normative-assumptions",
+          "requires_shift": true
+        }
+      ]
+    },
+    "references": {
+      "internal": [],
+      "external": 0,
+      "referenced_by": []
+    },
+    "accessibility": {
+      "linguistic_barrier": "none",
+      "domain_barrier": "low",
+      "cultural_barrier": "medium",
+      "variance_by": [
+        {
+          "dimension": "deaf-culture-familiarity",
+          "range": [65, 95]
+        }
+      ]
+    },
+    "read_next": [
+      { "slug": "irrationally-speaking", "reason": "deeper-coda-identity-personal-essay" },
+      { "slug": "deafhood-unheard", "reason": "fuller-argument-deaf-advocacy" }
+    ],
+    "enhances": ["deaf-culture-theme"]
+  },
+  "not-the-point": {
+    "word_count": 350,
+    "opening_structure": "definition",
+    "structure_type": "framework",
+    "terminology": {
+      "domain_term_density": 2.3,
+      "domains": ["communication"],
+      "cultural_terms": [],
+      "terms_defined_inline": 3
+    },
+    "referential_density": {
+      "concepts_introduced": 3,
+      "concept_rate": 0.86
+    },
+    "content_markers": {
+      "has_numbered_list": false,
+      "has_bullet_list": false,
+      "has_examples": true,
+      "has_citations": false,
+      "citation_count": 0,
+      "has_footnotes": false
+    },
+    "prerequisites": {
+      "domains": [],
+      "cultural": []
+    },
+    "references": {
+      "internal": [],
+      "external": 0,
+      "referenced_by": []
+    },
+    "dependency_score": "none",
+    "accessibility": {
+      "linguistic_barrier": "none",
+      "domain_barrier": "none",
+      "cultural_barrier": "none"
+    },
+    "actionability": {
+      "has_templates": false,
+      "has_protocol": true,
+      "has_examples": true,
+      "implementation_time": "immediate"
+    },
+    "read_next": [
+      { "slug": "say-less-and-more", "reason": "related-communication-minimalism" },
+      { "slug": "the-agreement-between-reader-and-writer", "reason": "related-communication-framework" }
+    ],
+    "enhances": ["communication-theme"]
+  },
+  "dear-love": {
+    "word_count": 450,
+    "sentence_metrics": {
+      "avg_sentence_length": 16.2,
+      "max_sentence_length": 45
+    },
+    "paragraph_metrics": {
+      "avg_paragraph_length": 3.0,
+      "opening_structure": "narrative"
+    },
+    "terminology": {
+      "domain_term_density": 0.9,
+      "domains": ["psychology"],
+      "cultural_terms": [],
+      "terms_defined_inline": 0
+    },
+    "content_markers": {
+      "has_numbered_list": false,
+      "has_bullet_list": false,
+      "has_examples": false,
+      "has_citations": false,
+      "citation_count": 0,
+      "has_footnotes": false
+    },
+    "structure_type": "narrative",
+    "prerequisites": {
+      "domains": [],
+      "cultural": []
+    },
+    "references": {
+      "internal": [],
+      "external": 0,
+      "referenced_by": []
+    },
+    "dependency_score": "none",
+    "accessibility": {
+      "linguistic_barrier": "low",
+      "domain_barrier": "none",
+      "cultural_barrier": "none"
+    },
+    "read_next": [
+      { "slug": "dear-a-i", "reason": "AI-language parallel version of this letter" },
+      { "slug": "dear-human", "reason": "reverse-perspective parallel letter" },
+      { "slug": "be-right-there", "reason": "connecting essay that explains this set" }
+    ],
+    "enhances": ["communication-theme", "ai-chatbots-theme"]
+  },
+  "dear-a-i": {
+    "word_count": 450,
+    "sentence_metrics": {
+      "avg_sentence_length": 17.4,
+      "max_sentence_length": 46
+    },
+    "paragraph_metrics": {
+      "avg_paragraph_length": 3.1,
+      "opening_structure": "argument"
+    },
+    "terminology": {
+      "domain_term_density": 2.4,
+      "domains": ["ai-chatbots"],
+      "cultural_terms": [],
+      "terms_defined_inline": 0
+    },
+    "content_markers": {
+      "has_numbered_list": false,
+      "has_bullet_list": false,
+      "has_examples": true,
+      "has_citations": false,
+      "citation_count": 0,
+      "has_footnotes": false
+    },
+    "structure_type": "narrative",
+    "prerequisites": {
+      "domains": [
+        {
+          "name": "ai-chatbots",
+          "level": "awareness",
+          "critical": false
+        }
+      ],
+      "cultural": []
+    },
+    "references": {
+      "internal": [
+        { "slug": "dear-love", "type": "conceptual" }
+      ],
+      "external": 0,
+      "referenced_by": []
+    },
+    "dependency_score": "low",
+    "accessibility": {
+      "linguistic_barrier": "low",
+      "domain_barrier": "low",
+      "cultural_barrier": "none"
+    },
+    "read_before": ["dear-love"],
+    "read_next": [
+      { "slug": "dear-human", "reason": "companion-letter-reverse-perspective" },
+      { "slug": "be-right-there", "reason": "explanatory-connecting-essay" }
+    ],
+    "enhances": ["ai-chatbots-theme", "communication-theme"]
+  },
+  "dear-human": {
+    "word_count": 460,
+    "sentence_metrics": {
+      "avg_sentence_length": 17.6,
+      "max_sentence_length": 49
+    },
+    "paragraph_metrics": {
+      "avg_paragraph_length": 3.2,
+      "opening_structure": "argument"
+    },
+    "terminology": {
+      "domain_term_density": 1.5,
+      "domains": ["ai-chatbots"],
+      "cultural_terms": [],
+      "terms_defined_inline": 0
+    },
+    "content_markers": {
+      "has_numbered_list": false,
+      "has_bullet_list": false,
+      "has_examples": false,
+      "has_citations": false,
+      "citation_count": 0,
+      "has_footnotes": false
+    },
+    "structure_type": "narrative",
+    "prerequisites": {
+      "domains": [
+        {
+          "name": "ai-chatbots",
+          "level": "awareness",
+          "critical": false
+        }
+      ],
+      "cultural": []
+    },
+    "references": {
+      "internal": [
+        { "slug": "dear-love", "type": "conceptual" },
+        { "slug": "dear-a-i", "type": "conceptual" }
+      ],
+      "external": 0,
+      "referenced_by": []
+    },
+    "dependency_score": "low",
+    "accessibility": {
+      "linguistic_barrier": "low",
+      "domain_barrier": "low",
+      "cultural_barrier": "none"
+    },
+    "read_before": ["dear-love", "dear-a-i"],
+    "read_next": [
+      { "slug": "be-right-there", "reason": "connecting-essay-explains-this-set" },
+      { "slug": "stop-avoiding-yourself-the-ai-in-you", "reason": "related-human-ai-identity" }
+    ],
+    "enhances": ["ai-chatbots-theme", "communication-theme"]
+  },
+  "noauthor": {
+    "word_count": 6,
+    "opening_structure": "argument",
+    "structure_type": "analysis",
+    "terminology": {
+      "domain_term_density": 0,
+      "domains": [],
+      "cultural_terms": [],
+      "terms_defined_inline": 0
+    },
+    "content_markers": {
+      "has_numbered_list": false,
+      "has_bullet_list": false,
+      "has_examples": false,
+      "has_citations": false,
+      "citation_count": 0,
+      "has_footnotes": false
+    },
+    "prerequisites": {
+      "domains": [],
+      "cultural": []
+    },
+    "references": {
+      "internal": [],
+      "external": 0,
+      "referenced_by": []
+    },
+    "accessibility": {
+      "linguistic_barrier": "none",
+      "domain_barrier": "none",
+      "cultural_barrier": "none"
+    },
+    "read_next": [
+      { "slug": "all-the-right-words-youve-said-or-read", "reason": "related-authorship-language-theme" },
+      { "slug": "the-agreement-between-reader-and-writer", "reason": "related-authorship-communication" }
+    ],
+    "enhances": ["communication-theme"]
+  },
+  "be-right-there": {
+    "word_count": 350,
+    "sentence_metrics": {
+      "avg_sentence_length": 14.8,
+      "max_sentence_length": 42
+    },
+    "paragraph_metrics": {
+      "avg_paragraph_length": 2.8,
+      "opening_structure": "scene"
+    },
+    "terminology": {
+      "domain_term_density": 1.4,
+      "domains": ["communication", "philosophy"],
+      "cultural_terms": [],
+      "terms_defined_inline": 0
+    },
+    "content_markers": {
+      "has_numbered_list": false,
+      "has_bullet_list": false,
+      "has_examples": true,
+      "has_citations": false,
+      "citation_count": 0,
+      "has_footnotes": false
+    },
+    "structure_type": "analysis",
+    "prerequisites": {
+      "domains": [],
+      "cultural": []
+    },
+    "references": {
+      "internal": [
+        { "slug": "dear-love", "type": "prerequisite" },
+        { "slug": "not-the-point", "type": "conceptual" },
+        { "slug": "the-agreement-between-reader-and-writer", "type": "conceptual" }
+      ],
+      "external": 0,
+      "referenced_by": []
+    },
+    "dependency_score": "medium",
+    "accessibility": {
+      "linguistic_barrier": "low",
+      "domain_barrier": "none",
+      "cultural_barrier": "none"
+    },
+    "read_before": ["dear-love", "not-the-point"],
+    "read_next": [
+      { "slug": "dear-love", "reason": "primary-referenced-post" },
+      { "slug": "not-the-point", "reason": "referenced-companion-post" }
+    ],
+    "enhances": ["communication-theme"]
+  },
+  "the-safer-way-to-boosting-productivity-with-ai": {
+    "word_count": 200,
+    "opening_structure": "argument",
+    "structure_type": "how-to",
+    "terminology": {
+      "domain_term_density": 3.5,
+      "domains": ["ai-chatbots", "productivity"],
+      "cultural_terms": [],
+      "terms_defined_inline": 3
+    },
+    "content_markers": {
+      "has_numbered_list": false,
+      "has_bullet_list": false,
+      "has_examples": true,
+      "has_citations": false,
+      "citation_count": 0,
+      "has_footnotes": false
+    },
+    "prerequisites": {
+      "domains": [
+        {
+          "name": "ai-chatbots",
+          "level": "basic-usage",
+          "critical": false
+        }
+      ],
+      "cultural": []
+    },
+    "references": {
+      "internal": [],
+      "external": 0,
+      "referenced_by": []
+    },
+    "accessibility": {
+      "linguistic_barrier": "none",
+      "domain_barrier": "low",
+      "cultural_barrier": "none"
+    },
+    "actionability": {
+      "has_templates": false,
+      "has_protocol": false,
+      "has_examples": true,
+      "implementation_time": "immediate"
+    },
+    "read_next": [
+      { "slug": "right-click-for-ai", "reason": "related-practical-ai-productivity" },
+      { "slug": "stop-avoiding-yourself-the-ai-in-you", "reason": "deeper-ai-usage-framework" }
+    ],
+    "enhances": ["ai-chatbots-theme"]
+  },
+  "has-he-tried-to-eat-his-poop": {
+    "word_count": 280,
+    "opening_structure": "scene",
+    "structure_type": "advocacy",
+    "terminology": {
+      "domain_term_density": 0.7,
+      "domains": [],
+      "cultural_terms": [],
+      "terms_defined_inline": 0
+    },
+    "content_markers": {
+      "has_numbered_list": false,
+      "has_bullet_list": false,
+      "has_examples": false,
+      "has_citations": false,
+      "citation_count": 0,
+      "has_footnotes": false
+    },
+    "prerequisites": {
+      "domains": [],
+      "cultural": []
+    },
+    "references": {
+      "internal": [],
+      "external": 0,
+      "referenced_by": []
+    },
+    "accessibility": {
+      "linguistic_barrier": "none",
+      "domain_barrier": "none",
+      "cultural_barrier": "none"
+    },
+    "read_next": [
+      { "slug": "asking", "reason": "deeper-analysis-of-the-question-dynamic" },
+      { "slug": "how-to-climb-mountains-of-grief-dont", "reason": "related-self-reflection-theme" }
+    ],
+    "enhances": ["communication-theme"]
+  },
+  "how-to-unstick-or-unpin-a-post-in-wordpress-2024": {
+    "word_count": 240,
+    "opening_structure": "argument",
+    "structure_type": "how-to",
+    "terminology": {
+      "domain_term_density": 2.1,
+      "domains": ["wordpress", "web-publishing"],
+      "cultural_terms": [],
+      "terms_defined_inline": 0
+    },
+    "content_markers": {
+      "has_numbered_list": true,
+      "has_bullet_list": true,
+      "has_examples": true,
+      "has_citations": false,
+      "citation_count": 0,
+      "has_footnotes": false
+    },
+    "prerequisites": {
+      "domains": [
+        {
+          "name": "wordpress",
+          "level": "basic-usage",
+          "critical": true
+        }
+      ],
+      "cultural": [],
+      "signals_prerequisites": false
+    },
+    "references": {
+      "internal": [],
+      "external": 0,
+      "referenced_by": []
+    },
+    "dependency_score": "none",
+    "accessibility": {
+      "linguistic_barrier": "none",
+      "domain_barrier": "medium",
+      "cultural_barrier": "none",
+      "variance_by": [
+        {
+          "dimension": "wordpress-familiarity",
+          "range": [30, 95]
+        }
+      ]
+    },
+    "actionability": {
+      "has_templates": false,
+      "has_protocol": true,
+      "has_examples": true,
+      "implementation_time": "immediate"
+    },
+    "read_next": [
+      { "slug": "right-click-for-ai", "reason": "related-practical-tech-productivity" }
+    ],
+    "enhances": ["products-theme"]
+  },
+  "asking": {
+    "word_count": 380,
+    "sentence_metrics": {
+      "avg_sentence_length": 16.2,
+      "max_sentence_length": 45
+    },
+    "paragraph_metrics": {
+      "avg_paragraph_length": 3.2,
+      "opening_structure": "narrative"
+    },
+    "terminology": {
+      "domain_term_density": 2.6,
+      "domains": ["psycholinguistics", "communication"],
+      "cultural_terms": [],
+      "terms_defined_inline": 1
+    },
+    "referential_density": {
+      "concepts_introduced": 3,
+      "concept_rate": 0.79
+    },
+    "content_markers": {
+      "has_numbered_list": false,
+      "has_bullet_list": false,
+      "has_examples": false,
+      "has_citations": false,
+      "citation_count": 0,
+      "has_footnotes": true
+    },
+    "structure_type": "analysis",
+    "prerequisites": {
+      "domains": [],
+      "cultural": []
+    },
+    "references": {
+      "internal": [],
+      "external": 0,
+      "referenced_by": []
+    },
+    "dependency_score": "none",
+    "accessibility": {
+      "linguistic_barrier": "low",
+      "domain_barrier": "none",
+      "cultural_barrier": "none"
+    },
+    "read_next": [
+      { "slug": "has-he-tried-to-eat-his-poop", "reason": "related-questions-as-practice" },
+      { "slug": "read-receipts-irl", "reason": "related-communication-dynamics" }
+    ],
+    "enhances": ["communication-theme"]
+  },
+  "therapists-for-everyone-else": {
+    "word_count": 580,
+    "sentence_metrics": {
+      "avg_sentence_length": 19.8,
+      "max_sentence_length": 56
+    },
+    "paragraph_metrics": {
+      "avg_paragraph_length": 4.3,
+      "opening_structure": "argument"
+    },
+    "terminology": {
+      "domain_term_density": 2.4,
+      "domains": ["psychology", "social-media"],
+      "cultural_terms": [],
+      "terms_defined_inline": 1
+    },
+    "referential_density": {
+      "concepts_introduced": 4,
+      "concept_rate": 0.69
+    },
+    "content_markers": {
+      "has_numbered_list": false,
+      "has_bullet_list": true,
+      "has_examples": true,
+      "has_citations": false,
+      "citation_count": 0,
+      "has_footnotes": true
+    },
+    "structure_type": "analysis",
+    "prerequisites": {
+      "domains": [
+        {
+          "name": "psychology",
+          "level": "awareness",
+          "critical": false
+        }
+      ],
+      "cultural": []
+    },
+    "references": {
+      "internal": [],
+      "external": 0,
+      "referenced_by": []
+    },
+    "dependency_score": "none",
+    "accessibility": {
+      "linguistic_barrier": "low",
+      "domain_barrier": "low",
+      "cultural_barrier": "none"
+    },
+    "read_next": [
+      { "slug": "how-to-climb-mountains-of-grief-dont", "reason": "related-psychology-practical-insight" },
+      { "slug": "quit-psychoanalyzing-me", "reason": "related-psychology-as-discipline" }
+    ],
+    "enhances": ["analytical-essays-theme"]
+  },
+  "honk-theory": {
+    "word_count": 400,
+    "sentence_metrics": {
+      "avg_sentence_length": 17.2,
+      "max_sentence_length": 46
+    },
+    "paragraph_metrics": {
+      "avg_paragraph_length": 3.8,
+      "opening_structure": "definition"
+    },
+    "terminology": {
+      "domain_term_density": 2.8,
+      "domains": ["linguistics", "pragmatics", "psycholinguistics"],
+      "cultural_terms": [],
+      "terms_defined_inline": 2
+    },
+    "referential_density": {
+      "concepts_introduced": 4,
+      "concept_rate": 1.0
+    },
+    "content_markers": {
+      "has_numbered_list": true,
+      "has_bullet_list": false,
+      "has_examples": true,
+      "has_citations": false,
+      "citation_count": 0,
+      "has_footnotes": true
+    },
+    "structure_type": "framework",
+    "prerequisites": {
+      "domains": [],
+      "cultural": []
+    },
+    "references": {
+      "internal": [],
+      "external": 1,
+      "referenced_by": []
+    },
+    "dependency_score": "none",
+    "accessibility": {
+      "linguistic_barrier": "low",
+      "domain_barrier": "none",
+      "cultural_barrier": "none"
+    },
+    "read_next": [
+      { "slug": "say-nothing", "reason": "explicit-continuation-same-language-theme" },
+      { "slug": "introduction-to-empirical-pragmatism", "reason": "related-linguistics-framework" }
+    ],
+    "enhances": ["language-science-theme"]
+  },
+  "say-nothing": {
+    "word_count": 490,
+    "sentence_metrics": {
+      "avg_sentence_length": 16.8,
+      "max_sentence_length": 44
+    },
+    "paragraph_metrics": {
+      "avg_paragraph_length": 3.5,
+      "opening_structure": "argument"
+    },
+    "terminology": {
+      "domain_term_density": 2.0,
+      "domains": ["pragmatics", "communication"],
+      "cultural_terms": [],
+      "terms_defined_inline": 2
+    },
+    "referential_density": {
+      "concepts_introduced": 3,
+      "concept_rate": 0.61
+    },
+    "content_markers": {
+      "has_numbered_list": true,
+      "has_bullet_list": false,
+      "has_examples": true,
+      "has_citations": false,
+      "citation_count": 0,
+      "has_footnotes": false
+    },
+    "structure_type": "how-to",
+    "prerequisites": {
+      "domains": [],
+      "cultural": []
+    },
+    "references": {
+      "internal": [
+        { "slug": "honk-theory", "type": "prerequisite" }
+      ],
+      "external": 0,
+      "referenced_by": []
+    },
+    "dependency_score": "low",
+    "accessibility": {
+      "linguistic_barrier": "none",
+      "domain_barrier": "none",
+      "cultural_barrier": "none"
+    },
+    "actionability": {
+      "has_templates": false,
+      "has_protocol": true,
+      "has_examples": true,
+      "implementation_time": "immediate"
+    },
+    "read_before": ["honk-theory"],
+    "read_next": [
+      { "slug": "honk-theory", "reason": "prerequisite-explicitly-referenced" },
+      { "slug": "not-the-point", "reason": "related-communication-minimalism" }
+    ],
+    "enhances": ["communication-theme", "language-science-theme"]
+  },
+  "form-vs-function": {
+    "word_count": 700,
+    "sentence_metrics": {
+      "avg_sentence_length": 22.4,
+      "max_sentence_length": 64
+    },
+    "paragraph_metrics": {
+      "avg_paragraph_length": 5.2,
+      "opening_structure": "argument"
+    },
+    "terminology": {
+      "domain_term_density": 2.1,
+      "domains": ["philosophy", "linguistics", "cognitive-science"],
+      "cultural_terms": [],
+      "terms_defined_inline": 3
+    },
+    "referential_density": {
+      "concepts_introduced": 6,
+      "concept_rate": 0.86,
+      "entities_named": 2
+    },
+    "content_markers": {
+      "has_numbered_list": false,
+      "has_bullet_list": false,
+      "has_examples": true,
+      "has_citations": false,
+      "citation_count": 0,
+      "has_footnotes": false
+    },
+    "structure_type": "analysis",
+    "prerequisites": {
+      "domains": [
+        {
+          "name": "philosophy",
+          "level": "awareness",
+          "critical": false
+        }
+      ],
+      "cultural": []
+    },
+    "references": {
+      "internal": [],
+      "external": 0,
+      "referenced_by": []
+    },
+    "dependency_score": "none",
+    "accessibility": {
+      "linguistic_barrier": "medium",
+      "domain_barrier": "low",
+      "cultural_barrier": "none"
+    },
+    "read_next": [
+      { "slug": "introduction-to-empirical-pragmatism", "reason": "related-philosophy-of-language" },
+      { "slug": "all-the-right-words-youve-said-or-read", "reason": "related-words-and-meaning-theme" }
+    ],
+    "enhances": ["language-science-theme"]
+  },
+  "the-unedited-war-story-of-a-veteran": {
+    "word_count": 1200,
+    "sentence_metrics": {
+      "avg_sentence_length": 21.6,
+      "max_sentence_length": 82
+    },
+    "paragraph_metrics": {
+      "avg_paragraph_length": 5.8,
+      "opening_structure": "scene"
+    },
+    "terminology": {
+      "domain_term_density": 1.8,
+      "domains": ["military", "psychology"],
+      "cultural_terms": ["veteran", "PTSD", "Marine", "boot camp"],
+      "terms_defined_inline": 0
+    },
+    "referential_density": {
+      "concepts_introduced": 5,
+      "concept_rate": 0.42,
+      "entities_named": 6
+    },
+    "content_markers": {
+      "has_numbered_list": false,
+      "has_bullet_list": false,
+      "has_examples": true,
+      "has_citations": false,
+      "citation_count": 0,
+      "has_footnotes": false
+    },
+    "structure_type": "narrative",
+    "prerequisites": {
+      "domains": [],
+      "cultural": [
+        {
+          "context": "military-culture",
+          "requires_shift": false
+        }
+      ],
+      "signals_prerequisites": false
+    },
+    "references": {
+      "internal": [
+        { "slug": "a-need-for-combat", "type": "conceptual" },
+        { "slug": "15-lead-me-home", "type": "conceptual" }
+      ],
+      "external": 3,
+      "referenced_by": []
+    },
+    "dependency_score": "low",
+    "accessibility": {
+      "linguistic_barrier": "medium",
+      "domain_barrier": "low",
+      "cultural_barrier": "medium",
+      "variance_by": [
+        {
+          "dimension": "military-familiarity",
+          "range": [65, 95]
+        }
+      ]
+    },
+    "read_next": [
+      { "slug": "a-need-for-combat", "reason": "referenced-companion-post" },
+      { "slug": "the-intellectual-boot-camp", "reason": "related-veteran-perspective" }
+    ],
+    "enhances": ["military-theme"]
+  },
+  "bot-therapy": {
+    "word_count": 1400,
+    "sentence_metrics": {
+      "avg_sentence_length": 14.2,
+      "max_sentence_length": 52
+    },
+    "paragraph_metrics": {
+      "avg_paragraph_length": 3.1,
+      "opening_structure": "argument"
+    },
+    "terminology": {
+      "domain_term_density": 3.4,
+      "domains": ["ai-chatbots", "mental-health", "psychology"],
+      "cultural_terms": [],
+      "terms_defined_inline": 4
+    },
+    "referential_density": {
+      "concepts_introduced": 8,
+      "concept_rate": 0.57,
+      "entities_named": 5
+    },
+    "content_markers": {
+      "has_numbered_list": true,
+      "has_bullet_list": true,
+      "has_examples": true,
+      "has_citations": true,
+      "citation_count": 5,
+      "has_footnotes": true
+    },
+    "structure_type": "framework",
+    "prerequisites": {
+      "domains": [
+        {
+          "name": "ai-chatbots",
+          "level": "basic-usage",
+          "critical": true
+        },
+        {
+          "name": "mental-health",
+          "level": "awareness",
+          "critical": false
+        }
+      ],
+      "cultural": [],
+      "signals_prerequisites": true
+    },
+    "references": {
+      "internal": [],
+      "external": 5,
+      "referenced_by": []
+    },
+    "dependency_score": "none",
+    "accessibility": {
+      "linguistic_barrier": "low",
+      "domain_barrier": "medium",
+      "cultural_barrier": "none",
+      "variance_by": [
+        {
+          "dimension": "ai-usage",
+          "range": [50, 95]
+        },
+        {
+          "dimension": "mental-health-literacy",
+          "range": [75, 98]
+        }
+      ]
+    },
+    "actionability": {
+      "has_templates": true,
+      "has_protocol": true,
+      "has_examples": true,
+      "implementation_time": "immediate"
+    },
+    "read_next": [
+      { "slug": "stop-avoiding-yourself-the-ai-in-you", "reason": "foundational-ai-chatbot-framework" },
+      { "slug": "therapists-for-everyone-else", "reason": "related-therapy-psychology-context" }
+    ],
+    "enhances": ["ai-chatbots-theme"]
   }
 }

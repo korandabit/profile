@@ -344,3 +344,192 @@ analysis:
 
 ---
 
+## Session 13 - Early Blog: Analytical Essays 2012-2013
+
+**Date:** 2026-02-23
+**Posts Analyzed:** 5
+**Total Posts Analyzed:** 40/76
+
+### Posts
+
+- `political-debate` (2012-09-08) - 820w, analysis, political rhetoric via chess metaphor
+- `introductory-research-methods-for-information-consumers` (2013-02-26) - 590w, how-to, epistemics for general audience
+- `dont-change-the-world` (2013-03-14) - 505w, analysis, semantic distinction between "change" vs "difference"
+- `how-to-climb-mountains-of-grief-dont` (2013-03-23) - 395w, analysis, therapy metaphor (mountain vs flood)
+- `quit-psychoanalyzing-me` (2013-03-24) - 250w, narrative/analysis, psychology defense mechanisms (truncated/draft post)
+
+### Scope Notes
+
+- All 5 posts are analytical essays from the earliest blogging era (pre-deployment)
+- None have internal references or citations
+- `quit-psychoanalyzing-me` is an incomplete post (~250 words visible); minimal scope applied
+- `how-to-climb-mountains-of-grief-dont` is just over the 400w threshold; minimal scope applied
+- All posts are universal in cultural context - empty cultural arrays, barriers "none" or "low"
+
+### Batch Definitions Added
+
+Sessions 13-20 defined in batches.json covering all 40 remaining posts across analytical essays, personal reflections, deaf culture, miscellaneous 2014-2022, and 2024 final batch.
+
+---
+
+## Session 14 - Early Blog: Personal Reflections + Deaf Culture Bridge 2013-2015
+
+**Date:** 2026-02-23
+**Posts Analyzed:** 5
+**Total Posts Analyzed:** 45/76
+
+### Posts
+
+- `how-to-be-friends-with-mans-best-friend-his-feelings` (2013-03-31) - 550w, analysis, emotion-as-inner-dog metaphor
+- `art-boring-artist-weird` (2013-07-29) - 280w, advocacy, short piece on art and wonder in children
+- `a-world-without-music` (2013-09-09) - 520w, analysis, audism and deaf culture through music lens
+- `irrationally-speaking` (2015-02-23) - 750w, narrative, CODA identity essay with dream sequence; HUB post linking 7 deaf culture posts
+- `conservative-brain-data` (2014-12-10) - 70w, stub/link post, brain myths in education
+
+### Scope Notes
+
+- `art-boring-artist-weird` and `conservative-brain-data` are very short posts (<400w); minimal scope applied
+- `irrationally-speaking` is a HUB post with internal references to 7 other deaf culture posts; full network scope applied; `read_before` list populated
+- `a-world-without-music` bridges personal narrative with deaf-culture theme
+- `irrationally-speaking` explicitly references "Deafhood unheard" with prerequisite relationship
+
+---
+
+## Session 15 - Deaf Culture Extended
+
+**Date:** 2026-02-23
+**Posts Analyzed:** 5
+**Total Posts Analyzed:** 50/76
+
+### Posts
+
+- `talk-about-deafhood` (2013-10-05) - 490w, narrative, CODA intro with deaf FAQ list; links to 2 other posts
+- `deafhood-unheard` (2014-10-04) - 900w, analysis, cochlear implant debate and Deafhood identity (was session 1 sample)
+- `dealing-with-deaf-at-the-party` (2013-12-07) - 680w, narrative, party scenario from CODA perspective; footnotes
+- `treating-hearing-status` (2014-12-07) - 175w, analysis stub, medical-model vs. identity model (truncated/incomplete post)
+- `delete-is-from-your-vocabulary-to-improve-communication` (2014-04-17) - 290w, how-to, E-prime communication rule; includes 2024 AI-revision note (historically interesting)
+
+### Scope Notes
+
+- `deafhood-unheard` was a session 1 sample post stored under `_sample_posts`; now given full top-level analysis entry
+- `treating-hearing-status` appears truncated (30 lines, ends mid-response); minimal scope applied
+- `delete-is-from-your-vocabulary` contains a 2024 Claude-generated revision as an update section - categorized as communication/linguistics, not deaf-culture
+- `dealing-with-deaf-at-the-party` has footnotes (asterisk footnotes in text); marked has_footnotes: true
+
+---
+
+## Session 16 - Misc 2014-2021 (Stubs, Pandemic Poem, Product Design)
+
+**Date:** 2026-02-23
+**Posts Analyzed:** 5
+**Total Posts Analyzed:** 55/76
+
+### Posts
+
+- `None` (2014-10-20) - 80w, stub/intro for Dataclysm book review (incomplete post, title filed as "None" in Jekyll)
+- `whats-the-difference-between-fundraising-and-begging` (2014-11-25) - 200w, analysis stub, judgment and poverty
+- `pandemic-state` (2021-01-28) - 300w, narrative poem, COVID-19 science advocacy verse
+- `commercial-home` (2021-09-10) - 400w, framework, product design principles from covid-era obsession
+- `standards` (2021-09-17) - 320w, how-to/reference, regulatory standards for consumer products (HEPA, NSF, IPX)
+
+### Scope Notes
+
+- `None` is an extreme stub - only 17 lines including frontmatter; minimal scope
+- `pandemic-state` is a poem with short line structure; sentence metrics reflect verse, not prose
+- `commercial-home` has markdown headers (## price for utility, ## goal); framework scope applied
+- `standards` has markdown headers (### Clean air, ### Drinking water, ### IPX); how-to scope applied; appears truncated at line 48
+
+---
+
+## Session 17 - 2021-2022 Misc and Sample Post Completion
+
+**Date:** 2026-02-23
+**Posts Analyzed:** 5
+**Total Posts Analyzed:** 60/76
+
+### Posts
+
+- `the-best-of-food-delivery-services` (2021-09-10) - 700w, how-to/review, food delivery service comparison with headers
+- `good-goods` (2021-09-25) - 380w, framework draft, household goods design principles
+- `speech-to-text-forecast` (2021-12-21) - 280w, analysis, STT technology + deaf accessibility angle
+- `youre-not-my-dad` (2022-04-15) - 380w, advocacy, deaf paternalism in hearing institutions
+- `not-the-point` (2022-11-20) - 350w, framework, dialog Point vs. Tangent (was session 1 sample)
+
+### Scope Notes
+
+- `not-the-point` was a session 1 sample post stored under `_sample_posts`; now given full top-level entry
+- `the-best-of-food-delivery-services` is a structured review with nested headers and affiliate links at top
+- `good-goods` is marked as "Draft / Sketch" in the text itself; still analyzable as framework
+- `speech-to-text-forecast` bridges product-review and deaf-culture themes
+
+---
+
+## Session 18 - 2023 Posts: Letters Triptych and AI Communication
+
+**Date:** 2026-02-23
+**Posts Analyzed:** 5
+**Total Posts Analyzed:** 65/76
+
+### Posts
+
+- `dear-love` (2023-08-01) - 450w, narrative, philosophical love letter closing "Sincerely, You"
+- `dear-a-i` (2023-10-20) - 450w, narrative, AI-language parallel letter - human writing TO AI
+- `dear-human` (2023-10-20) - 460w, narrative, AI-perspective parallel letter - AI writing TO human
+- `noauthor` (2023-12-29) - 6w, analysis, one-line aphorism "Authorship is a red herring."
+- `be-right-there` (2024-07-10) - 350w, analysis, connecting essay linking dear-love, not-the-point, and the-agreement-between-reader-and-writer
+
+### Scope Notes
+
+- `dear-love`, `dear-a-i`, `dear-human` form a triptych: same structure, different registers (human/AI/human-from-AI)
+- `dear-a-i` and `dear-human` are AI-generated parallel rewrites of `dear-love`; reflects early AI collaboration
+- `noauthor` is the shortest post in the corpus (6 words of content); minimal scope applied
+- `be-right-there` is a HUB post with 3 internal references; full network scope and `read_before` populated
+
+---
+
+## Session 19 - 2024 AI and Productivity Posts
+
+**Date:** 2026-02-23
+**Posts Analyzed:** 5
+**Total Posts Analyzed:** 70/76
+
+### Posts
+
+- `the-safer-way-to-boosting-productivity-with-ai` (2024-07-11) - 200w, how-to stub, AI with structured data formats; names Claude
+- `has-he-tried-to-eat-his-poop` (2024-07-15) - 280w, advocacy, self-inquiry through questions
+- `how-to-unstick-or-unpin-a-post-in-wordpress-2024` (2024-07-15) - 240w, how-to with screenshots, WordPress tutorial
+- `asking` (2024-07-20) - 380w, analysis, psycholinguistics of questions; 5 footnotes documenting Claude's edits (unique meta-AI record)
+- `therapists-for-everyone-else` (2024-07-22) - 580w, analysis, therapy psychology in societal context; 1 footnote
+
+### Scope Notes
+
+- `asking` has documented AI collaboration in footnotes - each footnote explains a specific Claude edit; unique corpus artifact
+- `the-safer-way-to-boosting-productivity-with-ai` is incomplete (36 lines, cuts off); minimal scope applied
+- `how-to-unstick-or-unpin-a-post-in-wordpress-2024` is domain-specific (WordPress users only); domain_barrier: medium
+
+---
+
+## Session 20 - 2024 Final Batch + Sample Post Completion
+
+**Date:** 2026-02-23
+**Posts Analyzed:** 5
+**Total Posts Analyzed:** 75/76
+
+### Posts
+
+- `honk-theory` (2024-07-24) - 400w, framework, linguistics/pragmatics of honking as minimal one-word language; links to game at skilledreflection.org
+- `say-nothing` (2024-07-30) - 490w, how-to, intentional silence in communication; explicit continuation of honk-theory; has headers
+- `form-vs-function` (2024-09-25) - 700w, analysis, writing cognition and epistemology - form vs function in language
+- `the-unedited-war-story-of-a-veteran` (2017-04-08) - 1200w, narrative/analysis, veteran identity beyond war narrative; 2 internal refs, 3 external; was session 1 sample
+- `bot-therapy` (2025-11-12) - 1400w, framework, AI for mental health with prompt templates; 5 academic citations; was session 1 sample; most complex post in corpus
+
+### Scope Notes
+
+- `bot-therapy` is the most comprehensive post in the corpus: has templates (copy-paste prompts), protocol (numbered steps), 5 academic citations, has_footnotes: true; full framework scope
+- `the-unedited-war-story-of-a-veteran` was a session 1 sample stored under `_sample_posts`; now given full top-level entry
+- `say-nothing` has 3 markdown headers including "### A deeper dive for the nerds" which appears as an incomplete/placeholder section at line 62
+- `honk-theory` and `say-nothing` form a sequential pair (say-nothing explicitly references honk-theory as previous post)
+- Corpus completion: 75/76 posts analyzed (1 discrepancy from original count of 41 remaining; may reflect initial count error)
+
+---
+

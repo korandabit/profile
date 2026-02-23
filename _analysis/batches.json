@@ -120,5 +120,111 @@
       "theme": "military"
     }
   ],
+  "pending_batches": [
+    {
+      "session": 13,
+      "name": "Early Blog - Analytical Essays 2012-2013",
+      "status": "pending",
+      "posts": [
+        "2012-09-08-political-debate",
+        "2013-02-26-introductory-research-methods-for-information-consumers",
+        "2013-03-14-dont-change-the-world",
+        "2013-03-23-how-to-climb-mountains-of-grief-dont",
+        "2013-03-24-quit-psychoanalyzing-me"
+      ],
+      "theme": "analytical-essays"
+    },
+    {
+      "session": 14,
+      "name": "Early Blog - Personal Reflections 2013",
+      "status": "pending",
+      "posts": [
+        "2013-03-31-how-to-be-friends-with-mans-best-friend-his-feelings",
+        "2013-07-29-art-boring-artist-weird",
+        "2013-09-09-a-world-without-music",
+        "2015-02-23-irrationally-speaking",
+        "2014-12-10-conservative-brain-data"
+      ],
+      "theme": "personal-reflections"
+    },
+    {
+      "session": 15,
+      "name": "Deaf Culture Extended",
+      "status": "pending",
+      "posts": [
+        "2013-10-05-talk-about-deafhood",
+        "2013-12-07-dealing-with-deaf-at-the-party",
+        "2014-10-04-deafhood-unheard",
+        "2014-12-07-treating-hearing-status",
+        "2014-04-17-delete-is-from-your-vocabulary-to-improve-communication"
+      ],
+      "theme": "deaf-culture"
+    },
+    {
+      "session": 16,
+      "name": "Misc 2014-2021",
+      "status": "pending",
+      "posts": [
+        "2014-10-20-None",
+        "2014-11-25-whats-the-difference-between-fundraising-and-begging",
+        "2021-01-28-pandemic-state",
+        "2021-09-10-commercial-home",
+        "2021-09-17-standards"
+      ],
+      "theme": "miscellaneous"
+    },
+    {
+      "session": 17,
+      "name": "2021-2022 Misc and Sample Posts Completion",
+      "status": "pending",
+      "posts": [
+        "2021-09-10-the-best-of-food-delivery-services",
+        "2021-09-25-good-goods",
+        "2021-12-21-speech-to-text-forecast",
+        "2022-04-15-youre-not-my-dad",
+        "2022-11-20-2-not-the-point"
+      ],
+      "theme": "miscellaneous"
+    },
+    {
+      "session": 18,
+      "name": "2023 Posts - Letters and AI",
+      "status": "pending",
+      "posts": [
+        "2023-08-01-dear-love",
+        "2023-10-20-dear-a-i",
+        "2023-10-20-dear-human",
+        "2023-12-29-noauthor",
+        "2024-07-10-be-right-there"
+      ],
+      "theme": "ai-communication"
+    },
+    {
+      "session": 19,
+      "name": "2024 AI and Productivity Posts",
+      "status": "pending",
+      "posts": [
+        "2024-07-11-the-safer-way-to-boosting-productivity-with-ai",
+        "2024-07-15-has-he-tried-to-eat-his-poop",
+        "2024-07-15-how-to-unstick-or-unpin-a-post-in-wordpress-2024",
+        "2024-07-20-asking",
+        "2024-07-22-therapists-for-everyone-else"
+      ],
+      "theme": "ai-productivity"
+    },
+    {
+      "session": 20,
+      "name": "2024 Final Batch + Sample Post Completion",
+      "status": "pending",
+      "posts": [
+        "2024-07-24-honk-theory",
+        "2024-07-30-say-nothing",
+        "2024-09-25-form-vs-function",
+        "2017-04-08-the-unedited-war-story-of-a-veteran",
+        "2025-11-12-bot-therapy"
+      ],
+      "theme": "miscellaneous"
+    }
+  ],
   "note": "This file defines all analysis batches. Status can be: pending, in_progress, completed, skipped"
 }

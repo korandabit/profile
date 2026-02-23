@@ -1,6 +1,6 @@
 {
-  "current_session": 12,
-  "last_updated": "2025-11-22",
+  "current_session": 20,
+  "last_updated": "2026-02-23",
   "completed_sessions": [
     1,
     2,
@@ -13,7 +13,15 @@
     9,
     10,
     11,
-    12
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20
   ],
   "sessions": {
     "1": {
@@ -111,9 +119,73 @@
       "branch": "claude/review-recent-updates-01R5mwn5dy9hcNN5H7wgKceY",
       "commit": "pending",
       "note": "Jekyll integration: added analysis YAML to all analyzed posts"
+    },
+    "13": {
+      "status": "completed",
+      "completed_date": "2026-02-23",
+      "posts_analyzed": 5,
+      "branch": "master",
+      "commit": "pending",
+      "note": "Early Blog - Analytical Essays 2012-2013"
+    },
+    "14": {
+      "status": "completed",
+      "completed_date": "2026-02-23",
+      "posts_analyzed": 5,
+      "branch": "master",
+      "commit": "pending",
+      "note": "Early Blog - Personal Reflections 2013 + Deaf Culture"
+    },
+    "15": {
+      "status": "completed",
+      "completed_date": "2026-02-23",
+      "posts_analyzed": 5,
+      "branch": "master",
+      "commit": "pending",
+      "note": "Deaf Culture Extended"
+    },
+    "16": {
+      "status": "completed",
+      "completed_date": "2026-02-23",
+      "posts_analyzed": 5,
+      "branch": "master",
+      "commit": "pending",
+      "note": "Misc 2014-2021 (stub posts, pandemic poem, product design)"
+    },
+    "17": {
+      "status": "completed",
+      "completed_date": "2026-02-23",
+      "posts_analyzed": 5,
+      "branch": "master",
+      "commit": "pending",
+      "note": "2021-2022 Misc and Sample Post Completion (not-the-point)"
+    },
+    "18": {
+      "status": "completed",
+      "completed_date": "2026-02-23",
+      "posts_analyzed": 5,
+      "branch": "master",
+      "commit": "pending",
+      "note": "2023 Posts - Letters Triptych and AI Communication"
+    },
+    "19": {
+      "status": "completed",
+      "completed_date": "2026-02-23",
+      "posts_analyzed": 5,
+      "branch": "master",
+      "commit": "pending",
+      "note": "2024 AI and Productivity Posts"
+    },
+    "20": {
+      "status": "completed",
+      "completed_date": "2026-02-23",
+      "posts_analyzed": 5,
+      "branch": "master",
+      "commit": "pending",
+      "note": "2024 Final Batch + Sample Post Completion (bot-therapy, the-unedited-war-story)"
     }
   },
-  "next_session": 13,
-  "total_posts_analyzed": 35,
-  "total_posts_remaining": 41
+  "next_session": 21,
+  "total_posts_analyzed": 75,
+  "total_posts_remaining": 1
 }
