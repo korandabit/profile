@@ -662,7 +662,7 @@
         "reason": "conceptual-foundation"
       },
       {
-        "slug": "not-the-point",
+        "slug": "2-not-the-point",
         "reason": "similar-framework"
       }
     ],
@@ -719,7 +719,7 @@
     },
     "read_next": [
       {
-        "slug": "not-the-point",
+        "slug": "2-not-the-point",
         "reason": "explicit-continuation"
       },
       {
@@ -1670,7 +1670,12 @@
       "has_examples": true,
       "implementation_time": "ongoing"
     },
-    "read_next": [],
+    "read_next": [
+      {
+        "slug": "1-it-rained",
+        "reason": "series-continuation"
+      }
+    ],
     "read_before": [],
     "enhances": [
       "military-theme",
@@ -1747,7 +1752,12 @@
       "has_examples": true,
       "implementation_time": "ongoing"
     },
-    "read_next": [],
+    "read_next": [
+      {
+        "slug": "2-unfinished-predeployment-sentiments",
+        "reason": "series-continuation"
+      }
+    ],
     "read_before": [],
     "enhances": [
       "military-theme",
@@ -1794,7 +1804,12 @@
       "domain_barrier": "low",
       "cultural_barrier": "medium"
     },
-    "read_next": [],
+    "read_next": [
+      {
+        "slug": "3-the-nights-after-the-rain",
+        "reason": "series-continuation"
+      }
+    ],
     "read_before": [],
     "enhances": [
       "military-theme",
@@ -1870,7 +1885,12 @@
       "has_examples": true,
       "implementation_time": "ongoing"
     },
-    "read_next": [],
+    "read_next": [
+      {
+        "slug": "4-haircut-hysteria",
+        "reason": "series-continuation"
+      }
+    ],
     "read_before": [],
     "enhances": [
       "military-theme",
@@ -1946,7 +1966,12 @@
       "has_examples": true,
       "implementation_time": "ongoing"
     },
-    "read_next": [],
+    "read_next": [
+      {
+        "slug": "5-webcam-starts-to-capture",
+        "reason": "series-continuation"
+      }
+    ],
     "read_before": [],
     "enhances": [
       "military-theme",
@@ -2022,7 +2047,12 @@
       "has_examples": true,
       "implementation_time": "ongoing"
     },
-    "read_next": [],
+    "read_next": [
+      {
+        "slug": "6-battle-for-peace-and-quiet",
+        "reason": "series-continuation"
+      }
+    ],
     "read_before": [],
     "enhances": [
       "military-theme",
@@ -2099,7 +2129,12 @@
       "has_examples": true,
       "implementation_time": "ongoing"
     },
-    "read_next": [],
+    "read_next": [
+      {
+        "slug": "7-a-christmas-special",
+        "reason": "series-continuation"
+      }
+    ],
     "read_before": [],
     "enhances": [
       "military-theme",
@@ -2176,7 +2211,12 @@
       "has_examples": true,
       "implementation_time": "ongoing"
     },
-    "read_next": [],
+    "read_next": [
+      {
+        "slug": "8-the-sweeter-side-of-work",
+        "reason": "series-continuation"
+      }
+    ],
     "read_before": [],
     "enhances": [
       "military-theme",
@@ -2252,7 +2292,12 @@
       "has_examples": true,
       "implementation_time": "ongoing"
     },
-    "read_next": [],
+    "read_next": [
+      {
+        "slug": "9-emotional-warfare",
+        "reason": "series-continuation"
+      }
+    ],
     "read_before": [],
     "enhances": [
       "military-theme",
@@ -2331,7 +2376,12 @@
       "has_examples": true,
       "implementation_time": "ongoing"
     },
-    "read_next": [],
+    "read_next": [
+      {
+        "slug": "10-a-fog-of-war",
+        "reason": "series-continuation"
+      }
+    ],
     "read_before": [],
     "enhances": [
       "military-theme",
@@ -2408,7 +2458,12 @@
       "has_examples": true,
       "implementation_time": "ongoing"
     },
-    "read_next": [],
+    "read_next": [
+      {
+        "slug": "11-the-superbowl-on-afn",
+        "reason": "series-continuation"
+      }
+    ],
     "read_before": [],
     "enhances": [
       "military-theme",
@@ -2485,7 +2540,12 @@
       "has_examples": true,
       "implementation_time": "ongoing"
     },
-    "read_next": [],
+    "read_next": [
+      {
+        "slug": "12-grenades-cigarettes-or-melons",
+        "reason": "series-continuation"
+      }
+    ],
     "read_before": [],
     "enhances": [
       "military-theme",
@@ -2562,7 +2622,12 @@
       "has_examples": true,
       "implementation_time": "ongoing"
     },
-    "read_next": [],
+    "read_next": [
+      {
+        "slug": "a-need-for-combat",
+        "reason": "series-continuation"
+      }
+    ],
     "read_before": [],
     "enhances": [
       "military-theme",
@@ -2638,7 +2703,12 @@
       "has_examples": true,
       "implementation_time": "ongoing"
     },
-    "read_next": [],
+    "read_next": [
+      {
+        "slug": "15-lead-me-home",
+        "reason": "series-continuation"
+      }
+    ],
     "read_before": [],
     "enhances": [
       "military-theme",
@@ -2714,7 +2784,12 @@
       "has_examples": true,
       "implementation_time": "ongoing"
     },
-    "read_next": [],
+    "read_next": [
+      {
+        "slug": "the-unedited-war-story-of-a-veteran",
+        "reason": "thematic-reflection"
+      }
+    ],
     "read_before": [],
     "enhances": [
       "military-theme",
@@ -2791,7 +2866,12 @@
       "has_examples": true,
       "implementation_time": "ongoing"
     },
-    "read_next": [],
+    "read_next": [
+      {
+        "slug": "14-everyday",
+        "reason": "series-continuation"
+      }
+    ],
     "read_before": [],
     "enhances": [
       "military-theme",
@@ -2810,7 +2890,10 @@
     },
     "terminology": {
       "domain_term_density": 1.8,
-      "domains": ["rhetoric", "political-science"],
+      "domains": [
+        "rhetoric",
+        "political-science"
+      ],
       "cultural_terms": [],
       "terms_defined_inline": 0
     },
@@ -2851,10 +2934,18 @@
       "cultural_barrier": "none"
     },
     "read_next": [
-      { "slug": "dont-change-the-world", "reason": "similar-analytical-essay" },
-      { "slug": "introductory-research-methods-for-information-consumers", "reason": "shared-theme-information-epistemics" }
+      {
+        "slug": "dont-change-the-world",
+        "reason": "similar-analytical-essay"
+      },
+      {
+        "slug": "introductory-research-methods-for-information-consumers",
+        "reason": "shared-theme-information-epistemics"
+      }
     ],
-    "enhances": ["analytical-essays-theme"]
+    "enhances": [
+      "analytical-essays-theme"
+    ]
   },
   "introductory-research-methods-for-information-consumers": {
     "word_count": 590,
@@ -2868,7 +2959,10 @@
     },
     "terminology": {
       "domain_term_density": 1.5,
-      "domains": ["information-literacy", "research-methods"],
+      "domains": [
+        "information-literacy",
+        "research-methods"
+      ],
       "cultural_terms": [],
       "terms_defined_inline": 0
     },
@@ -2903,10 +2997,18 @@
       "cultural_barrier": "none"
     },
     "read_next": [
-      { "slug": "political-debate", "reason": "shared-theme-epistemics-and-discourse" },
-      { "slug": "introduction-to-empirical-pragmatism", "reason": "conceptual-continuation-evidence-reasoning" }
+      {
+        "slug": "political-debate",
+        "reason": "shared-theme-epistemics-and-discourse"
+      },
+      {
+        "slug": "introduction-to-empirical-pragmatism",
+        "reason": "conceptual-continuation-evidence-reasoning"
+      }
     ],
-    "enhances": ["analytical-essays-theme"]
+    "enhances": [
+      "analytical-essays-theme"
+    ]
   },
   "dont-change-the-world": {
     "word_count": 505,
@@ -2920,7 +3022,10 @@
     },
     "terminology": {
       "domain_term_density": 1.2,
-      "domains": ["ethics", "semantics"],
+      "domains": [
+        "ethics",
+        "semantics"
+      ],
       "cultural_terms": [],
       "terms_defined_inline": 2
     },
@@ -2955,10 +3060,18 @@
       "cultural_barrier": "none"
     },
     "read_next": [
-      { "slug": "political-debate", "reason": "similar-analytical-essay-social-themes" },
-      { "slug": "irrationally-speaking", "reason": "similar-reasoning-about-human-behavior" }
+      {
+        "slug": "political-debate",
+        "reason": "similar-analytical-essay-social-themes"
+      },
+      {
+        "slug": "irrationally-speaking",
+        "reason": "similar-reasoning-about-human-behavior"
+      }
     ],
-    "enhances": ["analytical-essays-theme"]
+    "enhances": [
+      "analytical-essays-theme"
+    ]
   },
   "how-to-climb-mountains-of-grief-dont": {
     "word_count": 395,
@@ -2966,7 +3079,9 @@
     "structure_type": "analysis",
     "terminology": {
       "domain_term_density": 1.5,
-      "domains": ["psychology"],
+      "domains": [
+        "psychology"
+      ],
       "cultural_terms": [],
       "terms_defined_inline": 2
     },
@@ -2999,10 +3114,18 @@
       "cultural_barrier": "none"
     },
     "read_next": [
-      { "slug": "quit-psychoanalyzing-me", "reason": "related-psychology-theme" },
-      { "slug": "therapists-for-everyone-else", "reason": "conceptual-continuation-therapy-themes" }
+      {
+        "slug": "quit-psychoanalyzing-me",
+        "reason": "related-psychology-theme"
+      },
+      {
+        "slug": "therapists-for-everyone-else",
+        "reason": "conceptual-continuation-therapy-themes"
+      }
     ],
-    "enhances": ["analytical-essays-theme"]
+    "enhances": [
+      "analytical-essays-theme"
+    ]
   },
   "quit-psychoanalyzing-me": {
     "word_count": 250,
@@ -3010,7 +3133,9 @@
     "structure_type": "analysis",
     "terminology": {
       "domain_term_density": 2.0,
-      "domains": ["psychology"],
+      "domains": [
+        "psychology"
+      ],
       "cultural_terms": [],
       "terms_defined_inline": 1
     },
@@ -3037,10 +3162,18 @@
       "cultural_barrier": "none"
     },
     "read_next": [
-      { "slug": "how-to-climb-mountains-of-grief-dont", "reason": "related-psychology-theme" },
-      { "slug": "therapists-for-everyone-else", "reason": "thematic-continuation-psychology-as-discipline" }
+      {
+        "slug": "how-to-climb-mountains-of-grief-dont",
+        "reason": "related-psychology-theme"
+      },
+      {
+        "slug": "therapists-for-everyone-else",
+        "reason": "thematic-continuation-psychology-as-discipline"
+      }
     ],
-    "enhances": ["analytical-essays-theme"]
+    "enhances": [
+      "analytical-essays-theme"
+    ]
   },
   "how-to-be-friends-with-mans-best-friend-his-feelings": {
     "word_count": 550,
@@ -3054,7 +3187,9 @@
     },
     "terminology": {
       "domain_term_density": 1.8,
-      "domains": ["psychology"],
+      "domains": [
+        "psychology"
+      ],
       "cultural_terms": [],
       "terms_defined_inline": 1
     },
@@ -3095,10 +3230,18 @@
       "cultural_barrier": "none"
     },
     "read_next": [
-      { "slug": "how-to-climb-mountains-of-grief-dont", "reason": "related-psychology-metaphor" },
-      { "slug": "therapists-for-everyone-else", "reason": "thematic-continuation-emotional-insight" }
+      {
+        "slug": "how-to-climb-mountains-of-grief-dont",
+        "reason": "related-psychology-metaphor"
+      },
+      {
+        "slug": "therapists-for-everyone-else",
+        "reason": "thematic-continuation-emotional-insight"
+      }
     ],
-    "enhances": ["analytical-essays-theme"]
+    "enhances": [
+      "analytical-essays-theme"
+    ]
   },
   "art-boring-artist-weird": {
     "word_count": 280,
@@ -3133,10 +3276,18 @@
       "cultural_barrier": "none"
     },
     "read_next": [
-      { "slug": "dont-change-the-world", "reason": "similar-cultural-critique-tone" },
-      { "slug": "a-world-without-music", "reason": "related-perspective-on-cultural-assumptions" }
+      {
+        "slug": "dont-change-the-world",
+        "reason": "similar-cultural-critique-tone"
+      },
+      {
+        "slug": "a-world-without-music",
+        "reason": "related-perspective-on-cultural-assumptions"
+      }
     ],
-    "enhances": ["analytical-essays-theme"]
+    "enhances": [
+      "analytical-essays-theme"
+    ]
   },
   "a-world-without-music": {
     "word_count": 520,
@@ -3150,8 +3301,15 @@
     },
     "terminology": {
       "domain_term_density": 2.3,
-      "domains": ["deaf-culture"],
-      "cultural_terms": ["ASL", "deaf", "audism", "CODA"],
+      "domains": [
+        "deaf-culture"
+      ],
+      "cultural_terms": [
+        "ASL",
+        "deaf",
+        "audism",
+        "CODA"
+      ],
       "terms_defined_inline": 1
     },
     "referential_density": {
@@ -3197,15 +3355,26 @@
       "variance_by": [
         {
           "dimension": "deaf-culture-familiarity",
-          "range": [70, 95]
+          "range": [
+            70,
+            95
+          ]
         }
       ]
     },
     "read_next": [
-      { "slug": "irrationally-speaking", "reason": "conceptual-continuation-coda-identity" },
-      { "slug": "talk-about-deafhood", "reason": "related-deaf-culture-essay" }
+      {
+        "slug": "irrationally-speaking",
+        "reason": "conceptual-continuation-coda-identity"
+      },
+      {
+        "slug": "talk-about-deafhood",
+        "reason": "related-deaf-culture-essay"
+      }
     ],
-    "enhances": ["deaf-culture-theme"]
+    "enhances": [
+      "deaf-culture-theme"
+    ]
   },
   "irrationally-speaking": {
     "word_count": 750,
@@ -3219,8 +3388,17 @@
     },
     "terminology": {
       "domain_term_density": 3.1,
-      "domains": ["deaf-culture", "psychology"],
-      "cultural_terms": ["CODA", "ASL", "audism", "deaf", "cochlear implant"],
+      "domains": [
+        "deaf-culture",
+        "psychology"
+      ],
+      "cultural_terms": [
+        "CODA",
+        "ASL",
+        "audism",
+        "deaf",
+        "cochlear implant"
+      ],
       "terms_defined_inline": 1
     },
     "referential_density": {
@@ -3259,13 +3437,34 @@
     },
     "references": {
       "internal": [
-        { "slug": "deafhood-unheard", "type": "prerequisite" },
-        { "slug": "a-world-without-music", "type": "conceptual" },
-        { "slug": "talk-about-deafhood", "type": "conceptual" },
-        { "slug": "the-definition-of-deaf", "type": "conceptual" },
-        { "slug": "dealing-with-deaf-at-the-party", "type": "conceptual" },
-        { "slug": "language-with-a-bionic-ear", "type": "conceptual" },
-        { "slug": "treating-hearing-status", "type": "conceptual" }
+        {
+          "slug": "deafhood-unheard",
+          "type": "prerequisite"
+        },
+        {
+          "slug": "a-world-without-music",
+          "type": "conceptual"
+        },
+        {
+          "slug": "talk-about-deafhood",
+          "type": "conceptual"
+        },
+        {
+          "slug": "the-definition-of-deaf",
+          "type": "conceptual"
+        },
+        {
+          "slug": "dealing-with-deaf-at-the-party",
+          "type": "conceptual"
+        },
+        {
+          "slug": "language-with-a-bionic-ear",
+          "type": "conceptual"
+        },
+        {
+          "slug": "treating-hearing-status",
+          "type": "conceptual"
+        }
       ],
       "external": 1,
       "referenced_by": []
@@ -3278,11 +3477,17 @@
       "variance_by": [
         {
           "dimension": "deaf-culture-familiarity",
-          "range": [55, 95]
+          "range": [
+            55,
+            95
+          ]
         },
         {
           "dimension": "coda-identity",
-          "range": [60, 98]
+          "range": [
+            60,
+            98
+          ]
         }
       ]
     },
@@ -3292,10 +3497,18 @@
       "the-definition-of-deaf"
     ],
     "read_next": [
-      { "slug": "deafhood-unheard", "reason": "prerequisite-referenced-in-text" },
-      { "slug": "a-world-without-music", "reason": "prerequisite-referenced-in-text" }
+      {
+        "slug": "deafhood-unheard",
+        "reason": "prerequisite-referenced-in-text"
+      },
+      {
+        "slug": "a-world-without-music",
+        "reason": "prerequisite-referenced-in-text"
+      }
     ],
-    "enhances": ["deaf-culture-theme"]
+    "enhances": [
+      "deaf-culture-theme"
+    ]
   },
   "conservative-brain-data": {
     "word_count": 70,
@@ -3303,7 +3516,9 @@
     "structure_type": "analysis",
     "terminology": {
       "domain_term_density": 2.9,
-      "domains": ["neuroscience"],
+      "domains": [
+        "neuroscience"
+      ],
       "cultural_terms": [],
       "terms_defined_inline": 0
     },
@@ -3330,10 +3545,18 @@
       "cultural_barrier": "none"
     },
     "read_next": [
-      { "slug": "introductory-research-methods-for-information-consumers", "reason": "related-theme-information-skepticism" },
-      { "slug": "irrationally-speaking", "reason": "related-theme-rationality-and-emotion" }
+      {
+        "slug": "introductory-research-methods-for-information-consumers",
+        "reason": "related-theme-information-skepticism"
+      },
+      {
+        "slug": "irrationally-speaking",
+        "reason": "related-theme-rationality-and-emotion"
+      }
     ],
-    "enhances": ["analytical-essays-theme"]
+    "enhances": [
+      "analytical-essays-theme"
+    ]
   },
   "talk-about-deafhood": {
     "word_count": 490,
@@ -3347,8 +3570,18 @@
     },
     "terminology": {
       "domain_term_density": 2.8,
-      "domains": ["deaf-culture"],
-      "cultural_terms": ["CODA", "ASL", "audism", "deaf", "Deafhood", "TTY", "hearing-impaired"],
+      "domains": [
+        "deaf-culture"
+      ],
+      "cultural_terms": [
+        "CODA",
+        "ASL",
+        "audism",
+        "deaf",
+        "Deafhood",
+        "TTY",
+        "hearing-impaired"
+      ],
       "terms_defined_inline": 3
     },
     "content_markers": {
@@ -3372,8 +3605,14 @@
     },
     "references": {
       "internal": [
-        { "slug": "the-definition-of-deaf", "type": "continuation" },
-        { "slug": "a-world-without-music", "type": "conceptual" }
+        {
+          "slug": "the-definition-of-deaf",
+          "type": "continuation"
+        },
+        {
+          "slug": "a-world-without-music",
+          "type": "conceptual"
+        }
       ],
       "external": 4,
       "referenced_by": []
@@ -3386,15 +3625,26 @@
       "variance_by": [
         {
           "dimension": "deaf-culture-familiarity",
-          "range": [65, 95]
+          "range": [
+            65,
+            95
+          ]
         }
       ]
     },
     "read_next": [
-      { "slug": "the-definition-of-deaf", "reason": "explicit-continuation-in-text" },
-      { "slug": "deafhood-unheard", "reason": "deeper-deaf-culture-argument" }
+      {
+        "slug": "the-definition-of-deaf",
+        "reason": "explicit-continuation-in-text"
+      },
+      {
+        "slug": "deafhood-unheard",
+        "reason": "deeper-deaf-culture-argument"
+      }
     ],
-    "enhances": ["deaf-culture-theme"]
+    "enhances": [
+      "deaf-culture-theme"
+    ]
   },
   "deafhood-unheard": {
     "word_count": 900,
@@ -3408,8 +3658,18 @@
     },
     "terminology": {
       "domain_term_density": 3.2,
-      "domains": ["deaf-culture", "medical-ethics"],
-      "cultural_terms": ["ASL", "CODA", "audism", "deaf", "Deafhood", "cochlear implant"],
+      "domains": [
+        "deaf-culture",
+        "medical-ethics"
+      ],
+      "cultural_terms": [
+        "ASL",
+        "CODA",
+        "audism",
+        "deaf",
+        "Deafhood",
+        "cochlear implant"
+      ],
       "terms_defined_inline": 2
     },
     "referential_density": {
@@ -3448,8 +3708,14 @@
     },
     "references": {
       "internal": [
-        { "slug": "talk-about-deafhood", "type": "conceptual" },
-        { "slug": "the-definition-of-deaf", "type": "conceptual" }
+        {
+          "slug": "talk-about-deafhood",
+          "type": "conceptual"
+        },
+        {
+          "slug": "the-definition-of-deaf",
+          "type": "conceptual"
+        }
       ],
       "external": 4,
       "referenced_by": []
@@ -3462,15 +3728,26 @@
       "variance_by": [
         {
           "dimension": "deaf-culture-familiarity",
-          "range": [55, 95]
+          "range": [
+            55,
+            95
+          ]
         }
       ]
     },
     "read_next": [
-      { "slug": "talk-about-deafhood", "reason": "foundational-intro-same-theme" },
-      { "slug": "irrationally-speaking", "reason": "emotional-coda-perspective-that-references-this-post" }
+      {
+        "slug": "talk-about-deafhood",
+        "reason": "foundational-intro-same-theme"
+      },
+      {
+        "slug": "irrationally-speaking",
+        "reason": "emotional-coda-perspective-that-references-this-post"
+      }
     ],
-    "enhances": ["deaf-culture-theme"]
+    "enhances": [
+      "deaf-culture-theme"
+    ]
   },
   "dealing-with-deaf-at-the-party": {
     "word_count": 680,
@@ -3484,8 +3761,15 @@
     },
     "terminology": {
       "domain_term_density": 2.1,
-      "domains": ["deaf-culture"],
-      "cultural_terms": ["deaf", "CODA", "ASL", "sign language"],
+      "domains": [
+        "deaf-culture"
+      ],
+      "cultural_terms": [
+        "deaf",
+        "CODA",
+        "ASL",
+        "sign language"
+      ],
       "terms_defined_inline": 0
     },
     "referential_density": {
@@ -3523,15 +3807,26 @@
       "variance_by": [
         {
           "dimension": "deaf-culture-familiarity",
-          "range": [70, 95]
+          "range": [
+            70,
+            95
+          ]
         }
       ]
     },
     "read_next": [
-      { "slug": "talk-about-deafhood", "reason": "foundational-deaf-culture-intro" },
-      { "slug": "deafhood-unheard", "reason": "deeper-argument-same-theme" }
+      {
+        "slug": "talk-about-deafhood",
+        "reason": "foundational-deaf-culture-intro"
+      },
+      {
+        "slug": "deafhood-unheard",
+        "reason": "deeper-argument-same-theme"
+      }
     ],
-    "enhances": ["deaf-culture-theme"]
+    "enhances": [
+      "deaf-culture-theme"
+    ]
   },
   "treating-hearing-status": {
     "word_count": 175,
@@ -3539,8 +3834,15 @@
     "structure_type": "analysis",
     "terminology": {
       "domain_term_density": 2.3,
-      "domains": ["deaf-culture", "medical-ethics"],
-      "cultural_terms": ["deaf", "cochlear implant", "sign language"],
+      "domains": [
+        "deaf-culture",
+        "medical-ethics"
+      ],
+      "cultural_terms": [
+        "deaf",
+        "cochlear implant",
+        "sign language"
+      ],
       "terms_defined_inline": 0
     },
     "content_markers": {
@@ -3572,10 +3874,18 @@
       "cultural_barrier": "medium"
     },
     "read_next": [
-      { "slug": "deafhood-unheard", "reason": "fuller-argument-on-cochlear-implant-debate" },
-      { "slug": "talk-about-deafhood", "reason": "broader-context-deaf-culture-intro" }
+      {
+        "slug": "deafhood-unheard",
+        "reason": "fuller-argument-on-cochlear-implant-debate"
+      },
+      {
+        "slug": "talk-about-deafhood",
+        "reason": "broader-context-deaf-culture-intro"
+      }
     ],
-    "enhances": ["deaf-culture-theme"]
+    "enhances": [
+      "deaf-culture-theme"
+    ]
   },
   "delete-is-from-your-vocabulary-to-improve-communication": {
     "word_count": 290,
@@ -3583,7 +3893,10 @@
     "structure_type": "how-to",
     "terminology": {
       "domain_term_density": 1.7,
-      "domains": ["linguistics", "communication"],
+      "domains": [
+        "linguistics",
+        "communication"
+      ],
       "cultural_terms": [],
       "terms_defined_inline": 2
     },
@@ -3610,10 +3923,18 @@
       "cultural_barrier": "none"
     },
     "read_next": [
-      { "slug": "say-less-and-more", "reason": "related-communication-minimalism-theme" },
-      { "slug": "the-agreement-between-reader-and-writer", "reason": "related-communication-craft" }
+      {
+        "slug": "say-less-and-more",
+        "reason": "related-communication-minimalism-theme"
+      },
+      {
+        "slug": "the-agreement-between-reader-and-writer",
+        "reason": "related-communication-craft"
+      }
     ],
-    "enhances": ["communication-theme"]
+    "enhances": [
+      "communication-theme"
+    ]
   },
   "None": {
     "word_count": 80,
@@ -3621,7 +3942,10 @@
     "structure_type": "analysis",
     "terminology": {
       "domain_term_density": 1.2,
-      "domains": ["technology", "social-media"],
+      "domains": [
+        "technology",
+        "social-media"
+      ],
       "cultural_terms": [],
       "terms_defined_inline": 0
     },
@@ -3648,10 +3972,18 @@
       "cultural_barrier": "none"
     },
     "read_next": [
-      { "slug": "political-debate", "reason": "similar-analytical-stub-era" },
-      { "slug": "introductory-research-methods-for-information-consumers", "reason": "related-theme-information-consumption" }
+      {
+        "slug": "political-debate",
+        "reason": "similar-analytical-stub-era"
+      },
+      {
+        "slug": "introductory-research-methods-for-information-consumers",
+        "reason": "related-theme-information-consumption"
+      }
     ],
-    "enhances": ["analytical-essays-theme"]
+    "enhances": [
+      "analytical-essays-theme"
+    ]
   },
   "whats-the-difference-between-fundraising-and-begging": {
     "word_count": 200,
@@ -3686,10 +4018,18 @@
       "cultural_barrier": "none"
     },
     "read_next": [
-      { "slug": "dont-change-the-world", "reason": "similar-ethical-reflection-tone" },
-      { "slug": "political-debate", "reason": "similar-social-critique-era" }
+      {
+        "slug": "dont-change-the-world",
+        "reason": "similar-ethical-reflection-tone"
+      },
+      {
+        "slug": "political-debate",
+        "reason": "similar-social-critique-era"
+      }
     ],
-    "enhances": ["analytical-essays-theme"]
+    "enhances": [
+      "analytical-essays-theme"
+    ]
   },
   "pandemic-state": {
     "word_count": 300,
@@ -3697,7 +4037,9 @@
     "structure_type": "narrative",
     "terminology": {
       "domain_term_density": 1.3,
-      "domains": ["science-advocacy"],
+      "domains": [
+        "science-advocacy"
+      ],
       "cultural_terms": [],
       "terms_defined_inline": 0
     },
@@ -3729,10 +4071,18 @@
       "cultural_barrier": "none"
     },
     "read_next": [
-      { "slug": "how-to-climb-mountains-of-grief-dont", "reason": "related-emotional-reflection-tone" },
-      { "slug": "commercial-home", "reason": "temporal-proximity-covid-era" }
+      {
+        "slug": "how-to-climb-mountains-of-grief-dont",
+        "reason": "related-emotional-reflection-tone"
+      },
+      {
+        "slug": "commercial-home",
+        "reason": "temporal-proximity-covid-era"
+      }
     ],
-    "enhances": ["analytical-essays-theme"]
+    "enhances": [
+      "analytical-essays-theme"
+    ]
   },
   "commercial-home": {
     "word_count": 400,
@@ -3746,7 +4096,10 @@
     },
     "terminology": {
       "domain_term_density": 1.5,
-      "domains": ["product-design", "consumerism"],
+      "domains": [
+        "product-design",
+        "consumerism"
+      ],
       "cultural_terms": [],
       "terms_defined_inline": 2
     },
@@ -3786,10 +4139,18 @@
       "implementation_time": "ongoing"
     },
     "read_next": [
-      { "slug": "standards", "reason": "continuation-same-product-obsession-era" },
-      { "slug": "good-goods", "reason": "related-product-consumerism-theme" }
+      {
+        "slug": "standards",
+        "reason": "continuation-same-product-obsession-era"
+      },
+      {
+        "slug": "good-goods",
+        "reason": "related-product-consumerism-theme"
+      }
     ],
-    "enhances": ["products-theme"]
+    "enhances": [
+      "products-theme"
+    ]
   },
   "standards": {
     "word_count": 320,
@@ -3803,7 +4164,10 @@
     },
     "terminology": {
       "domain_term_density": 3.8,
-      "domains": ["product-standards", "consumerism"],
+      "domains": [
+        "product-standards",
+        "consumerism"
+      ],
       "cultural_terms": [],
       "terms_defined_inline": 5
     },
@@ -3838,10 +4202,18 @@
       "implementation_time": "immediate"
     },
     "read_next": [
-      { "slug": "commercial-home", "reason": "companion-post-same-product-obsession-era" },
-      { "slug": "good-goods", "reason": "related-product-evaluation-theme" }
+      {
+        "slug": "commercial-home",
+        "reason": "companion-post-same-product-obsession-era"
+      },
+      {
+        "slug": "good-goods",
+        "reason": "related-product-evaluation-theme"
+      }
     ],
-    "enhances": ["products-theme"]
+    "enhances": [
+      "products-theme"
+    ]
   },
   "the-best-of-food-delivery-services": {
     "word_count": 700,
@@ -3855,7 +4227,10 @@
     },
     "terminology": {
       "domain_term_density": 1.8,
-      "domains": ["product-review", "food-delivery"],
+      "domains": [
+        "product-review",
+        "food-delivery"
+      ],
       "cultural_terms": [],
       "terms_defined_inline": 2
     },
@@ -3890,10 +4265,18 @@
       "implementation_time": "immediate"
     },
     "read_next": [
-      { "slug": "standards", "reason": "related-consumer-product-evaluation" },
-      { "slug": "good-goods", "reason": "companion-product-obsession-era" }
+      {
+        "slug": "standards",
+        "reason": "related-consumer-product-evaluation"
+      },
+      {
+        "slug": "good-goods",
+        "reason": "companion-product-obsession-era"
+      }
     ],
-    "enhances": ["products-theme"]
+    "enhances": [
+      "products-theme"
+    ]
   },
   "good-goods": {
     "word_count": 380,
@@ -3901,7 +4284,9 @@
     "structure_type": "framework",
     "terminology": {
       "domain_term_density": 1.0,
-      "domains": ["product-design"],
+      "domains": [
+        "product-design"
+      ],
       "cultural_terms": [],
       "terms_defined_inline": 1
     },
@@ -3938,10 +4323,18 @@
       "implementation_time": "ongoing"
     },
     "read_next": [
-      { "slug": "commercial-home", "reason": "companion-product-design-framework" },
-      { "slug": "standards", "reason": "related-product-evaluation-theme" }
+      {
+        "slug": "commercial-home",
+        "reason": "companion-product-design-framework"
+      },
+      {
+        "slug": "standards",
+        "reason": "related-product-evaluation-theme"
+      }
     ],
-    "enhances": ["products-theme"]
+    "enhances": [
+      "products-theme"
+    ]
   },
   "speech-to-text-forecast": {
     "word_count": 280,
@@ -3949,8 +4342,14 @@
     "structure_type": "analysis",
     "terminology": {
       "domain_term_density": 2.5,
-      "domains": ["technology", "deaf-culture"],
-      "cultural_terms": ["deaf", "ASL"],
+      "domains": [
+        "technology",
+        "deaf-culture"
+      ],
+      "cultural_terms": [
+        "deaf",
+        "ASL"
+      ],
       "terms_defined_inline": 1
     },
     "content_markers": {
@@ -3982,10 +4381,19 @@
       "cultural_barrier": "low"
     },
     "read_next": [
-      { "slug": "youre-not-my-dad", "reason": "related-deaf-accessibility-advocacy" },
-      { "slug": "the-definition-of-deaf", "reason": "broader-deaf-culture-context" }
+      {
+        "slug": "youre-not-my-dad",
+        "reason": "related-deaf-accessibility-advocacy"
+      },
+      {
+        "slug": "the-definition-of-deaf",
+        "reason": "broader-deaf-culture-context"
+      }
     ],
-    "enhances": ["deaf-culture-theme", "products-theme"]
+    "enhances": [
+      "deaf-culture-theme",
+      "products-theme"
+    ]
   },
   "youre-not-my-dad": {
     "word_count": 380,
@@ -3993,8 +4401,16 @@
     "structure_type": "advocacy",
     "terminology": {
       "domain_term_density": 2.1,
-      "domains": ["deaf-culture", "social-justice"],
-      "cultural_terms": ["ASL", "deaf", "Deaf", "paternalism"],
+      "domains": [
+        "deaf-culture",
+        "social-justice"
+      ],
+      "cultural_terms": [
+        "ASL",
+        "deaf",
+        "Deaf",
+        "paternalism"
+      ],
       "terms_defined_inline": 2
     },
     "content_markers": {
@@ -4032,15 +4448,26 @@
       "variance_by": [
         {
           "dimension": "deaf-culture-familiarity",
-          "range": [65, 95]
+          "range": [
+            65,
+            95
+          ]
         }
       ]
     },
     "read_next": [
-      { "slug": "irrationally-speaking", "reason": "deeper-coda-identity-personal-essay" },
-      { "slug": "deafhood-unheard", "reason": "fuller-argument-deaf-advocacy" }
+      {
+        "slug": "irrationally-speaking",
+        "reason": "deeper-coda-identity-personal-essay"
+      },
+      {
+        "slug": "deafhood-unheard",
+        "reason": "fuller-argument-deaf-advocacy"
+      }
     ],
-    "enhances": ["deaf-culture-theme"]
+    "enhances": [
+      "deaf-culture-theme"
+    ]
   },
   "not-the-point": {
     "word_count": 350,
@@ -4048,7 +4475,9 @@
     "structure_type": "framework",
     "terminology": {
       "domain_term_density": 2.3,
-      "domains": ["communication"],
+      "domains": [
+        "communication"
+      ],
       "cultural_terms": [],
       "terms_defined_inline": 3
     },
@@ -4086,10 +4515,18 @@
       "implementation_time": "immediate"
     },
     "read_next": [
-      { "slug": "say-less-and-more", "reason": "related-communication-minimalism" },
-      { "slug": "the-agreement-between-reader-and-writer", "reason": "related-communication-framework" }
+      {
+        "slug": "say-less-and-more",
+        "reason": "related-communication-minimalism"
+      },
+      {
+        "slug": "the-agreement-between-reader-and-writer",
+        "reason": "related-communication-framework"
+      }
     ],
-    "enhances": ["communication-theme"]
+    "enhances": [
+      "communication-theme"
+    ]
   },
   "dear-love": {
     "word_count": 450,
@@ -4103,7 +4540,9 @@
     },
     "terminology": {
       "domain_term_density": 0.9,
-      "domains": ["psychology"],
+      "domains": [
+        "psychology"
+      ],
       "cultural_terms": [],
       "terms_defined_inline": 0
     },
@@ -4132,11 +4571,23 @@
       "cultural_barrier": "none"
     },
     "read_next": [
-      { "slug": "dear-a-i", "reason": "AI-language parallel version of this letter" },
-      { "slug": "dear-human", "reason": "reverse-perspective parallel letter" },
-      { "slug": "be-right-there", "reason": "connecting essay that explains this set" }
+      {
+        "slug": "dear-a-i",
+        "reason": "AI-language parallel version of this letter"
+      },
+      {
+        "slug": "dear-human",
+        "reason": "reverse-perspective parallel letter"
+      },
+      {
+        "slug": "be-right-there",
+        "reason": "connecting essay that explains this set"
+      }
     ],
-    "enhances": ["communication-theme", "ai-chatbots-theme"]
+    "enhances": [
+      "communication-theme",
+      "ai-chatbots-theme"
+    ]
   },
   "dear-a-i": {
     "word_count": 450,
@@ -4150,7 +4601,9 @@
     },
     "terminology": {
       "domain_term_density": 2.4,
-      "domains": ["ai-chatbots"],
+      "domains": [
+        "ai-chatbots"
+      ],
       "cultural_terms": [],
       "terms_defined_inline": 0
     },
@@ -4175,7 +4628,10 @@
     },
     "references": {
       "internal": [
-        { "slug": "dear-love", "type": "conceptual" }
+        {
+          "slug": "dear-love",
+          "type": "conceptual"
+        }
       ],
       "external": 0,
       "referenced_by": []
@@ -4186,12 +4642,23 @@
       "domain_barrier": "low",
       "cultural_barrier": "none"
     },
-    "read_before": ["dear-love"],
-    "read_next": [
-      { "slug": "dear-human", "reason": "companion-letter-reverse-perspective" },
-      { "slug": "be-right-there", "reason": "explanatory-connecting-essay" }
+    "read_before": [
+      "dear-love"
     ],
-    "enhances": ["ai-chatbots-theme", "communication-theme"]
+    "read_next": [
+      {
+        "slug": "dear-human",
+        "reason": "companion-letter-reverse-perspective"
+      },
+      {
+        "slug": "be-right-there",
+        "reason": "explanatory-connecting-essay"
+      }
+    ],
+    "enhances": [
+      "ai-chatbots-theme",
+      "communication-theme"
+    ]
   },
   "dear-human": {
     "word_count": 460,
@@ -4205,7 +4672,9 @@
     },
     "terminology": {
       "domain_term_density": 1.5,
-      "domains": ["ai-chatbots"],
+      "domains": [
+        "ai-chatbots"
+      ],
       "cultural_terms": [],
       "terms_defined_inline": 0
     },
@@ -4230,8 +4699,14 @@
     },
     "references": {
       "internal": [
-        { "slug": "dear-love", "type": "conceptual" },
-        { "slug": "dear-a-i", "type": "conceptual" }
+        {
+          "slug": "dear-love",
+          "type": "conceptual"
+        },
+        {
+          "slug": "dear-a-i",
+          "type": "conceptual"
+        }
       ],
       "external": 0,
       "referenced_by": []
@@ -4242,12 +4717,24 @@
       "domain_barrier": "low",
       "cultural_barrier": "none"
     },
-    "read_before": ["dear-love", "dear-a-i"],
-    "read_next": [
-      { "slug": "be-right-there", "reason": "connecting-essay-explains-this-set" },
-      { "slug": "stop-avoiding-yourself-the-ai-in-you", "reason": "related-human-ai-identity" }
+    "read_before": [
+      "dear-love",
+      "dear-a-i"
     ],
-    "enhances": ["ai-chatbots-theme", "communication-theme"]
+    "read_next": [
+      {
+        "slug": "be-right-there",
+        "reason": "connecting-essay-explains-this-set"
+      },
+      {
+        "slug": "stop-avoiding-yourself-the-ai-in-you",
+        "reason": "related-human-ai-identity"
+      }
+    ],
+    "enhances": [
+      "ai-chatbots-theme",
+      "communication-theme"
+    ]
   },
   "noauthor": {
     "word_count": 6,
@@ -4282,10 +4769,18 @@
       "cultural_barrier": "none"
     },
     "read_next": [
-      { "slug": "all-the-right-words-youve-said-or-read", "reason": "related-authorship-language-theme" },
-      { "slug": "the-agreement-between-reader-and-writer", "reason": "related-authorship-communication" }
+      {
+        "slug": "all-the-right-words-youve-said-or-read",
+        "reason": "related-authorship-language-theme"
+      },
+      {
+        "slug": "the-agreement-between-reader-and-writer",
+        "reason": "related-authorship-communication"
+      }
     ],
-    "enhances": ["communication-theme"]
+    "enhances": [
+      "communication-theme"
+    ]
   },
   "be-right-there": {
     "word_count": 350,
@@ -4299,7 +4794,10 @@
     },
     "terminology": {
       "domain_term_density": 1.4,
-      "domains": ["communication", "philosophy"],
+      "domains": [
+        "communication",
+        "philosophy"
+      ],
       "cultural_terms": [],
       "terms_defined_inline": 0
     },
@@ -4318,9 +4816,18 @@
     },
     "references": {
       "internal": [
-        { "slug": "dear-love", "type": "prerequisite" },
-        { "slug": "not-the-point", "type": "conceptual" },
-        { "slug": "the-agreement-between-reader-and-writer", "type": "conceptual" }
+        {
+          "slug": "dear-love",
+          "type": "prerequisite"
+        },
+        {
+          "slug": "not-the-point",
+          "type": "conceptual"
+        },
+        {
+          "slug": "the-agreement-between-reader-and-writer",
+          "type": "conceptual"
+        }
       ],
       "external": 0,
       "referenced_by": []
@@ -4331,12 +4838,23 @@
       "domain_barrier": "none",
       "cultural_barrier": "none"
     },
-    "read_before": ["dear-love", "not-the-point"],
-    "read_next": [
-      { "slug": "dear-love", "reason": "primary-referenced-post" },
-      { "slug": "not-the-point", "reason": "referenced-companion-post" }
+    "read_before": [
+      "dear-love",
+      "not-the-point"
     ],
-    "enhances": ["communication-theme"]
+    "read_next": [
+      {
+        "slug": "dear-love",
+        "reason": "primary-referenced-post"
+      },
+      {
+        "slug": "2-not-the-point",
+        "reason": "referenced-companion-post"
+      }
+    ],
+    "enhances": [
+      "communication-theme"
+    ]
   },
   "the-safer-way-to-boosting-productivity-with-ai": {
     "word_count": 200,
@@ -4344,7 +4862,10 @@
     "structure_type": "how-to",
     "terminology": {
       "domain_term_density": 3.5,
-      "domains": ["ai-chatbots", "productivity"],
+      "domains": [
+        "ai-chatbots",
+        "productivity"
+      ],
       "cultural_terms": [],
       "terms_defined_inline": 3
     },
@@ -4383,10 +4904,18 @@
       "implementation_time": "immediate"
     },
     "read_next": [
-      { "slug": "right-click-for-ai", "reason": "related-practical-ai-productivity" },
-      { "slug": "stop-avoiding-yourself-the-ai-in-you", "reason": "deeper-ai-usage-framework" }
+      {
+        "slug": "right-click-for-ai",
+        "reason": "related-practical-ai-productivity"
+      },
+      {
+        "slug": "stop-avoiding-yourself-the-ai-in-you",
+        "reason": "deeper-ai-usage-framework"
+      }
     ],
-    "enhances": ["ai-chatbots-theme"]
+    "enhances": [
+      "ai-chatbots-theme"
+    ]
   },
   "has-he-tried-to-eat-his-poop": {
     "word_count": 280,
@@ -4421,10 +4950,18 @@
       "cultural_barrier": "none"
     },
     "read_next": [
-      { "slug": "asking", "reason": "deeper-analysis-of-the-question-dynamic" },
-      { "slug": "how-to-climb-mountains-of-grief-dont", "reason": "related-self-reflection-theme" }
+      {
+        "slug": "asking",
+        "reason": "deeper-analysis-of-the-question-dynamic"
+      },
+      {
+        "slug": "how-to-climb-mountains-of-grief-dont",
+        "reason": "related-self-reflection-theme"
+      }
     ],
-    "enhances": ["communication-theme"]
+    "enhances": [
+      "communication-theme"
+    ]
   },
   "how-to-unstick-or-unpin-a-post-in-wordpress-2024": {
     "word_count": 240,
@@ -4432,7 +4969,10 @@
     "structure_type": "how-to",
     "terminology": {
       "domain_term_density": 2.1,
-      "domains": ["wordpress", "web-publishing"],
+      "domains": [
+        "wordpress",
+        "web-publishing"
+      ],
       "cultural_terms": [],
       "terms_defined_inline": 0
     },
@@ -4468,7 +5008,10 @@
       "variance_by": [
         {
           "dimension": "wordpress-familiarity",
-          "range": [30, 95]
+          "range": [
+            30,
+            95
+          ]
         }
       ]
     },
@@ -4479,9 +5022,14 @@
       "implementation_time": "immediate"
     },
     "read_next": [
-      { "slug": "right-click-for-ai", "reason": "related-practical-tech-productivity" }
+      {
+        "slug": "right-click-for-ai",
+        "reason": "related-practical-tech-productivity"
+      }
     ],
-    "enhances": ["products-theme"]
+    "enhances": [
+      "products-theme"
+    ]
   },
   "asking": {
     "word_count": 380,
@@ -4495,7 +5043,10 @@
     },
     "terminology": {
       "domain_term_density": 2.6,
-      "domains": ["psycholinguistics", "communication"],
+      "domains": [
+        "psycholinguistics",
+        "communication"
+      ],
       "cultural_terms": [],
       "terms_defined_inline": 1
     },
@@ -4528,10 +5079,18 @@
       "cultural_barrier": "none"
     },
     "read_next": [
-      { "slug": "has-he-tried-to-eat-his-poop", "reason": "related-questions-as-practice" },
-      { "slug": "read-receipts-irl", "reason": "related-communication-dynamics" }
+      {
+        "slug": "has-he-tried-to-eat-his-poop",
+        "reason": "related-questions-as-practice"
+      },
+      {
+        "slug": "read-receipts-irl",
+        "reason": "related-communication-dynamics"
+      }
     ],
-    "enhances": ["communication-theme"]
+    "enhances": [
+      "communication-theme"
+    ]
   },
   "therapists-for-everyone-else": {
     "word_count": 580,
@@ -4545,7 +5104,10 @@
     },
     "terminology": {
       "domain_term_density": 2.4,
-      "domains": ["psychology", "social-media"],
+      "domains": [
+        "psychology",
+        "social-media"
+      ],
       "cultural_terms": [],
       "terms_defined_inline": 1
     },
@@ -4584,10 +5146,18 @@
       "cultural_barrier": "none"
     },
     "read_next": [
-      { "slug": "how-to-climb-mountains-of-grief-dont", "reason": "related-psychology-practical-insight" },
-      { "slug": "quit-psychoanalyzing-me", "reason": "related-psychology-as-discipline" }
+      {
+        "slug": "how-to-climb-mountains-of-grief-dont",
+        "reason": "related-psychology-practical-insight"
+      },
+      {
+        "slug": "quit-psychoanalyzing-me",
+        "reason": "related-psychology-as-discipline"
+      }
     ],
-    "enhances": ["analytical-essays-theme"]
+    "enhances": [
+      "analytical-essays-theme"
+    ]
   },
   "honk-theory": {
     "word_count": 400,
@@ -4601,7 +5171,11 @@
     },
     "terminology": {
       "domain_term_density": 2.8,
-      "domains": ["linguistics", "pragmatics", "psycholinguistics"],
+      "domains": [
+        "linguistics",
+        "pragmatics",
+        "psycholinguistics"
+      ],
       "cultural_terms": [],
       "terms_defined_inline": 2
     },
@@ -4634,10 +5208,18 @@
       "cultural_barrier": "none"
     },
     "read_next": [
-      { "slug": "say-nothing", "reason": "explicit-continuation-same-language-theme" },
-      { "slug": "introduction-to-empirical-pragmatism", "reason": "related-linguistics-framework" }
+      {
+        "slug": "say-nothing",
+        "reason": "explicit-continuation-same-language-theme"
+      },
+      {
+        "slug": "introduction-to-empirical-pragmatism",
+        "reason": "related-linguistics-framework"
+      }
     ],
-    "enhances": ["language-science-theme"]
+    "enhances": [
+      "language-science-theme"
+    ]
   },
   "say-nothing": {
     "word_count": 490,
@@ -4651,7 +5233,10 @@
     },
     "terminology": {
       "domain_term_density": 2.0,
-      "domains": ["pragmatics", "communication"],
+      "domains": [
+        "pragmatics",
+        "communication"
+      ],
       "cultural_terms": [],
       "terms_defined_inline": 2
     },
@@ -4674,7 +5259,10 @@
     },
     "references": {
       "internal": [
-        { "slug": "honk-theory", "type": "prerequisite" }
+        {
+          "slug": "honk-theory",
+          "type": "prerequisite"
+        }
       ],
       "external": 0,
       "referenced_by": []
@@ -4691,12 +5279,23 @@
       "has_examples": true,
       "implementation_time": "immediate"
     },
-    "read_before": ["honk-theory"],
-    "read_next": [
-      { "slug": "honk-theory", "reason": "prerequisite-explicitly-referenced" },
-      { "slug": "not-the-point", "reason": "related-communication-minimalism" }
+    "read_before": [
+      "honk-theory"
     ],
-    "enhances": ["communication-theme", "language-science-theme"]
+    "read_next": [
+      {
+        "slug": "honk-theory",
+        "reason": "prerequisite-explicitly-referenced"
+      },
+      {
+        "slug": "2-not-the-point",
+        "reason": "related-communication-minimalism"
+      }
+    ],
+    "enhances": [
+      "communication-theme",
+      "language-science-theme"
+    ]
   },
   "form-vs-function": {
     "word_count": 700,
@@ -4710,7 +5309,11 @@
     },
     "terminology": {
       "domain_term_density": 2.1,
-      "domains": ["philosophy", "linguistics", "cognitive-science"],
+      "domains": [
+        "philosophy",
+        "linguistics",
+        "cognitive-science"
+      ],
       "cultural_terms": [],
       "terms_defined_inline": 3
     },
@@ -4750,10 +5353,18 @@
       "cultural_barrier": "none"
     },
     "read_next": [
-      { "slug": "introduction-to-empirical-pragmatism", "reason": "related-philosophy-of-language" },
-      { "slug": "all-the-right-words-youve-said-or-read", "reason": "related-words-and-meaning-theme" }
+      {
+        "slug": "introduction-to-empirical-pragmatism",
+        "reason": "related-philosophy-of-language"
+      },
+      {
+        "slug": "all-the-right-words-youve-said-or-read",
+        "reason": "related-words-and-meaning-theme"
+      }
     ],
-    "enhances": ["language-science-theme"]
+    "enhances": [
+      "language-science-theme"
+    ]
   },
   "the-unedited-war-story-of-a-veteran": {
     "word_count": 1200,
@@ -4767,8 +5378,16 @@
     },
     "terminology": {
       "domain_term_density": 1.8,
-      "domains": ["military", "psychology"],
-      "cultural_terms": ["veteran", "PTSD", "Marine", "boot camp"],
+      "domains": [
+        "military",
+        "psychology"
+      ],
+      "cultural_terms": [
+        "veteran",
+        "PTSD",
+        "Marine",
+        "boot camp"
+      ],
       "terms_defined_inline": 0
     },
     "referential_density": {
@@ -4797,8 +5416,14 @@
     },
     "references": {
       "internal": [
-        { "slug": "a-need-for-combat", "type": "conceptual" },
-        { "slug": "15-lead-me-home", "type": "conceptual" }
+        {
+          "slug": "a-need-for-combat",
+          "type": "conceptual"
+        },
+        {
+          "slug": "15-lead-me-home",
+          "type": "conceptual"
+        }
       ],
       "external": 3,
       "referenced_by": []
@@ -4811,15 +5436,26 @@
       "variance_by": [
         {
           "dimension": "military-familiarity",
-          "range": [65, 95]
+          "range": [
+            65,
+            95
+          ]
         }
       ]
     },
     "read_next": [
-      { "slug": "a-need-for-combat", "reason": "referenced-companion-post" },
-      { "slug": "the-intellectual-boot-camp", "reason": "related-veteran-perspective" }
+      {
+        "slug": "a-need-for-combat",
+        "reason": "referenced-companion-post"
+      },
+      {
+        "slug": "the-intellectual-boot-camp",
+        "reason": "related-veteran-perspective"
+      }
     ],
-    "enhances": ["military-theme"]
+    "enhances": [
+      "military-theme"
+    ]
   },
   "bot-therapy": {
     "word_count": 1400,
@@ -4833,7 +5469,11 @@
     },
     "terminology": {
       "domain_term_density": 3.4,
-      "domains": ["ai-chatbots", "mental-health", "psychology"],
+      "domains": [
+        "ai-chatbots",
+        "mental-health",
+        "psychology"
+      ],
       "cultural_terms": [],
       "terms_defined_inline": 4
     },
@@ -4880,11 +5520,17 @@
       "variance_by": [
         {
           "dimension": "ai-usage",
-          "range": [50, 95]
+          "range": [
+            50,
+            95
+          ]
         },
         {
           "dimension": "mental-health-literacy",
-          "range": [75, 98]
+          "range": [
+            75,
+            98
+          ]
         }
       ]
     },
@@ -4895,9 +5541,17 @@
       "implementation_time": "immediate"
     },
     "read_next": [
-      { "slug": "stop-avoiding-yourself-the-ai-in-you", "reason": "foundational-ai-chatbot-framework" },
-      { "slug": "therapists-for-everyone-else", "reason": "related-therapy-psychology-context" }
+      {
+        "slug": "stop-avoiding-yourself-the-ai-in-you",
+        "reason": "foundational-ai-chatbot-framework"
+      },
+      {
+        "slug": "therapists-for-everyone-else",
+        "reason": "related-therapy-psychology-context"
+      }
     ],
-    "enhances": ["ai-chatbots-theme"]
+    "enhances": [
+      "ai-chatbots-theme"
+    ]
   }
 }

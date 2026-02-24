@@ -103,5 +103,3 @@ As I continue to watch him, he elaborates on what he hears by conducting an orch
 In my mind's eye, my mom is grinning back. I wish she could see this. George takes the headphones off. "That was so nice."
 
 Ingenuousness is nearly undetectable, which makes it all the more endearing.
-
-Continue reading: (/blog/2013/04/23/9-emotional-warfare/)

@@ -47,5 +47,3 @@ The land is really flat here, so the horizon is vast. Mountains guard our North,
 ===
 
 On the top bunk, third down on the left, I'm settling into a checkpoint in my life. This is the bed I have for the next three months. These are the three months of my life the last few years have built up to. It's no culture shock being in a tent surrounded by people I don't know. Marines are generally similar, and after moving from bed to bed for so long, I'm not sure if there's a bed I miss being in. Except the one in D.C. That one was awesome.
-
-Continue reading: 4. Haircut hysteria

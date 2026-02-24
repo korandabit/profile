@@ -98,5 +98,3 @@ Christmas in the 'stan: 34.5 hours a day, one day a year. I'm glad to be here.
 
 **My belated present**
 The 27th, two days ago, I got 10 hours of sleep, almost completely uninterrupted (unavoidable bathroom break). I have sent this to the counsel in my head, and officially approved it as a wonderful belated Christmas gift. In coordination with the Man up above, the gifter had to be my bunk mate, who as it turns out, coincidentally left home on leave the 26th.
-
-Continue reading: 8. The sweeter side of work

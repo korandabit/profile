@@ -43,5 +43,3 @@ Then barber number two strolls in. Ten plus Marines shift positions in the waiti
 Suddenly an explosion of early 90's hiphop bellows from station two. Completely off-gaurd, I was down for the count, laughing. By the time I regained my composure, the haircut was about over. Forget the puddles and the chapstick, hell forget my 12 hour shift, nothing else matters.
 
 Because it's so dry and desolate out here, the smallest thing ignites the greatest interest. Co-barber with the boots with the fur is getting her dosage of poor music. Every hiphop song that never made it, was earning its dollar in the war effort. I'm not the hiphop guru. For that matter, I probably would be in the 15- 20th percentile on my hip-hop education, but I'm positive when I say those were some fresh beats. In 20 minutes when the PX opens, I'm gonna see if they have these quality hits for me to take home.
-
-Continue reading: 5. Webcam starts to capture

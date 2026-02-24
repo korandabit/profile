@@ -48,5 +48,3 @@ But It's not that simple. My goal at the outset was to bring friends and family 
 My hope is this writing will be an exercise in a different kind of *thought repair*. The muddy one of living others' lives. But on a superficial level at least, here are my writings from Afghanistan. I'm re-posting them with pictures from the deployment.
 
 Please enjoy. I was serious about rewarding you with Reese's.
-
-Continue reading:  1: It rained

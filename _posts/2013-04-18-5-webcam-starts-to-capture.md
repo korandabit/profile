@@ -72,5 +72,3 @@ The first thing after acknowledging a good connection, I get to say, "I love you
 The connection never held for more than 2 minutes, and usually lasted only ten seconds. For a half an hour I probably saw more of Skype trying to reconnect than of my folks. In between waiting, the same expectant face, (sometimes frustrated, sometimes relieved, sometimes simply smiling), greeted me.
 
 And despite this, I felt like I was with my parents. I told them how things were and when I'd be coming home. Not a lot of words were exchanged, but that's not the point. I saw them twenty-some short times over, and little by little my reality was restored. The world finally got fair again.
-
-Continue reading: 6. Battle for peace and quiet

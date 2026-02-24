@@ -51,5 +51,3 @@ There's a tranquility. It's not Afghanistan of course, it's the distance from ho
 Without a doubt, the highlight is the moment I step out of work at 7:15 am. I'm eager to write or listen to music, or update my farm. This relaxation time is an average of 100 minutes a day. But if I don't get to do any of that because I'm doing laundry, showering, or just too tired to stay up, I'm not frustrated. The days burn by too quickly. Even if there's a tractor whose sole job is to parade outside my tent and distort my sleep. It only adds creativity to my dreams.
 
 And someday when you're older, I'll tell you just how crazy these dreams are in Afghanistan.
-
-Continue reading: 7. A Christmas special
