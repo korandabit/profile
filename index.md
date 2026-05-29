@@ -10,6 +10,8 @@ Meditations outside the box (AI, society) for human well-being (self and other).
 ## Tech  
 I specialize in designing human-AI interface (prompt engineering). I have 2 years industry experience in software design and consulting, and more than 10 years as a cognitive psychologist. Currently open to human-first AI projects, for consultation. Previously a Software Design Engineer at [Edge RnD](edgernd.com).
 
+[My résumé](docs/resume-mark_koranda.pdf)
+
 ## PhD  
 I graduated with my PhD in Psychology from the University of Wisconsin-Madison, in 2022. I was recognized for [my advocacy work](https://grad.wisc.edu/diversity/graduate-student-service-scholarships/) by the University of Wisconsin-Madison.
 
