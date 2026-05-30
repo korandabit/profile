@@ -30,7 +30,7 @@ I have also investigated:
 - how gestures come to mind when words fail us.  
 - the similarity in mechanisms of [verbal and (non-verbal) action plans](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.01193/full).
  
-[My academic history (CV)](docs/cv-mark_koranda.pdf)
+[My academic history (CV)](/assets/cv-mark_koranda.pdf)
 
 ## Deaf Advocacy  
 Much of my research is influenced by my identity and culture. For me, the goal of (even) basic science is to address real-world problems. I am bi-cultural, raised in both the Deaf community and the broader hearing culture. Check out my blog to learn more about [the intersection of these communities](https://thoughtrepair.wordpress.com/2013/10/05/talk-about-deafhood/). 
