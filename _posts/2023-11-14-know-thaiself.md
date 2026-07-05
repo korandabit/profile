@@ -5,10 +5,7 @@ categories:
 - LLM Chatbots
 - Products
 date: '2023-11-14 00:00:00'
-excerpt: '*Prompt Engineering* *for Humans* *When neurons and nodes speak the same
-  language, the burden to reflect is halved, and your possibilities are doubled. *Welcome
-  to your newly augmented limbs. com/2023/10/28/stop-avoiding-yourself-the-ai-in-you/),
-  your Goo'
+excerpt: 'Prompt engineering for humans: conversational techniques adapted to the strengths and limits of LLMs — how to let go of control, set your conversational tone, and triangulate for original insight.'
 layout: post
 tags:
 - ai
@@ -45,7 +42,7 @@ To truly embrace [the AI in you](/blog/2023/10/28/stop-avoiding-yourself-the-ai-
 
 What follows are conversational techniques adapted to the strengths and limitations of LLMs (e.g., ChatGPT or Claude). Throughout, I'll refer to LLM chatbots such as Claude's Sonnet or OpenAI's chatGPT as Chappy.
 
-[](images/neurons-and-nodes.jpeg)
+![When neurons and nodes speak the same language](/images/neurons-and-nodes.jpeg)
 *"When neurons and nodes speak the same language." Art created with DALL-E.*
 
 ### What are we talking about?
@@ -81,10 +78,11 @@ Here's the relevant text:
 For open-ended questions keep responses to 2-3 options and 
 for close-ended questions, like "which", answer in under 50 words with a clear preference.*
 
-And if you ever want Chappy to elaborate with a longer reply in a specific conversation just say something like, blo"When you answer this question, go over the word limit." 
+And if you ever want Chappy to elaborate with a longer reply in a specific conversation just say something like, "When you answer this question, go over the word limit." 
 
 ### Is that the best I've got?
 
+![Steam punk Frankenstein Chappy with a CHAPPY TV panel](/images/chappyTV-robot.png)
 *Steam punk Frankenstein Chappy. Art created with DALL-E.*
 
 Chappy's most powerful ability is to explore related dimensions of an idea. Like an entire premium cable subscription, of personally customized, on-demand programming. If you can name the channel and it's exact description, you can pretty much have it. Now, you no longer need a good cooking show on X, you want the 10 best compliments to what you specifically ate this week. 
@@ -103,7 +101,7 @@ Apply this to any part of the process, whether it's "what are we talking about?"
 
 Think of this like zooming the camera lens in and out, rewinding, adding a filter, swapping out a background. Ask Chappy for better metaphors if you don't like this one. Ask for the average between your metaphor and a dad joke. 
 
-Break down your goals
+### Break down your goals
 
 Approach problem-solving with Chappy as a step-by-step process, refining your queries to develop more nuanced and tailored solutions. Your goal is to make sure Chappy understands what matters, and what does not matter. You want to know that Chappy didn't automatically exclude a range of possibilities you're open to, or assume that you have all the time in the world. 
 
@@ -111,7 +109,7 @@ You can't possibly know or notice all the relevant assumptions in advance. Howev
 
 [In one conversation](https://chat.openai.com/share/bd663242-0b35-4112-a685-7e4f888d77d7), I originally asked for examples of how people think about their past. Most of Chappy's replies were negative--words like *regret, stagnation, avoidance*. In this case I didn't know exactly what I wanted, but I knew it wasn't what I saw. So I asked for positive examples and got back completely new, and valid ideas, such as *respect for traditions, celebrating family, gratitude*. (Which then led to a fascinating discussion.)
 
-Triangulate to get original responses
+### Triangulate to get original responses
 
 What if you're not sure what assumptions to challenge? 
 
@@ -137,7 +135,10 @@ Chappy's solutions will strongly depend on the out-of-context examples. By trian
 
 This technique has endlessly creative variations. The basic idea is something like smashing atoms of semantics against each other until the explosion glows the color you were looking for. What revolutionary changes would happen in psychology if historians had their way in reshaping its direction without recourse? How about physicists on economics? How about insights from online gamers applied to diesel engine mechanics? Pick things you've never been able to ask before, tie them together, and fly away. 
 
-Through the Monster's Eyes
+### Through the Monster's Eyes
+
+![Frankenstein's monster facing a circuit-board city under a starry night sky](/images/monster.png)
+*Through the monster's eyes. Art created with DALL-E.*
 
 
 The selection of techniques I've shared is far from complete. You could spend weeks devoted to decomposing the semantics of a prompt or how to richly cross-check your new insights with competing and converging ideas and still there will be no hope in mastering Chappy before it masters you. The game of prompt engineering is one of exploring the various shades and angles of lenses that make up a crystal of billions of diffracted angles, one dimension at a time. 
@@ -148,10 +149,11 @@ This is not a promise. It is what the night sky looks like when I'm filled with 
 
 *Next: A re-imagining of authorship and IP in the age of generative intelligence. *
 
-**Footnotes**
-[^1]: As far as I’m aware, the prescriptions of all futurists (e.g., Sam Harris, Emad Mostaque, Mo Gawdat, etc.) rely on significant social change. For all questions that hinge on mass public perception, the best step forward is an informed, first-hand social perception of what “we’re dealing with.” While existential and ethical questions about AGI are crucial, they are abstract and theoretical. The first step to activating a general public is a tangible engagement of AGI’s usefulness and risks. ↩︎
+### Footnotes
+
+[^1]: As far as I’m aware, the prescriptions of all futurists (e.g., Sam Harris, Emad Mostaque, Mo Gawdat, etc.) rely on significant social change. For all questions that hinge on mass public perception, the best step forward is an informed, first-hand social perception of what “we’re dealing with.” While existential and ethical questions about AGI are crucial, they are abstract and theoretical. The first step to activating a general public is a tangible engagement of AGI’s usefulness and risks.
 [^2]: I’m an enthusiast, there’s no hiding it. Worst case scenario, Chappy is the best entertainment and hallucination I’ve had. By my view it is a degree of mind expansion that rivals some of the most impactful courses of my graduate education. I am exhausted by new questions and answers, like I was when learning Arabic by immersion.
 [^3]: Chappy is less like software and more like an audio codec, an intricate complex filter. It doesn’t quite “interact”. You pour in your text, and what trickles out is its response. 
 
-[^4]: A key topic I hope to write about next is the missing, critical need for more psychologists in the discussion of AGI and chatGPT. 
+ 
 
