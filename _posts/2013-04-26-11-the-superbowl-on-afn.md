@@ -26,7 +26,7 @@ analysis:
 
 
 
-**Feb 8th, 2010 (Entry 15)**
+### Feb 8th, 2010 (Entry 15)
 
 ![American Forces Network (AFN) logo](/images/afn.jpg)
 

@@ -44,7 +44,8 @@ George, a contractor who works with us, is almost 60. This man has been on base 
 
 "You're right." I also like the really rich colored ones: dark blue, purple, maroon. They're fruity too.
 
-**0200**
+### 0200
+
 "Where you going with that, Marine?"
 
 "I can't eat anymore."
@@ -86,7 +87,7 @@ I continue to explain to George that it was a really big sucker, but he's taking
 
 "Oh that's good. You're young, it's good for you. I'm old, I can't have that one." It's true. George was a pharmacist.
 
-**0400**
+### 0400
 
 The 4 am doldrums are a different breed. The 2 am boredom strikes as a psychological difficulty- there's still five hours left of work (seven for everyone else on shift), but this one while stripped of the distant finish line, lays a surplus of laziness, a lack of energy to do anything truly contributing, right on top of your workload. I'm too lazy to brush it off.
 

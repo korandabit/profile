@@ -30,7 +30,7 @@ analysis:
 
 
 
-**(Entry 16)**
+### (Entry 16)
 
 ![Limbo — the holding tent](/images/img_6062.jpg) Limbo.
 
