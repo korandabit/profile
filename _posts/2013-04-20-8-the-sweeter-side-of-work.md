@@ -28,7 +28,8 @@ analysis:
 
 ![Me and my trusted coworker, George](/images/img_6104.jpg) Me and my trusted coworker, George.
 
-2300
+### 2300
+
 "All things, except salt and water comes from agriculture. You know that?"
 
 George, a contractor who works with us, is almost 60. This man has been on base for over a year. He's on the home stretch, but he's got 8 months to go. He works next to me, and finds it easy to strike up conversation with a youth who has much to learn (me), especially once we've settled into our shift and properly assessed the workload. Before I was born, he worked in pharmaceuticals, and he has a bachelors in microbiology.

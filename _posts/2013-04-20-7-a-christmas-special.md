@@ -58,8 +58,7 @@ Some might've called this Christmas eve. Not if you were in Afghanistan. I was o
 
 At about 1 am local I witnessed Bollywood's recreation of my church basement, in no other place than the chow hall. There's no time for back story. Later. Only observations. From notes I scrawled out while eating Christmas breakfast:
 
-The Nepalese Save Christmas.
-******
+### The Nepalese Save Christmas
 
 1. Behind the scenes- the regional boss comes to the night shift workers with a barrel of Christmas lights, streamers and other juiced flashers to coat the Christmas tree (which is now struggling to stay upright), and roughly 1000 cubic yards of Styrofoam to recreate all known Christmas icons. Still, behind the scenes workers poll to generate a list of known icons and possible ways to affiliate them with our mission. It includes: Santa (unknown height), Frosty (unknown height, shape, features), Joseph, Mary, baby angels (unknown affiliation to snowman and santa), reindeer (unknown shape and color) coming soon to a Nativity scene near you.
 
@@ -72,10 +71,12 @@ Jesus wasn't in the manger, properly so, until dinner time. At which point it ge
 
 ![Me at the Christmas flag football game, 2009](/images/img_6041.jpg) That's me. I might not be able to comment on a pro game, but I'm a brick wall of defense when it comes to flag football. Christmas, 2009.
 
-Family games
+### Family games
+
 The nearest thing the Marine Corps could come up with as far as a familial tradition, was to play a contact sport and put a wager on it. Then of course it had to be O.R.M.ed  down to flag football. Worry not, we still managed to make it dangerous. Let's fast-forward. My team, the smart guys who do the hard work, got our asses kicked, 7 to 1. I think we completed 7 passes the whole game. To help mitigate the embarrassment, I offered to race their all-star on foot (and to a game of chess, but that didn't pass ORM). A few others joined in, and we didn't lose. Their star pulled a muscle or something mid race, to save face from losing of course.
 
-1200-2359
+### 1200-2359
+
 Christmas day in the states started (12:00 am) at about 10:30 am local. So I went to sleep to let you all catch up. Oh yea kids, the other catch is you have to work on Christmas. BUT!!! Boss gave everyone 6 hours off. During shift we all mulled around pretending there was another care package stocking to open somewhere, or a misplaced paper to retrieve until the time adequately passed and we could get on with our hardcore celebration (and we were divided into two half shifts, so there was even LESS accountability).
 
 Before going into work to finish off the 25th in Afghanistan however, I revisited the chow hall for the Christmas feast. They took 'feast' to be figurative though, as the food was little different from normal meals. (I'm still ticked about breakfast. They took away my biscuits and gravy allegedly to use oven space for the feast. Unless they used the ovens to bake styrofoam for the visual feast, I fail to see why they chose not to make my staple food.) If you had seen the lone reindeer pulling Santa's freshly made sleigh, however, you too would have forgotten food.
