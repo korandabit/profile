@@ -27,7 +27,7 @@ analysis:
 
 *I was originally trained in Arabic translation, and served as a translator for the first four years of my five year enlistment. In the last year I took a fantastic opportunity to move to D.C. for five months for a crash course in Pashto. After our short training we would then go directly to Afghanistan, because there was an extreme poverty of military translators at the time. Joe and I were sent from our original unit in GA, to join 3rd Radio Battalion on their in-progress deployment. After a month of training in GA, we flew to HI, underwent the minimum deployment training required, and took off in a small pool of augments to join the Battalion. *
 
-(http://thoughtrepair.wordpress.com/wp-content/uploads/2013/04/afgh.jpg) Home away from home: Camp Leatherneck, Afghanistan.
+![Home away from home: Camp Leatherneck, Afghanistan](/images/afgh.jpg) Home away from home: Camp Leatherneck, Afghanistan.
 
 Dec. 7th, 2009 (Entry 7)
 And when we arrived to our base, for the first time in what they said was months, it rained. And not surprisingly, since our arrival overcast or cloudless skies haven't brought another drop.

@@ -22,7 +22,7 @@ title: 'Man''s (inner) best friend: his feelings'
 
 
 
-(http://thoughtrepair.wordpress.com/wp-content/uploads/2013/03/img_2755b.jpg)
+![A frozen, snow-covered lake stretching to the horizon](/images/img_2755b.jpg)
 
 "Why do I still care about her if I know she'll never love me back?"
 "I'm not sure I'm still in love, because so many women continue to catch my eye."

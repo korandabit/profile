@@ -30,7 +30,7 @@ analysis:
 
 *When we were still in Hawaii, we learned a close Marine had committed suicide. There wasn't much opportunity to reconcile this during predeployment training. A series of heavy fatalities awakened the need to connect with the unresolved emotions service members so often never have a chance to address. In my first year at St. Thomas, I rewrote this as a story that was published in the Summit Avenue Review. It appears here in its original form.*
 
-(http://thoughtrepair.wordpress.com/wp-content/uploads/2013/04/casualty_return_afgha_davi_t618.jpg) AP Photo/Steve Ruark: A Marine carry team moves the fallen onto a plane to be returned to the states.
+![A Marine carry team moves the fallen onto a plane to be returned to the states (AP Photo/Steve Ruark)](http://thoughtrepair.wordpress.com/wp-content/uploads/2013/04/casualty_return_afgha_davi_t618.jpg) AP Photo/Steve Ruark: A Marine carry team moves the fallen onto a plane to be returned to the states.
 
 **Blackness**
 I suppose you'd call it meditation, contemplation, or being lost. I've stared into the blackness so many times now. The sheer unknown, non-attributed void heightens awareness and thought. I look for myself there. I look for other answers. It's an act of humanity, an act of living to stare, to wonder, to attempt to know what there is amidst the blackness. After a while, it seems as if you're staring at death.

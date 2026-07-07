@@ -28,7 +28,7 @@ analysis:
 
 **Feb 8th, 2010 (Entry 15)**
 
-(http://thoughtrepair.wordpress.com/wp-content/uploads/2013/04/afn.jpg)
+![American Forces Network (AFN) logo](/images/afn.jpg)
 
 In Hemingway's "A Farewell to Arms," the WWI soldiers had their horse races to watch. We've got our football games. But out here, the sports aren't aired on the high-production networks that sponsor them, such as NBC, Fox, or ESPN, they're aired with homegrown military programming on AFN.
 

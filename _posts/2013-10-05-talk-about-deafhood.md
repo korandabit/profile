@@ -57,7 +57,7 @@ Here are the answers to the all the popular questions.
 
 	- Some Deaf people have been known to play Angry Birds.
 
-(http://thoughtrepair.wordpress.com/wp-content/uploads/2013/10/tdd_tty.jpg) 
+![A TTY/TDD text telephone device](/images/tdd_tty.jpg) 
 The phone cradles across the top and a dialog between two of these (sounding like a fax machine) would put words across the screen.
 
 Those are the basics. For round two, I'll explain some of the things that aren't usually asked about: Why '[hearing-impaired](http://www.nad.org/issues/american-sign-language/community-and-culture-faq)' is inappropriate. The connotation to lip-reading. The difference between a mainstream and an all-deaf institute. What [audism](http://en.wikipedia.org/wiki/Audism) is. What happens when you turn on a TTY instead of picking up the phone for an unsuspecting solicitor. (It's a fun prank.)

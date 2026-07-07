@@ -28,7 +28,7 @@ analysis:
 
 **Dec. 29th (Entry 11)**
 
-(http://thoughtrepair.wordpress.com/wp-content/uploads/2013/04/img_6032.jpg) A Christmas tree on Camp Leatherneck
+![A Christmas tree on Camp Leatherneck](/images/img_6032.jpg) A Christmas tree on Camp Leatherneck
 
 A quick poem about time:
 
@@ -50,7 +50,7 @@ This last one isn't a new realization to me, but it being half of 24/7, the end-
 
 Let me tell you about a more interesting anomaly in time, which also comes in a half day increment: time ZONES. Well almost, I'm only 10.5 hours away from Minnesota time.
 
-Five to twelve year olds, listen up. I'm gonna tell you how I managed to get almost a day and a half of Christmas. And the best part? The first 12 hours were EARLY!!! Now, once I tell you, it's your job to explain to younger brothers and sisters. All you have to do is move to Afghanistan right before the holidays!![](http://thoughtrepair.wordpress.com/wp-includes/js/tinymce/plugins/wordpress/img/trans.gif) The trick to get it to work right however, is you have to leave your family at home. But 34 hours of Christmas! (For the 98% Muslim and roughly 1% Hindu Afghans, this might not be as special a phenomenon, but for the rest of us occupying Christians, it's amazing.)
+Five to twelve year olds, listen up. I'm gonna tell you how I managed to get almost a day and a half of Christmas. And the best part? The first 12 hours were EARLY!!! Now, once I tell you, it's your job to explain to younger brothers and sisters. All you have to do is move to Afghanistan right before the holidays! The trick to get it to work right however, is you have to leave your family at home. But 34 hours of Christmas! (For the 98% Muslim and roughly 1% Hindu Afghans, this might not be as special a phenomenon, but for the rest of us occupying Christians, it's amazing.)
 
 **25DEC 0001-1200**
 Some might've called this Christmas eve. Not if you were in Afghanistan. I was on shift for much of this period. Even still, weeks of aggravating Christmas cheer overkill decorations came to shine when we dimmed all the overhead lights and watched "Home Alone" and "A Christmas Story." But everyone knows Kevin outpunks Ralphie for Christmas tribute any day. Comments/arguments welcome.
@@ -69,7 +69,7 @@ The Nepalese Save Christmas.
 4. I get up after my meal to revisit the statues- styrofoam cut-outs with color pencil or Crayola Washable markers detailing our traditions. The miniature lone snowman, 4 star general "Snowman," holds an M-16. At least it's with both hands . The other frosty is over by the manger with Joseph and Mary. And Santa. The angels are there too though. The faces were all illustrated drooping to the left, as if they had put it too close to the oven. Santa was a midget.
 Jesus wasn't in the manger, properly so, until dinner time. At which point it gets much, much better.
 
-(http://thoughtrepair.wordpress.com/wp-content/uploads/2013/04/img_6041.jpg) That's me. I might not be able to comment on a pro game, but I'm a brick wall of defense when it comes to flag football. Christmas, 2009.
+![Me at the Christmas flag football game, 2009](/images/img_6041.jpg) That's me. I might not be able to comment on a pro game, but I'm a brick wall of defense when it comes to flag football. Christmas, 2009.
 
 Family games
 The nearest thing the Marine Corps could come up with as far as a familial tradition, was to play a contact sport and put a wager on it. Then of course it had to be O.R.M.ed  down to flag football. Worry not, we still managed to make it dangerous. Let's fast-forward. My team, the smart guys who do the hard work, got our asses kicked, 7 to 1. I think we completed 7 passes the whole game. To help mitigate the embarrassment, I offered to race their all-star on foot (and to a game of chess, but that didn't pass ORM). A few others joined in, and we didn't lose. Their star pulled a muscle or something mid race, to save face from losing of course.

@@ -26,7 +26,7 @@ analysis:
 
 
 
-(http://thoughtrepair.wordpress.com/wp-content/uploads/2013/04/img_6104.jpg) Me and my trusted coworker, George.
+![Me and my trusted coworker, George](/images/img_6104.jpg) Me and my trusted coworker, George.
 
 2300
 "All things, except salt and water comes from agriculture. You know that?"

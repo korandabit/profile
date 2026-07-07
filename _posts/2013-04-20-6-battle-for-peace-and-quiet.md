@@ -23,7 +23,7 @@ analysis:
 
 
 
-(http://thoughtrepair.wordpress.com/wp-content/uploads/2013/04/img_6015.jpg) Outside my tent, Camp Leatherneck, Afghanistan
+![Outside my tent, Camp Leatherneck, Afghanistan](/images/img_6015.jpg) Outside my tent, Camp Leatherneck, Afghanistan
 
 Convoys rumble by in an endless thunder. Helicopters rip the space-time fibers of the sky bellowing the pre-attack drone of a moonsized wasp nest. I'm getting a blink and a half of sleep. A fireteam  of ASVAB-waivers  are howling encouragement to a background of heavy-equipment operators I've distinctly identified are trying to hurl steel as hard as they can against uneven piles of steel.
 

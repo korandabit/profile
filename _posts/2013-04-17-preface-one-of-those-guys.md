@@ -26,7 +26,7 @@ analysis:
 
 
 
-(http://thoughtrepair.wordpress.com/wp-content/uploads/2013/04/img_5996.gif) Me writing, en-route to Afghanistan, Nov. 2009
+![Me writing, en-route to Afghanistan, Nov. 2009](/images/img_5996.gif) Me writing, en-route to Afghanistan, Nov. 2009
 I want you to try to imagine something. You're the son of two deaf parents, an aspiring teenage novelist struggling to make the leap to college, so you join the Marines. Why the Marines? To get a taste of something raw, for good writing material. You go to boot camp, learn some language (Arabic and Pashto), dig into the Marine warrior culture, and deploy to Afghanistan. You're me, three years ago. By then of course, I had somehow changed my mind and wanted to be a psychologist.
 
 Now that I've won your readership in the second paragraph, I'd actually like you to spend a little time re-reading the first one. If you're like most people, there's a part (or three) in there that you disconnected from, that re-translated what I wrote to "one of those guys." Resist the re-translation and automatic categorization.
