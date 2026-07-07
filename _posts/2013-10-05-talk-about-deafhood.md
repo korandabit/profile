@@ -66,7 +66,4 @@ For most of my life I resented the gap between questions I answered and question
 
 I can tell you what it's like to listen for three. I can tell you how impressive it is to be raised by two adults essentially denied a language growing up. I can tell you where convictions against a hearing world come from. Maybe you've got questions. I'm not interested in differences anymore, so let's talk.
 
-**Continue with **The Definition of Deaf
-Related: A world without music
-
-** The title of this piece was originally 'talk about deafness.' A reader pointed out to me that deafhood is a term which better captures the deaf-positive identity. I'm grateful for his observation, and the learning and dialog that comes from putting my thoughts out there.*
+*The title of this piece was originally 'talk about deafness.' A reader pointed out to me that deafhood is a term which better captures the deaf-positive identity. I'm grateful for his observation, and the learning and dialog that comes from putting my thoughts out there.*
