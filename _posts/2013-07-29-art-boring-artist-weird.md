@@ -42,8 +42,8 @@ Instead, try this dialog with a kid:
 
 We should never stop wondering what compels other people to do things. Trying to get to know others' experiences is probably the only way we can resolve differences. Other questions you shouldn't short-change:
 
-	- Why's that man kneeling with his eyes closed?
+- Why's that man kneeling with his eyes closed?
 
-	- Why did that boy blow the bomb up?
+- Why did that boy blow the bomb up?
 
 It ought to be irrevocably interesting to us when someone does and sees something differently than we would, given that we all have the same capacity for reality. Whether generally good or bad, symbols of behavior, like art or dramatic acts of violence, can be insightful. Let's not short change our, or at least not our children's perspective of the world. In this way, I find television shows- reality, documentary, sitcom, drama- very interesting. There is an overwhelming audience, sometimes including myself, that finds them gripping, and it is important to ask with childlike wonder, when weird stuff is going on in the world, "why?"

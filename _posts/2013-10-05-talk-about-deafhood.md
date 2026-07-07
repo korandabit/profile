@@ -31,31 +31,31 @@ Applying for psychology programs that examine language, it suddenly became very 
 
 Here are the answers to the all the popular questions.
 
-	- Deaf people can and do [drive](http://lifeprint.com/asl101/topics/driving_and_the_deaf.htm).
+- Deaf people can and do [drive](http://lifeprint.com/asl101/topics/driving_and_the_deaf.htm).
 
-	- American Sign Language is [not](http://clas.uiowa.edu/dwllc/asl/faq-about-american-sign-language#simple) a signed version of English.
+- American Sign Language is [not](http://clas.uiowa.edu/dwllc/asl/faq-about-american-sign-language#simple) a signed version of English.
 
-	- It's also not universal.
+- It's also not universal.
 
-	- My parents met at a technical school.
+- My parents met at a technical school.
 
-	- My kids probably won't be deaf, but it doesn't matter.
+- My kids probably won't be deaf, but it doesn't matter.
 
-	- I could yell and swear all I wanted in the house, but I didn't really feel like it.
+- I could yell and swear all I wanted in the house, but I didn't really feel like it.
 
-	- Yes, it was my word against my siblings (but when isn't it)?
+- Yes, it was my word against my siblings (but when isn't it)?
 
-	- Yes, they can hear too. And talk.
+- Yes, they can hear too. And talk.
 
-	- There are flashing lights for the doorbell and phone.
+- There are flashing lights for the doorbell and phone.
 
-	- The phone is useless unless someone knows how to use a [TTY](http://en.wikipedia.org/wiki/Telecommunications_device_for_the_deaf).
+- The phone is useless unless someone knows how to use a [TTY](http://en.wikipedia.org/wiki/Telecommunications_device_for_the_deaf).
 
-	- It's a typing phone for the deaf, but now there's text messaging.
+- It's a typing phone for the deaf, but now there's text messaging.
 
-	- Yes, on the same phones that you use for playing Angry Birds.
+- Yes, on the same phones that you use for playing Angry Birds.
 
-	- Some Deaf people have been known to play Angry Birds.
+- Some Deaf people have been known to play Angry Birds.
 
 ![A TTY/TDD text telephone device](/images/tdd_tty.jpg) 
 The phone cradles across the top and a dialog between two of these (sounding like a fax machine) would put words across the screen.
