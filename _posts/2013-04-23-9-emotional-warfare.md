@@ -99,4 +99,4 @@ What if they know? What if the Americans bomb tonight, or come storming in the h
 
 Anonymous spires twenty feet tall create a forest of waiting at the base of the mountain. We know the demon, and we're here to get rid of it.
 
-(/blog/2013/04/25/10-a-fog-of-war/)
+**Next:** [10. A Fog of War](/blog/2013/04/25/10-a-fog-of-war/).
