@@ -94,7 +94,3 @@ More minutes passed. Nothing seemed out of order though, and a strange sense of 
 Suddenly, perpendicular to my position on the 360, the helo's come in, giant metal angels relieving us of our danger. Like rounds belt fed through an automatic chamber, we pop out of the 360 position and funnel onto the open-tailed helo. In seconds we're back in the air.
 
 The field, the compound disappears behind us, beginning our acclimation back to an ordered world.
-
-**Next: **14. Everyday
-
-******Previous: **12.Grenades, cigarettes, or melons

@@ -1674,6 +1674,11 @@
       {
         "slug": "1-it-rained",
         "reason": "series-continuation"
+      },
+      {
+        "slug": "15-lead-me-home",
+        "reason": "series-finale",
+        "label": "last"
       }
     ],
     "read_before": [],
@@ -1756,6 +1761,11 @@
       {
         "slug": "2-unfinished-predeployment-sentiments",
         "reason": "series-continuation"
+      },
+      {
+        "slug": "15-lead-me-home",
+        "reason": "series-finale",
+        "label": "last"
       }
     ],
     "read_before": [],
@@ -1808,6 +1818,11 @@
       {
         "slug": "3-the-nights-after-the-rain",
         "reason": "series-continuation"
+      },
+      {
+        "slug": "15-lead-me-home",
+        "reason": "series-finale",
+        "label": "last"
       }
     ],
     "read_before": [],
@@ -1889,6 +1904,11 @@
       {
         "slug": "4-haircut-hysteria",
         "reason": "series-continuation"
+      },
+      {
+        "slug": "15-lead-me-home",
+        "reason": "series-finale",
+        "label": "last"
       }
     ],
     "read_before": [],
@@ -1970,6 +1990,11 @@
       {
         "slug": "5-webcam-starts-to-capture",
         "reason": "series-continuation"
+      },
+      {
+        "slug": "15-lead-me-home",
+        "reason": "series-finale",
+        "label": "last"
       }
     ],
     "read_before": [],
@@ -2051,6 +2076,11 @@
       {
         "slug": "6-battle-for-peace-and-quiet",
         "reason": "series-continuation"
+      },
+      {
+        "slug": "15-lead-me-home",
+        "reason": "series-finale",
+        "label": "last"
       }
     ],
     "read_before": [],
@@ -2133,6 +2163,11 @@
       {
         "slug": "7-a-christmas-special",
         "reason": "series-continuation"
+      },
+      {
+        "slug": "15-lead-me-home",
+        "reason": "series-finale",
+        "label": "last"
       }
     ],
     "read_before": [],
@@ -2215,6 +2250,11 @@
       {
         "slug": "8-the-sweeter-side-of-work",
         "reason": "series-continuation"
+      },
+      {
+        "slug": "15-lead-me-home",
+        "reason": "series-finale",
+        "label": "last"
       }
     ],
     "read_before": [],
@@ -2296,6 +2336,11 @@
       {
         "slug": "9-emotional-warfare",
         "reason": "series-continuation"
+      },
+      {
+        "slug": "15-lead-me-home",
+        "reason": "series-finale",
+        "label": "last"
       }
     ],
     "read_before": [],
@@ -2380,6 +2425,11 @@
       {
         "slug": "10-a-fog-of-war",
         "reason": "series-continuation"
+      },
+      {
+        "slug": "15-lead-me-home",
+        "reason": "series-finale",
+        "label": "last"
       }
     ],
     "read_before": [],
@@ -2462,6 +2512,11 @@
       {
         "slug": "11-the-superbowl-on-afn",
         "reason": "series-continuation"
+      },
+      {
+        "slug": "15-lead-me-home",
+        "reason": "series-finale",
+        "label": "last"
       }
     ],
     "read_before": [],
@@ -2544,6 +2599,11 @@
       {
         "slug": "12-grenades-cigarettes-or-melons",
         "reason": "series-continuation"
+      },
+      {
+        "slug": "15-lead-me-home",
+        "reason": "series-finale",
+        "label": "last"
       }
     ],
     "read_before": [],
@@ -2626,6 +2686,11 @@
       {
         "slug": "a-need-for-combat",
         "reason": "series-continuation"
+      },
+      {
+        "slug": "15-lead-me-home",
+        "reason": "series-finale",
+        "label": "last"
       }
     ],
     "read_before": [],
@@ -2706,7 +2771,8 @@
     "read_next": [
       {
         "slug": "15-lead-me-home",
-        "reason": "series-continuation"
+        "reason": "series-continuation",
+        "label": "last"
       }
     ],
     "read_before": [],
@@ -2870,6 +2936,11 @@
       {
         "slug": "14-everyday",
         "reason": "series-continuation"
+      },
+      {
+        "slug": "15-lead-me-home",
+        "reason": "series-finale",
+        "label": "last"
       }
     ],
     "read_before": [],

@@ -48,14 +48,14 @@ layout: default
         {% for next_post in page.analysis.read_next %}
             {% assign next_post_obj = site.posts | where: "slug", next_post.slug | first %}
             {% if next_post_obj %}
-                <a href="{{ next_post_obj.url | relative_url }}">{{ next_post_obj.title }}</a>{% unless forloop.last %}, {% endunless %}
+                <a href="{{ next_post_obj.url | relative_url }}">{{ next_post_obj.title }}</a>{% if next_post.label %} <em>({{ next_post.label }})</em>{% endif %}{% unless forloop.last %}, {% endunless %}
             {% endif %}
         {% endfor %}
     {% elsif post_data.read_next %}
         {% for next_post in post_data.read_next %}
             {% assign next_post_obj = site.posts | where: "slug", next_post.slug | first %}
             {% if next_post_obj %}
-                <a href="{{ next_post_obj.url | relative_url }}">{{ next_post_obj.title }}</a>{% unless forloop.last %}, {% endunless %}
+                <a href="{{ next_post_obj.url | relative_url }}">{{ next_post_obj.title }}</a>{% if next_post.label %} <em>({{ next_post.label }})</em>{% endif %}{% unless forloop.last %}, {% endunless %}
             {% endif %}
         {% endfor %}
     {% endif %}

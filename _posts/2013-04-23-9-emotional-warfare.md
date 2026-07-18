@@ -98,5 +98,3 @@ The Talib wraps himself tighter in a wool shawl. Outside dust splashes against t
 What if they know? What if the Americans bomb tonight, or come storming in the hours before Morning Prayer? He decides to smoke a little, to celebrate, to settle that awful pain, to let him sleep. He tries to forget the simplicity his life held before this. He praises God, a cry garbled and screeching from the demon in his stomach, lost in the blackness.
 
 Anonymous spires twenty feet tall create a forest of waiting at the base of the mountain. We know the demon, and we're here to get rid of it.
-
-**Next:** [10. A Fog of War](/blog/2013/04/25/10-a-fog-of-war/).

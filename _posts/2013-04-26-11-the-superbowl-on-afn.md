@@ -57,5 +57,3 @@ When the commercials came, AFN touched base with their audience in the one way t
 To be honest, we didn't start laughing and joking about the commercials until at least the fourth or fifth time they were repeated.
 
 Pizza Hut fighting is the war on terror by being the lone (chain) restaurant out here, but morale is a great asset to a war. For the masses, our spirits are marked by the driving entertainment back home. I stayed an hour and a half after a twelve hour shift a few weeks ago to watch the Vikings in the NFC championship overtime, probably just to be a part of the camaraderie.
-
-**Next:** [12. Grenades, Cigarettes, or Melons](/blog/2013/04/27/12-grenades-cigarettes-or-melons/).
