@@ -25,6 +25,28 @@ bundle exec jekyll build
 # GitHub Pages automatically builds on push to main branch
 ```
 
+### Image optimization for web
+Post images live in `images/`. Several WordPress-imported originals ship at full camera / full
+render resolution (multi-MB, up to 5000+px wide) against a content column that displays them far
+smaller — optimize before committing. Reproducible recipe (native Windows Python + Pillow), used
+to take `barnwide.jpg` from 7.56MB/4272px to 173KB/1600px (2026-07-17):
+
+```python
+from PIL import Image
+p = r'D:/code/markkorandacom/profile/images/NAME.jpg'   # Windows path — see gotcha below
+im = Image.open(p); w, h = im.size
+tw = 1600; th = round(h * tw / w)                        # 1600px = safe retina width for a banner
+im.resize((tw, th), Image.LANCZOS).save(p, 'JPEG', quality=82, optimize=True, progressive=True)
+```
+
+Originals stay recoverable via git history; overwrite in place. Outstanding bulk work: `MKC-010`.
+
+### Windows path gotcha (Bash tool ↔ native exes)
+The Bash tool's own builtins (`cd`, `ls`) accept MSYS-style `/d/code/...` paths, but any **native
+Windows executable** the shell launches (`python.exe`, ImageMagick, etc.) does **not** — pass it a
+Windows-style path `D:/code/...` or it fails with `FileNotFoundError` / "cannot find the path".
+Also prefer `git -C <path> ...` over `cd <path> && git ...` (a project hook advises against `cd`).
+
 ## Content Architecture
 ### Blog Structure (`blog.md`)
 - **Featured Themes**: 6 curated theme sections (post counts verified 2026-05-26 against `blog.md` lines 162-241):
