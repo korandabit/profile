@@ -1,6 +1,13 @@
-# i think therefore AI am  
-## Nerd Nite: Lightning Talks   
-*2024-08-14*
+# Nerd Nite: Lightning Talks   
+
+## *2026-08-11* "Two hands, One mouth"
+
+content incoming, or tell me "WHERE IS IT!??": korandamark@gmail.com
+
+
+
+# Previous  
+## *2024-08-14* "i think therefore AI am"
 
 ### [Slides Here](https://docs.google.com/presentation/d/1BEr0HzxCm12tw_wFo8Stq1o1TlAlq7RovUq8qd-Cg7w/edit?usp=sharing)
 
