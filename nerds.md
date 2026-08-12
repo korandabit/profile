@@ -2,10 +2,9 @@
 
 ## *2026-08-11* "Two hands, One mouth"
 
-Two Hands are Better Than One Mouth  
-- ([lightning talk slides](https://docs.google.com/presentation/d/1w3uC5RTW3eDYrbzaXbsxZCXvOXDiHtkrOkBq_lWrOtY/edit?usp=sharing))
+A five-minute presentation for Twin Cities Nerd Nite hosted at Black Hart bar in St. Paul ([lightning talk slides](https://docs.google.com/presentation/d/1w3uC5RTW3eDYrbzaXbsxZCXvOXDiHtkrOkBq_lWrOtY/edit?usp=sharing)). Okay so I skipped a few slides. Take your time. Please tell me what you think (korandamark via gmail)!
 
-Screenshots of signs were taken from [this CUT video](https://www.youtube.com/watch?v=pdOU3czs-NY).
+Screenshots of signs were taken from [this CUT video](https://www.youtube.com/watch?v=pdOU3czs-NY). No notes on the signers' participation here. I learned a lot from them. I *do* have to comment that I was uncomfortable by the off-camera interviewer barraging them with "how do you say (English phrase)", because it only answers how ASL can serve a HEARING lens. Still, we see some lovely glimpses toward the end of the video (and which I tried to highlight in the presentation).
 
 ### "Research Time!" 
 
