@@ -7,6 +7,11 @@ Two Hands are Better Than One Mouth
 
 Screenshots of signs were taken from [this CUT video](https://www.youtube.com/watch?v=pdOU3czs-NY).
 
+### "Research Time!" 
+
+Five minutes was not enough to unpack the complexity of when hands "show" what they mean, and when they do not. [Here is some experimental work](https://escholarship.org/uc/item/23k932nb) I did at UW-Madison with Maryellen MacDonald showing that visual scenes matched for a Subject and Object and differ only in the "Verb" of the scene, vary dramatically in whether intuitions will converge on the same depiction. Participants knew no sign language. 
+
+
 ### A CODA's perspective of Deaf Culture
 
 For nuance, warmth and surprising truths about Deaf Culture check out these essays/blog posts.
