@@ -2,11 +2,10 @@
 
 ## *2026-08-11* "Two hands, One mouth"
 
-Two Hands are Better Than One Mouth 
-[slides](https://docs.google.com/presentation/d/1w3uC5RTW3eDYrbzaXbsxZCXvOXDiHtkrOkBq_lWrOtY/edit?usp=sharing)
+Two Hands are Better Than One Mouth  
+- ([lightning talk slides](https://docs.google.com/presentation/d/1w3uC5RTW3eDYrbzaXbsxZCXvOXDiHtkrOkBq_lWrOtY/edit?usp=sharing))
 
-Screenshots of signs were taken from the video below.
-[Video of dirty ASL](https://www.youtube.com/watch?v=pdOU3czs-NY)
+Screenshots of signs were taken from [this CUT video](https://www.youtube.com/watch?v=pdOU3czs-NY).
 
 ### A CODA's perspective of Deaf Culture
 
