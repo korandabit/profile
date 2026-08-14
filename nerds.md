@@ -27,6 +27,7 @@ For nuance, warmth and surprising truths about Deaf Culture check out these essa
 
 # Previous Nerd Nights
 ## *2026-02*, "How to be friends with Artists"
+Live presentation: [Video](https://youtu.be/y2Nq_iEottQ)
 The surprising psychology of art made via sound vs. any other art. Sound, and popular songwriting especially, transact in emotion in unique ways, which require unique skills for managing your friends' (or your own) feelings hobby. Email me for details/slides/references.
 
 ## *2025-12*, Minneapolis "Pac-Man: A self-help guide for life"
