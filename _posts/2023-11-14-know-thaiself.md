@@ -82,7 +82,7 @@ And if you ever want Chappy to elaborate with a longer reply in a specific conve
 
 ### Is that the best I've got?
 
-![Steam punk Frankenstein Chappy with a CHAPPY TV panel](/images/chappyTV-robot.png)
+![Steam punk Frankenstein Chappy with a CHAPPY TV panel](/images/chappyTV-robot.jpg)
 *Steam punk Frankenstein Chappy. Art created with DALL-E.*
 
 Chappy's most powerful ability is to explore related dimensions of an idea. Like an entire premium cable subscription, of personally customized, on-demand programming. If you can name the channel and it's exact description, you can pretty much have it. Now, you no longer need a good cooking show on X, you want the 10 best compliments to what you specifically ate this week. 
@@ -137,7 +137,7 @@ This technique has endlessly creative variations. The basic idea is something li
 
 ### Through the Monster's Eyes
 
-![Frankenstein's monster facing a circuit-board city under a starry night sky](/images/monster.png)
+![Frankenstein's monster facing a circuit-board city under a starry night sky](/images/monster.jpg)
 *Through the monster's eyes. Art created with DALL-E.*
 
 

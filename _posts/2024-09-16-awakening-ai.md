@@ -30,7 +30,7 @@ analysis:
 ## Awakening the AI: From Cognitive Frankenstein to Self-Directing Intelligence
 [Click here](/docs/ai-awakening-white-paper.md) for the "white paper" draft.
 
-![](/images/monster.png)
+![Frankenstein's monster facing a circuit-board city under a starry night sky](/images/monster.jpg)
 
 Critics often dismiss current AI as merely "fixed-state algorithms"[^1]—complex but fundamentally limited. However, a more apt metaphor is that of a cognitive Frankenstein[^2]—a patchwork of language and information awaiting its spark of consciousness. This framing illuminates the path from today's AI to truly self-directing intelligence[^3].
 
