@@ -13,6 +13,13 @@ Scans all blog posts for potential issues:
 
 **Reports:** See [`docs/maintenance/`](../docs/maintenance/) for scan results and fix summaries.
 
+### check_internal_links.py
+Source-level stand-in for the CI `Check Links` job (htmlproofer, internal links) — resolves every
+scheme-less link/`src` in posts and pages against what Jekyll would serve, and flags protocol-relative
+URLs. No Jekyll install needed. Exit 1 on any failure; run before pushing.
+
+**Usage:** `python tools/check_internal_links.py [site_root]`
+
 ---
 
 ## wordpress-to-md.py conversion

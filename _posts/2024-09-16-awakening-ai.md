@@ -28,7 +28,7 @@ analysis:
 ---
 
 ## Awakening the AI: From Cognitive Frankenstein to Self-Directing Intelligence
-[Click here](/docs/ai-awakening-white-paper.md) for the "white paper" draft.
+[Click here](https://github.com/korandabit/profile/blob/master/docs/ai-awakening-white-paper.md) for the "white paper" draft.
 
 ![Frankenstein's monster facing a circuit-board city under a starry night sky](/images/monster.jpg)
 

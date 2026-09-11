@@ -8,7 +8,7 @@ layout: default
 Meditations outside the box (AI, society) for human well-being (self and other).
 
 ## Tech  
-I specialize in designing human-AI interface (prompt engineering). I have 2 years industry experience in software design and consulting, and more than 10 years as a cognitive psychologist. Currently open to human-first AI projects, for consultation. Previously a Software Design Engineer at [Edge RnD](edgernd.com).
+I specialize in designing human-AI interface (prompt engineering). I have 2 years industry experience in software design and consulting, and more than 10 years as a cognitive psychologist. Currently open to human-first AI projects, for consultation. Previously a Software Design Engineer at [Edge RnD](https://edgernd.com).
 
 [My resume (PDF)](/assets/resume-mark_koranda.pdf)
 
