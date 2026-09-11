@@ -23,7 +23,7 @@ for p in glob.glob(R + '/_posts/*.md'):
 served |= {'', '/blog', '/feed.xml', '/assets/css/style.css', '/assets/js/scale.fix.js'}
 
 bad = []
-pages = glob.glob(R + '/_posts/*.md') + glob.glob(R + '/*.md') + glob.glob(R + '/*.html') + [R + '/photos/index.html']
+pages = glob.glob(R + '/_posts/*.md') + glob.glob(R + '/*.md') + glob.glob(R + '/*.html') + glob.glob(R + '/photos/*.html')
 for f in pages:
     if os.path.relpath(f, R).replace('\\', '/') in EXCLUDED:
         continue
