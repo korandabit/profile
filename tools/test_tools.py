@@ -84,9 +84,13 @@ check('untracked private file ignored (only the index is published)', 'guard: ok
 root = base_repo()
 write(root, 'tools/check_public_tree.py', open(GUARD, encoding='utf-8').read())
 write(root, '.githooks/pre-commit', open(os.path.join(REPO, '.githooks', 'pre-commit'), encoding='utf-8').read())
+os.chmod(os.path.join(root, '.githooks', 'pre-commit'), 0o755)  # Linux git silently skips non-executable hooks
 git(root, 'add', '.')
 git(root, 'config', 'core.hooksPath', '.githooks')
-check('hook allows a clean commit', git(root, 'commit', '-q', '-m', 'clean').returncode == 0)
+r = git(root, 'commit', '-m', 'clean')
+check('hook runs and allows a clean commit', r.returncode == 0 and 'guard: ok' in r.stdout + r.stderr)
+mode = git(REPO, 'ls-files', '-s', '.githooks/pre-commit').stdout.split(' ')[0]
+check('real hook is committed executable (100755)', mode == '100755')
 write(root, 'backlog-tickets/MKC-1.md', CATALOG)
 git(root, 'add', 'backlog-tickets/MKC-1.md')
 r = git(root, 'commit', '-q', '-m', 'leak')
