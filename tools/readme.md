@@ -11,8 +11,6 @@ Scans all blog posts for potential issues:
 
 **Usage:** `python3 tools/scan_blog_posts.py`
 
-**Reports:** See [`docs/maintenance/`](../docs/maintenance/) for scan results and fix summaries.
-
 ### check_internal_links.py
 Source-level stand-in for the CI `Check Links` job (htmlproofer, internal links) — resolves every
 scheme-less link/`src` in posts and pages against what Jekyll would serve, and flags protocol-relative

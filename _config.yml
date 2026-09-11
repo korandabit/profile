@@ -10,6 +10,11 @@ markdown: kramdown
 kramdown:
   input: GFM
   syntax_highlighter: rouge
+# Repo files that are public on GitHub but not pages of the site.
+# (Private working state never enters this repo at all -- see CLAUDE.md "Public / private".)
 exclude:
-  - _analysis
   - docs
+  - tools
+  - CLAUDE.md
+  - README.md
+  - ledger.db

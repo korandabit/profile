@@ -1,0 +1,8 @@
+# This repo is public. Private working state lives in the container repo one level up
+# (D:/code/markkorandacom/). These entries stop an accidental `git add`; the real guard is
+# tools/check_public_tree.py (pre-commit hook + CI).
+backlog-tickets/
+_analysis/
+.claude/
+*.db
+_site/

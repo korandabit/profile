@@ -1,0 +1,5 @@
+#!/bin/sh
+# Block commits that would publish private working state (this repo is public).
+# Enable per clone: git config core.hooksPath .githooks   (CI re-checks on every push regardless)
+root=$(git rev-parse --show-toplevel)
+exec python "$root/tools/check_public_tree.py" "$root"

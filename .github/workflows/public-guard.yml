@@ -1,0 +1,22 @@
+name: Public Guard
+
+# This repo is public and is the live site; private working state lives in a separate private repo.
+# Backstop for clones without the .githooks/pre-commit hook enabled (other machines, web sessions).
+on:
+  push:
+    branches: [master]
+  pull_request:
+    branches: [master]
+
+jobs:
+  guard:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: No private working state in the public tree
+        run: python tools/check_public_tree.py
+      - name: Tool tests
+        run: python tools/test_tools.py

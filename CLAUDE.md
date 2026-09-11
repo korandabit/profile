@@ -1,66 +1,38 @@
-# CLAUDE.md
+# CLAUDE.md — markkoranda.com site source
 
-This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository. (Parent directory has no CLAUDE.md — the project root *is* `profile/`; the parent `D:/code/markkorandacom/` is just a container.)
+Guidance for Claude Code in this repo. **This repo is PUBLIC** (github.com/korandabit/profile) and
+every push to `master` deploys markkoranda.com via GitHub Pages. Everything here is site source.
 
-## Project Overview
-This is a Jekyll-based personal website/blog for Mark Koranda (markkoranda.com), hosted on GitHub Pages. The site features academic and personal writing on AI, psychology, communication, language science, deaf culture, and military experience.
+## Public / private — the rule
 
-## Site Structure
-- **Main site root**: `profile/` directory contains all Jekyll files
-- **Content**: Blog posts in `_posts/` with YAML frontmatter and Markdown content
-- **Layouts**: `_layouts/default.html` and `_layouts/post.html` for page templates  
-- **Theme**: Uses `jekyll-theme-minimal` with custom CSS overrides
-- **Navigation**: `index.md` (homepage), `blog.md` (curated theme-based blog), `nerds.md` (academic focus)
+- **Nothing private is ever committed here** — no backlog tickets, analysis/session notes, agent
+  notes, drafts, revision notes, local-machine paths. Private working state lives in the private
+  container repo one level up: `D:/code/markkorandacom/` (github.com/korandabit/markkorandacom).
+  Its `CLAUDE.md` holds the project protocol, backlog and history; Claude Code loads it as a parent.
+- **If that container repo is not present** (e.g. a fresh clone or web session), do not recreate
+  working notes in this repo — put findings in the PR description / reply instead.
+- Enforced by `tools/check_public_tree.py`: top-level default-deny allowlist + private-path and
+  private-content checks. It runs from `.githooks/pre-commit` (enable per clone:
+  `git config core.hooksPath .githooks`) and in CI (`.github/workflows/public-guard.yml`).
+  A new top-level page (e.g. `talks.md`) fails the guard until it is added to `PUBLIC_TOP` there —
+  that is the intended "decide it's public" step.
+- Two separate axes: `_config.yml` `exclude` keeps a *public* repo file off the *site*
+  (`docs/`, `tools/`, this file). It does not make anything private.
 
-## Development Commands
-Since this is a Jekyll site, common development tasks include:
+## Site structure
 
-```bash
-# Serve locally (if Jekyll installed)
-bundle exec jekyll serve
+- Jekyll on GitHub Pages, `jekyll-theme-minimal` + `assets/css/style.scss` overrides.
+- Pages: `index.md` (home), `blog.md` (curated themes + all posts; carries its own CSS), `nerds.md`
+  (talks). GitHub Pages renders front-matter-less `.md` too.
+- Posts: `_posts/YYYY-MM-DD-slug.md`, permalinks `/blog/:year/:month/:day/:title/`.
+- Layouts: `_layouts/default.html`, `_layouts/post.html` — the post layout reads
+  `_data/post_analysis.json` (reading time, structure, read-next) and per-post `analysis:` front
+  matter. Both are public site data.
+- `photos/` — standalone Lightroom-export gallery (`photos/index.html`).
+- `docs/` — white papers, not web-served; link them via their GitHub URL
+  (`https://github.com/korandabit/profile/blob/master/docs/...`), never `/docs/...`.
 
-# Build site
-bundle exec jekyll build
-
-# GitHub Pages automatically builds on push to main branch
-```
-
-### Image optimization for web
-Post images live in `images/`. Several WordPress-imported originals ship at full camera / full
-render resolution (multi-MB, up to 5000+px wide) against a content column that displays them far
-smaller — optimize before committing. Reproducible recipe (native Windows Python + Pillow), used
-to take `barnwide.jpg` from 7.56MB/4272px to 173KB/1600px (2026-07-17):
-
-```python
-from PIL import Image
-p = r'D:/code/markkorandacom/profile/images/NAME.jpg'   # Windows path — see gotcha below
-im = Image.open(p); w, h = im.size
-tw = 1600; th = round(h * tw / w)                        # 1600px = safe retina width for a banner
-im.resize((tw, th), Image.LANCZOS).save(p, 'JPEG', quality=82, optimize=True, progressive=True)
-```
-
-Originals stay recoverable via git history; overwrite in place. Outstanding bulk work: `MKC-010`.
-
-### Windows path gotcha (Bash tool ↔ native exes)
-The Bash tool's own builtins (`cd`, `ls`) accept MSYS-style `/d/code/...` paths, but any **native
-Windows executable** the shell launches (`python.exe`, ImageMagick, etc.) does **not** — pass it a
-Windows-style path `D:/code/...` or it fails with `FileNotFoundError` / "cannot find the path".
-Also prefer `git -C <path> ...` over `cd <path> && git ...` (a project hook advises against `cd`).
-
-## Content Architecture
-### Blog Structure (`blog.md`)
-- **Featured Themes**: 6 curated theme sections (post counts verified 2026-05-26 against `blog.md` lines 162-241):
-  - Discovering AI Chatbots (6 posts)
-  - Communication (4 posts)
-  - Language Science (3 posts)
-  - Cognitive Growth (3 posts)
-  - Deaf Culture (9 posts; expanded 2026 per commit `b16afb2`)
-  - Military (2 retrospective posts + 9 in "Afghanistan 2013: Real-Time Deployment" sub-section = 11 total)
-- **Adjacent collection** (not a theme box; in a `<details>` element after Military): "Dear_" letter series — 3 posts forming a Human→Love / Human→AI / AI→Human triptych.
-- **All Posts**: Chronological listing with date and tags
-
-### Post Format
-Blog posts use YAML frontmatter with required fields:
+Post front matter:
 ```yaml
 ---
 author: Mark Koranda
@@ -68,61 +40,33 @@ categories: [category1, category2]
 date: 'YYYY-MM-DD HH:MM:SS'
 excerpt: Brief description for previews
 layout: post
-tags: [tag1, tag2, tag3]
+tags: [tag1, tag2]
 title: Post Title
 ---
 ```
 
-## Key Configuration
-- **_config.yml**: Jekyll configuration with minimal theme, kramdown markdown, rouge syntax highlighting
-- **Permalinks**: `/blog/:year/:month/:day/:title/` format
-- **Plugins**: jekyll-feed for RSS
+## Checks (run before pushing — there is no local Jekyll build)
 
-## Custom Styling
-- `blog.md` contains extensive CSS overrides to disable floating sidebar layout
-- Responsive theme boxes for featured content sections
-- Mobile-first responsive design for theme containers
+```bash
+python tools/check_public_tree.py      # nothing private in the index
+python tools/check_internal_links.py   # source-level stand-in for the CI htmlproofer job
+python tools/test_tools.py             # behavioral tests for both
+```
 
-## Content Strategy
-Based on BLOG_PROJECT_ASSESSMENT.md, the site emphasizes:
-- Quality curation over quantity (200-word assessment method)
-- Interdisciplinary expertise showcase (Military → Academia → Tech → AI)
-- AI content as flagship theme reflecting recent focus
-- Academic credibility through Language Science theme
+CI: `Check Links` (htmlproofer, internal links) and `Public Guard` run on every push to `master`.
 
-## File Locations
-- Configuration: `profile/_config.yml`
-- Layouts: `profile/_layouts/`
-- Posts: `profile/_posts/` (date-prefixed .md files)
-- Assets: `profile/images/`, `profile/assets/css/`
-- Pages: `profile/index.md`, `profile/blog.md`, `profile/nerds.md`
+## Image optimization
 
-## Theory Analysis Protocol (2025-08-16)
-**Source**: Compression synthesis session across 128 claims from 48+ theory files
+Several WordPress-imported originals shipped at full camera resolution. Optimize before committing
+(native Windows Python + Pillow; pass `D:/...` style paths to native exes, not `/d/...`):
 
-### Epistemic Requirements
-- **Evidence format**: e-empirical data, i-interpretive analysis, data-quantitative measures
-- **Attribution**: Single global notice, avoid repetitive "author claims"  
-- **Sources**: Cite actual files, not meta-analyses or frequency analyses
-- **Speculation**: Preserve uncertainty markers, distinguish proposals from facts
-- **Instances**: Keep single events single, don't aggregate across sources
+```python
+from PIL import Image
+p = r'D:/code/markkorandacom/profile/images/NAME.jpg'
+im = Image.open(p); w, h = im.size
+tw = 1600; th = round(h * tw / w)
+im.resize((tw, th), Image.LANCZOS).save(p, 'JPEG', quality=82, optimize=True, progressive=True)
+```
 
-### Citation Standards  
-- **Valid**: Specific filenames with .txt/.md/.Rmd extensions
-- **Invalid**: "terminology analysis", "frequency analysis", meta-analysis files
-- **Evidence**: What the text contains, not quotes or interpretive summaries
-- **Verification**: All empirical claims require source file validation
-
-### Quality Indicators
-- **Good**: "proposes X framework" with file citation and specific evidence  
-- **Bad**: "X framework enables optimization" without source or empirical backing
-- **Best**: e-specific data points, i-theoretical connections, minimal copula usage
-
-## Historical moves
-
-| Date | What | Where it went | Manifest |
-|---|---|---|---|
-| 2026-07-05 | essay_linter's v1 structural reading-notes on 5 published essays (e1–e5), parked in a now-retired project `inbox/` (ADR-0013; original artifact no longer exists) | `profile/_analysis/essay-reading-notes.md`, reconstructed from the still-live upstream source (`essay_linter/bench/parse-derivation/derivation-notes.txt`, `derivation.md`, `PARSE_SPEC.md`) | MKC-001 (`../backlog-tickets/MKC-001-durable-home-essay-reading-notes.md`) is the sole record; no separate manifest file |
-
-## Session Start
-- Read the backlog: `../backlog-tickets/` (one `# CATALOG:`-blocked .md per ticket; the project's standardized queue). The dir sits at the container root `D:/code/markkorandacom/`, alongside `inbox/`. Scan `inbox/` for new work-asks; durable queue lives in `backlog-tickets/`.
+Check EXIF orientation first and keep `icc_profile`; an opaque PNG can become a JPEG (update refs).
+Target: no in-use image over ~400KB without a reason. Originals stay in git history.
