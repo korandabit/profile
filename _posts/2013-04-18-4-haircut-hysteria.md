@@ -25,7 +25,8 @@ analysis:
 
 
 
-**Dec. ? (Entry 8)**
+### Dec. ? (Entry 8)
+
 Small puddles spread out. The flat hard land we're staked down on is a breeding ground for mud. If it rains a centimeter, Camp Leatherneck is suddenly the land of four billion ponds. It took a full night of wispy drizzle, but the sky managed to donate about an inch. Now when the clouds clear up, the water just walks right back to the sky. The Afghan atmosphere has a comprehensive recall.
 
 It also leaves the face and lips and this is why chap stick is my candy of choice. Chapstick. It's the third box down, with the hand sanitizers. You know, surplus goods. As well stocked as that shelf is, there's nothing in there to keep my hair within standards. It's about time to clean-up the scruff on my head. One of the sacraments of the Marine Corps, even (or especially) deployed, is the getting of a fresh, regular, haircut.

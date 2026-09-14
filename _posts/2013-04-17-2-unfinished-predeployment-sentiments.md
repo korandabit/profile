@@ -18,7 +18,7 @@ analysis:
 
 
 
-**Nov. 20th, 2009 (Entry 4)**
+### Nov. 20th, 2009 (Entry 4)
 
 A year ago I was on my way to Iraq, but never went out the door. Two weeks before we were to depart they realized we were unneeded for the deployment. Let it be known that the public's voice was heard about keeping troops home, but the four of us still wanted to go. Those two weeks passed, and I humbly accepted my *second* cancelled deployment, before they presented me with a five month training opportunity in Washington.
 

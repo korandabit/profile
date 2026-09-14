@@ -27,7 +27,7 @@ analysis:
 
 
 
-**Sat. Dec 12th**
+### Sat. Dec 12th
 
 Contrary to the stigma of signing your life over to the military for  years, especially once you're granted BAH (permission and a stipend to live outside the barracks), service members still have a lot of freedom in their life.
 
@@ -43,7 +43,7 @@ People get in a lot of trouble with themselves when they can't let go of the thi
 
 It's my problem now. Suddenly I realize I'm emotionally okay with a good cry. It's good to let go of control, after trying to manage so much. But it doesn't come. I control it. Did I pass?
 
-**Sun. Dec 13th**
+### Sun. Dec 13th
 
 At work I send an email to my parents: "Stay logged on Skype for an hour, and if you don't hear from me, I'm sorry." We're gonna try this the hard way.
 
