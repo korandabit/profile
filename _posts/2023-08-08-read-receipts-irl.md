@@ -25,7 +25,7 @@ analysis:
   read_next:
     - slug: the-agreement-between-reader-and-writer
       reason: conceptual-foundation
-    - slug: not-the-point
+    - slug: 2-not-the-point
       reason: similar-framework
 ---
 

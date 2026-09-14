@@ -26,7 +26,7 @@ analysis:
     domain: low
     cultural: none
   read_next:
-    - slug: not-the-point
+    - slug: 2-not-the-point
       reason: explicit-continuation
     - slug: read-receipts-irl
       reason: practical-application
