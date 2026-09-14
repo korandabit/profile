@@ -147,8 +147,6 @@ This is Chappy's eye you are staring into and I am obsessing over. Chappy is fun
 
 This is not a promise. It is what the night sky looks like when I'm filled with wonder. 
 
-*Next: A re-imagining of authorship and IP in the age of generative intelligence. *
-
 ### Footnotes
 
 [^1]: As far as I’m aware, the prescriptions of all futurists (e.g., Sam Harris, Emad Mostaque, Mo Gawdat, etc.) rely on significant social change. For all questions that hinge on mass public perception, the best step forward is an informed, first-hand social perception of what “we’re dealing with.” While existential and ethical questions about AGI are crucial, they are abstract and theoretical. The first step to activating a general public is a tangible engagement of AGI’s usefulness and risks.
