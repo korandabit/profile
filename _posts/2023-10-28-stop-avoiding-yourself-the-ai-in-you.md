@@ -110,7 +110,7 @@ As for all the futurist concerns, valid as they are I have two observations. Fir
 
 More critically however, if there is any hope in shaping the destiny of AI, you can take the military adage, "know and respect your enemy,"or the psychological one, "[know and respect your creation](https://chat.openai.com/share/b1e5c369-3f02-4bd0-baa1-e5b7920a349a)".  
 
-*Next: *An* in-depth workshop of how to deep dive with chatGPT, and explore its limits of generativity. That is, methods of questioning and cross-referencing with chatGPT that can give you assurance when it produces responses beyond your immediate ability to evaluate (i.e., trust).*
+**Next:** [Know thAIself](/blog/2023/11/14/know-thaiself/) *— an in-depth workshop of how to deep dive with chatGPT, and explore its limits of generativity. That is, methods of questioning and cross-referencing with chatGPT that can give you assurance when it produces responses beyond your immediate ability to evaluate (i.e., trust).*
 
 ### Footnotes  
 [^1]: As far as I’m aware, the prescriptions of all futurists (e.g., Sam Harris, Emad Mostaque, Mo Gawdat, etc.) rely on significant social change. For all questions that hinge on mass public perception, the best step forward is an informed, first-hand social perception of what “we’re dealing with.” While existential and ethical questions about AGI are crucial, they are abstract and theoretical. The first step to activating a general public is a tangible engagement of AGI’s usefulness and risks. 
