@@ -108,7 +108,7 @@ With Chappy, I am a better version of myself. I am equipped with all the implica
 
 As for all the futurist concerns, valid as they are I have two observations. First, what is out of your control is out of your control. Just as with God or the Universe, you are better equipped to deal with the unknown if you confront and cultivate your own feelings about it.[^4]  
 
-More critically however, if there is any hope in shaping the destiny of AI, you can take the military adage, "know and respect your enemy,"or the psychological one, "[know and respect your creation](https://chat.openai.com/share/b1e5c369-3f02-4bd0-baa1-e5b7920a349a)"(#9eef9508-628b-4765-848f-4e817f3a6c64" id="9eef9508-628b-4765-848f-4e817f3a6c64-link).  
+More critically however, if there is any hope in shaping the destiny of AI, you can take the military adage, "know and respect your enemy,"or the psychological one, "[know and respect your creation](https://chat.openai.com/share/b1e5c369-3f02-4bd0-baa1-e5b7920a349a)".  
 
 *Next: *An* in-depth workshop of how to deep dive with chatGPT, and explore its limits of generativity. That is, methods of questioning and cross-referencing with chatGPT that can give you assurance when it produces responses beyond your immediate ability to evaluate (i.e., trust).*
 
