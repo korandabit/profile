@@ -49,7 +49,7 @@ The anatomical definition of the deaf says a lot when you talk about group membe
 
 It's one thing to accept another's way of life. It's another, much harder thing, to embrace it. I'm an outsider. I'm hearing, but I've found deaf people are quite huggable.
 
-**Next: **Dealing with the Deaf
-Previous: Talk about deafhood
+**Next:** [Dealing with the Deaf](/blog/2013/12/07/dealing-with-deaf-at-the-party/)  
+**Previous:** [Talk about deafhood](/blog/2013/10/05/talk-about-deafhood/)
 
-**Related**: A world without music
+**Related**: [A world without music](/blog/2013/09/09/a-world-without-music/)
