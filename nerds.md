@@ -1,6 +1,14 @@
 # Nerd Nite Talks   
 
-[](/images/NerdNite.jpg)
+[](images/NerdNite.jpg)
+
+
+## *2026-09-22* "Two hands, One mouth"
+
+[Sign up or leave comments here](https://docs.google.com/forms/d/e/1FAIpQLSd9zUoXmwtLIQ2yhx-vFr6RKSnMa96ktQUTQStGYBqJPB7d4A/viewform?usp=publish-editor)
+
+Same as below, but better.
+
 
 ## *2026-08-11* "Two hands, One mouth"
 
