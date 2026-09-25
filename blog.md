@@ -94,6 +94,7 @@ Meditations outside the box — AI, society, and human well-being (self and othe
 <div class="paths">
     <div class="path">
         <h3>AI Chatbots</h3>
+        <p>For millions who've never had anyone to talk to, chatbots aren't replacing therapy—they're creating conversation where silence existed.</p>
         <ol>
             <li><a href="{% post_url 2023-10-28-stop-avoiding-yourself-the-ai-in-you %}">Stop Avoiding Yourself</a> <span class="meta">5min, framework</span></li>
             <li><a href="{% post_url 2025-11-12-bot-therapy %}">Bot Therapy</a> <span class="meta">5min, how-to</span></li>
@@ -104,6 +105,7 @@ Meditations outside the box — AI, society, and human well-being (self and othe
 
     <div class="path">
         <h3>Communication</h3>
+        <p>Dialog is two people saying words. The Point of dialog is an agreed-upon shared result. That said, many dialogs lose the Point because of Tangents.</p>
         <ol>
             <li><a href="{% post_url 2022-04-18-the-agreement-between-reader-and-writer %}">Reader and Writer</a> <span class="meta">2min</span></li>
             <li><a href="{% post_url 2022-11-20-2-not-the-point %}">Not the Point</a> <span class="meta">2min</span></li>
@@ -113,6 +115,7 @@ Meditations outside the box — AI, society, and human well-being (self and othe
 
     <div class="path">
         <h3>Cognitive Growth</h3>
+        <p>Self-help for people who are obsessed with analytical lifehacking.</p>
         <ol>
             <li><a href="{% post_url 2024-07-16-all-the-right-words-youve-said-or-read %}">All the Right Words</a> <span class="meta">3min</span></li>
             <li><a href="{% post_url 2020-10-26-bet-your-life %}">Bet Your Life</a> <span class="meta">5min</span></li>
@@ -122,6 +125,7 @@ Meditations outside the box — AI, society, and human well-being (self and othe
 
     <div class="path">
         <h3>Deaf Culture</h3>
+        <p>Exploring the unique perspective of growing up as a child of Deaf adults (CODA) in two worlds.</p>
         <ol>
             <li><a href="{% post_url 2013-10-26-the-definition-of-deaf %}">Definition of Deaf</a> <span class="meta">4min</span></li>
             <li><a href="{% post_url 2014-10-10-language-with-a-bionic-ear %}">Bionic Ear</a> <span class="meta">5min, technical</span></li>
@@ -142,6 +146,12 @@ Meditations outside the box — AI, society, and human well-being (self and othe
     margin: 0 0 8px 0;
     font-size: 1em;
     font-weight: 600;
+}
+.path p {
+    margin: 0 0 8px 0;
+    font-size: 0.85em;
+    color: #555;
+    line-height: 1.35;
 }
 .path ol {
     margin: 0;
