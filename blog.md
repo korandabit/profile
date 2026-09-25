@@ -87,7 +87,7 @@ footer {
 
 # My Blog
 
-Welcome to my blog, where I explore various ideas and topics. Below you'll find curated reading lists on key themes, followed by a chronological list of all my posts.
+Meditations outside the box — AI, society, and human well-being (self and other). Start with a themed reading path below, dig into the featured highlights, or browse everything in the full archive.
 
 ## Reading Paths
 
