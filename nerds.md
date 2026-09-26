@@ -36,21 +36,46 @@ For nuance, warmth and surprising truths about Deaf Culture check out these essa
 - [Deafhood Unheard](https://markkoranda.com/blog/2014/10/04/deafhood-unheard/)
 
 # Previous Nerd Nights
-## *2026-02*, "How to be friends with Artists"
-Live presentation: [Video](https://youtu.be/y2Nq_iEottQ)
-The surprising psychology of art made via sound vs. any other art. Sound, and popular songwriting especially, transact in emotion in unique ways, which require unique skills for managing your friends' (or your own) feelings hobby. Email me for details/slides/references.
 
-## *2025-12*, Minneapolis "Pac-Man: A self-help guide for life"
-A light hearted tour of what Pac-Man gameplay can teach us about staying present, planning for goals, and partying with (or eating) your enemies. Email me for details/slides.
+<div class="talks-container">
+    <div class="talk-box">
+        <h3><em>2026-02</em>, "How to be friends with Artists"</h3>
+        <p>Live presentation: <a href="https://youtu.be/y2Nq_iEottQ">Video</a></p>
+        <p>The surprising psychology of art made via sound vs. any other art. Sound, and popular songwriting especially, transact in emotion in unique ways, which require unique skills for managing your friends' (or your own) feelings hobby. Email me for details/slides/references.</p>
+    </div>
+    <div class="talk-box">
+        <h3><em>2025-12</em>, Minneapolis "Pac-Man: A self-help guide for life"</h3>
+        <p>A light hearted tour of what Pac-Man gameplay can teach us about staying present, planning for goals, and partying with (or eating) your enemies. Email me for details/slides.</p>
+    </div>
+    <div class="talk-box">
+        <h3><em>2024-08-14</em> "i think therefore AI am"</h3>
+        <p>This was also a lightning talk, and I'm embarrassed to say I ran out of time!</p>
+        <p><a href="https://docs.google.com/presentation/d/1BEr0HzxCm12tw_wFo8Stq1o1TlAlq7RovUq8qd-Cg7w/edit?usp=sharing">Slides Here</a></p>
+        <p><a href="https://www.youtube.com/watch?v=_YfjMZ6n8Bk">G.I. Joe P.S.A. "I'm a computer"</a><br>
+        <a href="https://thoughtrepair.wordpress.com/2023/11/14/know-thaiself/">"Know thAIself"</a></p>
+    </div>
+</div>
 
-## *2024-08-14* "i think therefore AI am"
-This was also a lightning talk, and I'm embarrassed to say I ran out of time!
-
-### [Slides Here](https://docs.google.com/presentation/d/1BEr0HzxCm12tw_wFo8Stq1o1TlAlq7RovUq8qd-Cg7w/edit?usp=sharing)
-
-### Links  
-
-[G.I. Joe P.S.A. "I'm a computer"](https://www.youtube.com/watch?v=_YfjMZ6n8Bk)
-
-["Know thAIself"](https://thoughtrepair.wordpress.com/2023/11/14/know-thaiself/)
+<style>
+.talks-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    gap: 20px;
+    margin: 15px 0 30px 0;
+}
+.talk-box {
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    box-sizing: border-box;
+}
+.talk-box h3 {
+    margin-top: 0;
+    font-size: 1.05em;
+}
+.talk-box p {
+    margin: 8px 0;
+}
+</style>
 
